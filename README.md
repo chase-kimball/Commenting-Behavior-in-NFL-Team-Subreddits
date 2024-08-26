@@ -14,31 +14,27 @@ Comments were first broken down using the Natural Language Processing Tool-Kit (
 
 I first looked at how overall comment volume and sentiment varied across each of the 32 NFL team subreddits. To do this, I distinguished between incoming volume/sentiment (comments in a team subreddit from fans of other teams), outgoing volume/sentiment (comments made by fans of a team in other team subreddits), and internal volume/sentiment (comments made by fans of a team in their own subreddit).
 
-**Figure 1:** Ratio of outgoing vs. incoming comment volume for each team subreddit. Members of subreddits that rank above the red line engage with other NFL subreddits more than members of those subreddits do with their subreddit.
+**Figure 1:** Sentiment of comments left in other teams' subreddits relative to the internal community sentiment. Members of subreddits to the left tend to comment with more negative sentiment in other teams' subreddits than they do their own, and members of subreddits to the right speak more positively in other teams' subreddits.
 
-<img src="plots/outinL.png" width=500>
+<img src="plots/outminusself.png" width="400">
 
-**Figure 2:** Sentiment of comments left in other teams' subreddits relative to the internal community sentiment. Members of subreddits to the left tend to comment with more negative sentiment in other teams' subreddits than they do their own, and members of subreddits to the right speak more positively in other teams' subreddits.
-
-<img src="plots/outminusself.png" width="500">
-
-**Figure 3:**
+**Figure 2:**
 Sentiment of comments made in a given team subreddit by members of other team subreddits, relative to the internal community sentiment in the original subreddit. The external community tends to speak with more negative sentiment in subreddits to the left than members of those subreddits, and vice-versa for subreddits on the right.
 
-<img src="plots/inminusself.png" width="500">
+<img src="plots/inminusself.png" width="400">
 
 ## Evolution of comment network throughout the season
 
 Next, I constructed directed, weighted graphs using the graph-tools package to visualize how comment volume and sentiment was redistributed throughout the season. Below, I graph the behavior of users in subreddits for teams in the NFC East, and the subset of NFC teams that made the playoffs, across the 2022 off-season, 2022/2023 regular season, and 2022/2023 playoffs. In general, as we move from the off-season to the regular season to the postseason, incoming normalized volume increases and sentiment intensifies amongst teams that make the playoffs. 
 
-**Figure 4:**
+**Figure 3:**
 Directed graph of subreddits corresponding to NFC East teams across the off-season, regular season, and playoffs over 2022/2023. Edge thicknesses are weighted by the outgoing normalized volume and colored by the outgoing average sentiment. The Eagles (PHI), Giants (NYG), and Cowboys (DAL) made the playoffs. The Commanders (WAS) did not.
-<img src="plots/combinedNFCEast.png" width="500">
+<img src="plots/combinedNFCEast.png" width="750">
 
-**Figure 5:**
+**Figure 4:**
 Directed graph of subreddits corresponding to NFC teams that made the playoffs across the off-season, regular season, and playoffs over 2022/2023. Edge thicknesses are weighted by the outgoing normalized volume and colored by the outgoing average sentiment.
 
-<img src="plots/NFCPlayoffs.png" width="500">
+<img src="plots/NFCPlayoffs.png" width="750">
 
 ## Tracking community sentiment across a season
 
@@ -46,13 +42,13 @@ I then zeroed in on two specific NFL teams to track comment sentiment and volume
 
 These two teams were chosen to see if the events that defined their seasons in the hearts and minds of their fans showed up in the sentiment analysis. No attempt was made to quantify any sort of significance, no correlation was measured, and no causation is claimed. This was mostly an excersize in data collection.
 
-**Figure 6:**
+**Figure 5:**
 Average weekly internal sentiment on /r/eagles across the 2022/2023 NFL season and postseason. The red line separates positive and negative VADER sentiment scores. We highlight the weeks coinciding with divisional losses to rival teams.
 
 <img src="plots/EaglesSentiment.png" width="500">
 
-**Figure 7**:
-Average weekly incoming sentiment, and average weekly incoming normalized volume in on /r/buffalobills in the top and bottom panels, respectively. The orange line marks the week in which Bills safety Damar Hamlin suffered a cardiac arrest on the field.
+**Figure 6**:
+Average weekly incoming sentiment, and average weekly incoming normalized volume on /r/buffalobills in the top and bottom panels, respectively. The orange line marks the week in which Bills safety Damar Hamlin suffered a cardiac arrest on the field.
 
 <img src="plots/BillsSentiment.png" width="500">
 
