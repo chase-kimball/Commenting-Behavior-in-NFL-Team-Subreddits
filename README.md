@@ -1,5 +1,5 @@
 # Commenting Behavior in NFL Team Subreddits
-This is a repository for a quick, silly project of mine that started with an open-ended assignment for a graduate course in computational social science at Northwestern University. I was interested in how fans of specific NFL teams comment in their own Reddit communities compared to how they comment in the communities of fans of other teams. I was also interested in analyzing commenting behavior across an NFL season, tying traffic sentiment and distribution to team performance and league-wide events. Because this was a minor side-project only partially for an elective that was mainly focused on data collection, nothing in this repository should be mistaken for statistical analysis or representative of my professional aptitude. No attempt to quantify significance was even considered, and most of this was written on coffee breaks at an astronomy conference. I did, however, have a lot of fun. Key plots are summarized below, and a more detailed write-up can be found here.
+This is a repository for a quick, silly project of mine that started with an open-ended assignment on web-scraping for a graduate course in computational social science at Northwestern University. I was interested in how fans of specific NFL teams comment in their own Reddit communities compared to how they comment in the communities of fans of other teams. I was also interested in analyzing commenting behavior across an NFL season, tying traffic sentiment and distribution to team performance and league-wide events. Because this was a minor side-project only partially for an elective that was mainly focused on data collection, nothing in this repository should be mistaken for statistical analysis or representative of my professional aptitude. No attempt to quantify significance was even considered, and most of this was written on coffee breaks at an astronomy conference. I did, however, have a lot of fun. Key plots are summarized below, and a slightly more detailed write-up can be found [here](./KPHD_project_writeup.pdf).
 ## Data collection
 This analysis was performed on a corpus of ~1.15 million comments across all 32 NFL team subreddits and /r/NFL itself, collected using the PRAW python wrapper for the reddit.com API.
 
@@ -51,10 +51,4 @@ Average weekly internal sentiment on /r/eagles across the 2022/2023 NFL season a
 Average weekly incoming sentiment, and average weekly incoming normalized volume on /r/buffalobills in the top and bottom panels, respectively. The orange line marks the week in which Bills safety Damar Hamlin suffered a cardiac arrest on the field.
 
 <img src="plots/BillsSentiment.png" width="500">
-
-
-
-
-
-
 
