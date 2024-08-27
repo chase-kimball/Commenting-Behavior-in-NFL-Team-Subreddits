@@ -12,7 +12,7 @@ Comments in the general /r/NFL subreddit were leveraged to identify fans who wer
 Comments were first broken down using the Natural Language Processing Tool-Kit (NLTK), and then passed to VADER for rudimentary sentiment analysis. The VADER model is trained on short-form social media posts including tweets, New York Times editorial snippets, and Amazon product reviews. While the training data isn't sports or reddit-specific, VADER accounts for negation, punctuation, and use of emoticons as well as all-caps as sentiment modifiers, making it a useful first pass at extracting sentiment from reddit comments. VADER's compound scores range between -1 and 1 where --roughly speaking -- scores $<-0.05$ indicate negative sentiment, scores between -0.05 and 0.05 indicate neutral sentiment, and scores $>0.05$ indicate positive sentiment. As examples, the comments  "Our front office is completely incompetent", "Offseason!", and "I’m in such a good mood watching this game I just caught myself laughing at one of Aikman’s jokes." rate a -0.5, 0.0, and 0.79, respectively.
 
 
-## Inter- and Intra- community sentiment summaries
+## Inter- and Intra-community sentiment summaries
 
 I first looked at how overall comment volume and sentiment varied across each of the 32 NFL team subreddits. To do this, I distinguished between incoming volume/sentiment (comments in a team subreddit from fans of other teams), outgoing volume/sentiment (comments made by fans of a team in other team subreddits), and internal volume/sentiment (comments made by fans of a team in their own subreddit).
 
