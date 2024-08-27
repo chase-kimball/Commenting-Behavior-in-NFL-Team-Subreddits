@@ -1,0 +1,1270 @@
+,Unnamed: 0.1,Unnamed: 0,author,body,score,subreddit,link_id,over_18,controversiality,author_flair_text,created_utc,flair,sentiment
+923,2714,2714,4o4_0_not_found,"Get fucked, Waltons!",2.0,nfl,t3_y6qmrj,False,0.0,:Bears: Bears,2022-10-17T22:30:59Z,chibears,-0.69
+924,2716,2716,4o4_0_not_found,Lol salty Lazard,15.0,nfl,t3_y5kdtc,False,0.0,:Bears: Bears,2022-10-16T17:27:30Z,chibears,0.4215
+925,2719,2719,4o4_0_not_found,Lmao FTP refs can’t save you this time!,1.0,nfl,t3_y5kdtc,False,0.0,:Bears: Bears,2022-10-16T14:32:24Z,chibears,0.8122
+926,2720,2720,4o4_0_not_found,Lol Gesicki,5.0,nfl,t3_y5kdtc,False,0.0,:Bears: Bears,2022-10-16T14:31:15Z,chibears,0.4215
+927,2721,2721,4o4_0_not_found,I love watching the Packers collapse,9.0,chibears,t3_y4h1jm,False,0.0,Coach Ditka,2022-10-16T14:11:53Z,chibears,0.25
+928,2723,2723,4o4_0_not_found,Shout out to Vildor for all the improvement from last season. Night and day!,57.0,chibears,t3_y42w8c,False,0.0,Coach Ditka,2022-10-14T15:01:20Z,chibears,0.1147
+1660,4751,4751,92roll13,"I really think people are overthinking this. Fields is a young QB, in a new system, who is still learning. I don’t think the expectation out of this staff/Poles is for him to become Josh Allen Lite this year. I think the expectation is that he’s going to struggle at times but continue to show glimpses of what he can become.  I don’t see any world where he’s not their guy next year. This organization is talent deficient right now and needs to rebuild. Whether Fields is the guy or not, he will receive at least one more year to try and figure it out.",0.0,chibears,t3_y6n1fq,False,0.0,Bears,2022-10-17T20:24:05Z,chibears,0.0085331112036651
+1661,4752,4752,92roll13,No thanks,3.0,chibears,t3_y5clxi,False,0.0,Bears,2022-10-16T08:02:14Z,chibears,-0.3412
+1662,4753,4753,92roll13,The dolphins game will depend on Tua. They stink without him,1.0,chibears,t3_y412qm,False,0.0,Bears,2022-10-14T18:45:19Z,chibears,-0.20095
+1663,4755,4755,92roll13,The Bears are eating 60M in dead cap. The people bitching did not pay attention,2.0,chibears,t3_y3yx53,False,0.0,Bears,2022-10-14T14:29:09Z,chibears,-0.2638
+3342,10957,10957,AlmightyDolphin21,He’s gonna beat Halas’ team as he passes Halas for all time wins as a coach. Gonna be rough,6.0,chibears,t3_y840l4,False,0.0,Outrageousness,2022-10-19T14:12:18Z,chibears,0.142975
+3343,10959,10959,AlmightyDolphin21,We play Monday :(,3.0,nfl,t3_y82mr4,False,0.0,:Bears: Bears,2022-10-19T09:52:54Z,chibears,-0.128
+3344,10973,10973,AlmightyDolphin21,Wow people who don’t read the post are making it really easy in here,4.0,chibears,t3_y75yrk,False,0.0,Outrageousness,2022-10-18T09:41:08Z,chibears,0.7902
+3345,10974,10974,AlmightyDolphin21,My list is same as yours except I’ve got AT Perry in there as well. Not a 1st but def a great option in the rounds following,1.0,chibears,t3_y5xvsd,False,0.0,Outrageousness,2022-10-17T11:53:26Z,chibears,0.4525
+3346,10980,10980,AlmightyDolphin21,"Wasn’t it 18 pressures last night? Time to throw is a bad stat for mobile/scrambling qb’s, this should be common knowledge by now. 
+
+However there is a stat called like “time to pressure” where I think he was still in the top 5 a few weeks ago but I’d like to know where he’s at on that list after these last couple weeks",20.0,nfl,t3_y3t5ws,False,0.0,:Bears: Bears,2022-10-14T13:23:11Z,chibears,0.1478592592592592
+3942,11865,11865,Antitypical,"> Its not inherently harder to get high R2 with large datasets. A large dataset just means you'll be more confident that your observed R2 is close to the true R2.
+
+That's exactly what I'm saying, and why I gave the finance example. It's also why I don't trust the correlations people show using PFF grades-- they're usually formed from tens of data points and the charts are never made available, so it's very possibly skewed by the tails. If that's the case, the only thing you can use PFF grades to predict is that the absolute worst players are likely to stay bad and the absolute best players are likely to stay good, and everything in between is unpredictable. And most people can do that with their eyes.
+
+I will admit though, the discussions about predictiveness are all somewhat meaningless anyway; teams may use some of PFF's advanced stats, but they're doing all the grading themselves using their own systems that factor in nuances of play design and assignments that PFF doesn't know, so it's not like anyone's actually making any predictions based on PFF grades.
+
+As I said, I mainly use PFF grades to say that the player with an 85 *probably* played better than the one with a 55, and that's about it.",1.0,nfl,t3_y89j2g,False,0.0,:Bears: Bears,2022-10-19T18:35:58Z,chibears,0.0815802643299102
+3943,11867,11867,Antitypical,"Anscombe's quartet is saying that data can come in many shapes, and that some of those shapes look very different but can have the same points of balance within them, so the summary statistics look the same.
+
+If we flatten this out into one dimension, what we're saying is that if you wish to add to 13, you can choose 12 and 1, or 6 and 7, or  -348 and 361. Thing is, the way you get to your summary statistic matters because your summary statistic isn't detailed enough to be meaningful on its own.
+
+For example when we look at NFL QB data, I think there's a chance that Mahomes and Brady are elite in all statistics including PFF grades (graders may even have unconscious bias that leads them to grade these players even higher) and so they fall on the top right corner of any graph you make correlating two statistics with each other, and Nick Foles is the exact opposite and ends up in the bottom left of every correlation graph and the trend that those points set ends up makes your data look like the fourth ([bottom right](https://www.researchgate.net/profile/Andrew-Heathcote/publication/280302159/figure/fig2/AS:614021682171910@1523405585885/Anscombes-quartet-highlights-the-importance-of-plotting-data-to-confirm-the-validity-of.png)) Anscombe chart and you'd get your 0.06-0.11 R^2 value. If this were the case it could very well be that there's absolutely zero data trend for the points that aren't at the extremes, which would imply that middling PFF grades (60s-80s) are essentially random numbers.
+
+This is why I chide all these analysts for not including their charts. There aren't that many data points here, so visualizing the data structure is critical to drawing any conclusions",3.0,nfl,t3_y89j2g,False,0.0,:Bears: Bears,2022-10-19T17:40:01Z,chibears,-0.0441374537820125
+3944,11868,11868,Antitypical,"I think that in finance, where you have billions of trade data points you're using to inform a million trade decisions, even 0.01 would be huge-- you'd guarantee you're making money. 
+
+Many of these analyses at working with double digit numbers of data points, so the 0.06 we're getting isn't impressive to me. What I suspect is that the tails of the distributions-- guys like Mahomes and Brady grading elite and being elite, or Foles grading horribly and being horrible are probably pulling the data just enough to look like Anscombe's 4th plot in the quartet. If this is the case, the grading system works well for the best and worst performers and is basically useless for parsing anything in between.
+
+One of my central criticisms is that all these guys who are trying to show correlation aren't letting us actually see the charts, and I just don't trust R^2 data without charts, although it's worth noting that the chart structure I described probably wouldn't actually get this analysis flagged anyway (Sidenote: I know you said you're assuming people looked at their residuals, but that's where I'm being less lenient)",11.0,nfl,t3_y89j2g,False,0.0,:Bears: Bears,2022-10-19T16:43:43Z,chibears,0.0068765119999999
+3945,11869,11869,Antitypical,"They invite this standard by having such a heavy hand in creating the analytics zeitgeist we see all over the place. You can't even watch SNF without Collinsworth peppering you with PFF grades, and many of their analysts are cagey and aggressive toward critics on Twitter. In conducting themselves this way they signal a lot more confidence in their grades as an analytical standard than they probably deserve",32.0,nfl,t3_y89j2g,False,0.0,:Bears: Bears,2022-10-19T14:43:15Z,chibears,0.1652074074074074
+3946,11870,11870,Antitypical,"I would definitely agree here and admit that's part of why I'm fairly harsh on PFF. That said, even after adjusting expectations, some of the R^2 values are pretty tough (I've seen people taute values as low as 0.06 as meaningful)",6.0,nfl,t3_y89j2g,False,0.0,:Bears: Bears,2022-10-19T14:16:24Z,chibears,0.522875
+3947,11871,11871,Antitypical,"**First off, thanks for your thoughtful response. I think we agree on lots of the limitations here. I just wanted to nitpick one thing**
+
+>there's really strong evidence that PFF grades are just as predictive, if not more predictive in certain situations than these advanced stats which is a huge vote for its reliability. I've personally validated this and there's some good threads about how strongly PFF grades correlate with epa/play the next season (for QBs).
+
+I'm glad you brought this up. I view the predictive value of PFF grades as somewhat overstated. **Below is a comment someone made about PFF grades correlating to other performance indicators**
+
+>Sure thing. I'll list as many as I could quickly find. Some are more 'professional' articles while others are more just ""football twitter"" doing their thing and tweeting about it.
+>
+>[TejFBAnalytics](https://twitter.com/tejfbanalytics/status/1299885143423885313?s=20) (This is more professional and shows how PFF grades stack up right along side EPA/play, CPOE, and EPA+CPOE composite which are accepted as the 3 main/best QB analytical tools. The only downside is he doesn't share exactly how he comes to that conclusion as that isn't the main point of the article.)
+>
+>[PFF Kevin Cole Bayesian stats w/ PFF grades and EPA](https://twitter.com/KevinColePFF/status/1567178408513208327?s=20) (Another professional one which again shows a positive correlation between EPA/play - which is generally accepted as one of the best QB evaluation metrics.)
+>
+>[QB Stats against Win %](https://twitter.com/R00349/status/1460290390242775047?s=20) (Football Twitter taking a bunch of QB stats and putting them up against Win %. PFF grade by far and away is #1.)
+>
+>[QB Stats against Margin of Victory](https://twitter.com/greerreNFL/status/1576782692414152705?s=20) (Football Twitter taking a bunch of QB stats and putting them up against Margin of Victory. PFF grade is #1 by a slight margin.)
+>
+>Again, not saying that PFF grades are the GOAT metric or are never wrong. You should take them - as with any other stat - with context and as a single data point. There is just clearly enough evidence to put weight into them. If you simply dismiss them because ""they don't know what they're looking at"", you're losing out on a very valuable data point that has substantial value.
+
+**Here was my response**
+
+>*First, a note: None of the ""studies"" you cite show the data shape, so when we see an R-squared value, especially a very shitty one (like the 0.06, or the 0.11 that are cited), there's basically nothing we can do with it, since those values can be easily be associated with many different data patterns. This is demonstrated by [Anscombe's quartet](https://www.researchgate.net/figure/Scatterplots-of-four-different-datasets-known-as-Anscombes-quartet-99-Each-dataset_fig1_276360680), which shows four different plots that all have the same correlation coefficient, regression line, and error of fit when using the regression line ([this image](https://i.postimg.cc/s2KX4BM5/All-Dinos-Grey-1.jpg) shows the same thing even more dramatically).* 
+>
+>**TjFBAnalytics:**
+>
+>* When we say ""correlation to next year's performance"" what specific statistic exactly are we correlating to? And what number is being graphed? Is it R-squared? The fact that it says ""correlation"" makes me think it's actually R (technically called correlation), even though the field standard is to use R-squared to understand variance and predictability.
+>* You can't just say ""The only downside is he doesn't share exactly how he comes to that conclusion as that isn't the main point of the article."" Science is based on the idea that when you work with data you're required to share the rationale you use for your different manipulations, or else we can't gauge your credibility.
+>* His 2020 QB rankings that he comes up with using the previous year's PFF grades are _insane_. Brees #2, Stafford better than Rodgers, Kirk top 10, Jimmy G and Carson Wentz better than Brady, Kyler at #20, Josh Allen at #25, are all terrible takes.
+>
+>**Kevin Cole:**
+>
+>* Paywalled
+>
+>**QB Stats against Win %:** 
+>
+>* This is absolutely bone-headed imo. The R-squared is **0.06** (*which is the same R-sq the graph with the 🦖 had above*) which is unusably bad to anyone who's taken a stats class. There are also massive sample size issues if any of these people are working with any amount of year to year data less than about 20 seasons (troublingly, none of these people are saying which years they used, which makes me think they're using a single pairing of years)
+>
+>**QB Stats against MoV:**
+>
+>* Exact same argument as the last point. **0.1186** is a terrible R-squared value and tells us absolutely nothing
+* The 0.1186 is not meaningfully different from 0.1134, which is the R-squared for passer rating. 
+>
+>Everything you've shown me is littered with poor data treatment, sample size issues, over-fitting, and conclusions which the data itself does not show enough confidence to make. And yet even then, it's almost besides the point: If the graders at PFF knew the assignments (or knew more about football to be able to guess the assignments the way experienced QBs can), their model would be better. Teams do know the assignments, and so their internal grading systems are more accurate. **Dilfer is making the point that those internal systems would rate Fields' performance better than PFF, which is a central piece of logic you're not addressing.**
+
+#All said, here's how I use PFF grades:
+
+If player A has a grade that's 20+ points higher than player B, I assume there's a better chance than not that player A played better than player B. That's it. I haven't seen strong enough correlations or large enough data sets or enough audited single-play grades for me to say anything more than that. For many people that can still be valuable, especially at positions like CB, which are a lot harder for the lay-fan to get a good feeling for performance of when they watch a broadcast. But I strongly advise against giving these grades a whole lot more credence than that",52.0,nfl,t3_y89j2g,False,0.0,:Bears: Bears,2022-10-19T14:01:17Z,chibears,0.0166316684596625
+3948,11872,11872,Antitypical,"I think I was very clear with what I want them to do
+
+1. Lead with limitations (don't bury them in a podcast no one is listening to). Most importantly acknowledge up front the large caveat that they don't know the assignments of any player they grade.
+2. State the qualifications of their graders.
+3. Establish confidence intervals amongst their many graders.
+4. Publish the play-by-play grades on a database you can dig through, the way PFR does.",13.0,nfl,t3_y89j2g,False,0.0,:Bears: Bears,2022-10-19T13:35:57Z,chibears,0.000700485450319
+3949,11873,11873,Antitypical,"Bingo. There are meaningful transparency reasons to not trust PFF. Copy-pasted from my own comment elsewhere:
+
+>This is part of why I deeply distrust PFF. I'm a PhD-level research scientist professionally, so it's quite literally my job to understand how other people treat their data and define their metrics. Half of what I do is dig through papers and supplementary documentation to understand data generation and analysis methods, because the slightest tweaks in data treatments that you use can result in wildly different overarching trends
+>
+>PFF will never release per-play grades because it would show the subjectivity of their grading that they like to claim is not a factor, and without those grades it's an in-auditable, untrustworthy, proprietary black box that spits out random numbers. Slight differences in grader consistency or slight mis-interpretations of scheme or a player's responsibility or performance on single plays can lead to massive swings in final output grades. This problem is magnified by the fact that the sample size just isn't there to assign any kind of confidence to the final grade (and PFF makes no attempt to do things that would establish a confidence interval, such as using many graders per game and publishing summary stats for the graders as a group). Not only that, we don't have good information about who their graders are, what their qualifications are, or what the grader training process teaches those graders to emphasize, because again, PFF has labeled this all as proprietary and glossed over what a huge impact this stuff has on film evaluation. The fact that they tout what they're doing as revolutionary while not letting anyone have any insight into the process makes them no better than ESPN's QBR from a few years ago, and frankly makes them a total farce from any serious scientific angles.
+>
+>One of the big red flags for any person/organization that claims to do any kind of advanced analysis is when they don't tell you about the limitations of their analysis. They need to clearly define where their analysis breaks down, or else they aren't being truthful to you. This is why I've always trusted DVOA, for example, because football outsiders is very clear about the circumstances where they're unable to draw meaningful conclusions from their data (and generally are pretty open about how they do their analysis as well). It's also why heavy skepticism of PFF is warranted-- they're deep into the game of pretending their grades are universally explanatory
+
+**tl;dr:** At its core, every time you play with the rules that govern numbers you're generating/manipulating, you create an opportunity for a butterfly effect that ripples through your data and has sweeping effects on your conclusions. Understanding the rules is critical to understanding these butterfly effects. PFF intentionally hides the rules, and therefore we can't trust the conclusions.",460.0,nfl,t3_y89j2g,False,0.0,:Bears: Bears,2022-10-19T13:07:28Z,chibears,-0.0363314457215309
+3950,11874,11874,Antitypical,That's the belichick classic: lube up your opponent just to violate them in a different hole,976.0,nfl,t3_y82mr4,False,0.0,:Bears: Bears,2022-10-19T08:40:54Z,chibears,-0.4939
+3951,11876,11876,Antitypical,"Big pet peeve is when fans of other teams try to tell me things about my team and tell me I'm just biased.
+
+I am biased, but I'm also experienced. There's no way you watched 17 bears games if you're not a bears fan so maybe what I'm saying is at least partially because I actually know what I'm talking about",104.0,nfl,t3_y7azp7,False,0.0,:Bears: Bears,2022-10-18T12:15:00Z,chibears,-0.1882074074074074
+3952,11877,11877,Antitypical,He better not be using Time to Throw. That's not an OL stat.,8.0,chibears,t3_y79eqw,False,0.0,An Actual Bear,2022-10-18T11:09:58Z,chibears,0.1101
+3953,11879,11879,Antitypical,"Dude you're actively commenting negative things about Fields in every remotely pro-Fields post, it doesn't take much to read between the lines on this.
+
+If you want an example, every Dilfer thread. Dilfer isn't saying Fields is there-- he literally starts by saying there's plenty to be done but wants to add something concrete to the discussion, and you tend to spend a lot of time attempting to discredit him because of Elite 11 instead of addressing the points he's making",0.0,chibears,t3_y6hch6,False,1.0,An Actual Bear,2022-10-17T15:23:39Z,chibears,-0.0040148148148148
+3954,11880,11880,Antitypical,"Find me some people who think Fields is playing flawlessly right now and 100% of the bad stuff is on other people.
+
+Please, link their comments here. I think you're making shit up to make people's opinions look a lot more radical than they are.
+
+Most of the people you want to label Fields Truthers are just preaching patience with the guy",4.0,chibears,t3_y6hch6,False,0.0,An Actual Bear,2022-10-17T13:41:25Z,chibears,-0.011449609375
+3955,11881,11881,Antitypical,"""Fields Truthers"" is such a needlessly inflammatory term this dude (/u/1Shot1Kyle) uses as a shortcut into a strawman argument where he's the moderate critic and everyone else is a crazy person who thinks Fields is a finished product.
+
+It leads to unproductive discussions that are built on disingenuous characterizations of each person's actual views and subsequently miss the point entirely.",18.0,chibears,t3_y6hch6,False,0.0,An Actual Bear,2022-10-17T13:38:43Z,chibears,-0.25615
+3956,11883,11883,Antitypical,"In your defense, Lucas Patrick has been downright horrendous for us, so we both lost on that signing",34.0,greenbaypackers,t3_y5ug22,False,0.0,:CHI:,2022-10-16T21:25:38Z,chibears,-0.7063
+3957,11884,11884,Antitypical,In your defense Lucas Patrick has been horrendous for us,2.0,greenbaypackers,t3_y5qmqb,False,0.0,:CHI:,2022-10-16T19:30:14Z,chibears,-0.5106
+3958,11885,11885,Antitypical,Brief reminder that people have [statistically proven the Packers ref advantage using ten years of cumulative data](https://www.reddit.com/r/nfl/comments/e20p14/first_down_by_penalties_on_3rd_down_via/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button),20.0,nfl,t3_y5l3xc,False,0.0,:Bears: Bears,2022-10-16T14:26:49Z,chibears,0.25
+3959,11888,11888,Antitypical,"This is a joke, right?",8.0,nfl,t3_y5lu21,False,0.0,:Bears: Bears,2022-10-16T12:01:00Z,chibears,0.296
+3960,11889,11889,Antitypical,Us having genuine OL/WR problems and slapping Patrick and EqSB on them is so classic Bears,15.0,chibears,t3_y4vsco,False,0.0,An Actual Bear,2022-10-15T15:05:40Z,chibears,-0.4019
+3961,11890,11890,Antitypical,"Fucking love Dilfer. Logic, experience, and evidence in every one of these breakdowns. Too bad the average bears fan isn't capable of processing those things.",37.0,chibears,t3_y4clkq,False,0.0,An Actual Bear,2022-10-15T00:24:57Z,chibears,-0.1499296296296296
+3962,11891,11891,Antitypical,I'm tired.,1.0,nfl,t3_y4121s,False,0.0,:Bears: Bears,2022-10-14T13:28:03Z,chibears,-0.4404
+3963,11892,11892,Antitypical,"The explanations are complicated because football is a complicated sport. There are almost no on-field phenomena that can be collapsed into a few tidy metrics, and conversely any metrics and grades people give you are missing a ton of context
+
+Sorry to break it to you but sweeping generalizations like the one you're making miss the point of these metrics entirely (ignoring the separate fact that relating time-to-throw to accuracy is an egregious data interpretation error)",4.0,chibears,t3_y3za75,False,0.0,An Actual Bear,2022-10-14T13:23:22Z,chibears,-0.40485
+3964,11893,11893,Antitypical,"Picture here is pretty clear. 
+
+Pocket collapses fast, Fields escapes, scans for open guys, no one is open, eventually throws.
+
+The scenario we're in, where the line and receivers are both bad (+ Fields occasionally missing reads) leads to both these stats (short pocket time, long throw time) being true at the same time.",13.0,chibears,t3_y3za75,False,0.0,An Actual Bear,2022-10-14T12:28:57Z,chibears,-0.1507296296296296
+3965,11894,11894,Antitypical,"""bro learn what NFL open is""
+
+- some anonymous dude who hasn't seen the all 22 and presents no evidence.",-1.0,chibears,t3_y3kl20,False,1.0,An Actual Bear,2022-10-14T09:35:34Z,chibears,-0.296
+3966,11896,11896,Antitypical,"I'm fine with defense being in rebuild if it meant we helped the offense. Instead, we
+
+1. Attempted to give an injured DT $40M
+2. Put in an offer sheet for a restricted FA lineman, which we did not get.
+3. Drafted two DBs and a geriatric punt returner who can't catch
+4. Traded for N'Keal Harry
+
+We could have easily signed Chark, drafted Pierce/Pickens and 2x OL with our first 3 picks, and then of course our defense would've been terrible, but at least we would've had a snowball's chance in hell to actually develop Fields.
+
+**Edit:** downvote me all you want, you know in your heart we didn't care at all about helping Justin. We assumed we'd be good because no Nagy is addition by subtraction and then called it a day. This franchise deserves to be clowned, our FO had no plan for our offense and we shouldn't be surprised that it is a disaster.",27.0,chibears,t3_y3uupb,False,0.0,An Actual Bear,2022-10-14T09:17:36Z,chibears,-0.08155148219128
+3967,11898,11898,Antitypical,"Brisker looks good, Gordon looks bad, Velus might have single-handedly cost us two games and looks horrible, Braxton Jones and Dominique Robinson look okay, and no one else plays.
+
+And even if Brisker looks good, we might have had a better eval on Fields if we had Pierce or Pickens instead",-2.0,chibears,t3_y3tfmj,False,0.0,An Actual Bear,2022-10-14T08:24:48Z,chibears,0.218475
+3968,11899,11899,Antitypical,"I appreciate your dedication to linking sources. No sarcasm here, I'm a fan of the approach and I wish more of these assholes engaged with evidence-based debate",5.0,chibears,t3_y3obiw,False,1.0,An Actual Bear,2022-10-14T08:18:51Z,chibears,0.355975
+3969,11900,11900,Antitypical,"The problem is that losing sucks and all the people who fucked around with the opinion that we should just casually win 3 games and also get a good eval on Fields are finding out that when you're this bad it's usually because of failures on many fronts, which makes good evaluation nearly impossible.
+
+What people are having trouble coming to terms with is how historically horrible our offseason was. Here's a run-down:
+
+Tried to sign an injured DT in free agency instead of helping the offense, traded our best player for a second rounder, spent that pick and our other 2nd on defense, took a punt returner with dicks for hands in the 3rd, started 2 fifth rounders at tackle (PFF might grade them well, but they don't pass the eye test) and a UDFA who we already know sucks at C, entrusted a rookie OC who has only worked with a HoF QB to solve all the deep WR/OL personnel problems.
+
+It's not a surprise we can't evaluate Fields. Poles, Eberflus, and Getsy have been a disaster. And when everything is wrong, people get confused, and heap blame in places where it doesn't always belong. Even right now there are idiots in this sub criticizing Fields for a throw where he hit his best receiver in the hands in the end-zone for what should've been a game winning touchdown.",2.0,chibears,t3_y3tfmj,False,0.0,An Actual Bear,2022-10-14T08:17:10Z,chibears,0.0860504860098379
+3970,11901,11901,Antitypical,Thanks for posting it anyway. I appreciated it. Sorry our fanbase is completely brain-dead,10.0,chibears,t3_y3obiw,False,0.0,An Actual Bear,2022-10-14T08:07:24Z,chibears,0.0473111111111111
+3971,11902,11902,Antitypical,"Couldn't agree more. Poles deserves blame too though: Here's a run-down of our offseason:
+
+Trying to sign an injured DT in free agency instead of helping the offense, trading our best player for a second rounder, spending that pick and our other 2nd on defense, taking a punt returner with dicks for hands in the 3rd, starting 2 fifth rounders at tackle (PFF might grade them well, but they don't pass the eye test) and a UDFA who we already know sucks at C, and entrusting a rookie OC to solve all the deep WR/OL personnel problems.
+
+It's not a surprise we can't evaluate Fields. Poles, Eberflus, and Getsy have been a disaster. Even right now there are idiots in this sub criticizing Fields when he hit his best receiver in the hands in the end-zone for what should've been a game winning play.",0.0,nfl,t3_y3ki5f,False,0.0,:Bears: Bears,2022-10-14T08:05:08Z,chibears,0.13621232
+3972,11903,11903,Antitypical,"Wow, a reasonable take! I almost forgot those were allowed. I need to leave the Bears sub. That place is actively making me dumber.
+
+While I'm here, a rant about our offseason strategy:
+
+Trying to sign an injured DT in free agency instead of helping the offense, trading our best player for a second rounder, spending that pick and our other 2nd on defense, taking a punt returner with dicks for hands in the 3rd, starting 2 fifth rounders at tackle (PFF might grade them well, but they don't pass the eye test) and a UDFA who we already know sucks at C, and entrusting a rookie OC to solve all the deep OL/WR personnel problems.
+
+It's not a surprise we can't evaluate Fields. Poles, Eberflus, and Getsy have been a disaster. Even right now there are idiots in this sub criticizing Fields when he hit his best receiver in the hands in the end-zone for what should've been a game winning play.",35.0,nfl,t3_y3svr6,False,0.0,:Bears: Bears,2022-10-14T07:59:09Z,chibears,0.0919442617356777
+3973,11904,11904,Antitypical,"Ah yes, wins, a QB stat.",2.0,chibears,t3_y3oo2d,False,0.0,An Actual Bear,2022-10-14T07:53:07Z,chibears,0.7506
+3974,11905,11905,Antitypical,"Trying to sign an injured DT in free agency instead of helping the offense, trading our best player for a second rounder, spending that pick and our other 2nd on defense, taking a punt returner with dicks for hands in the 3rd, starting 2 fifth rounders at tackle (PFF might grade them well, but they don't pass the eye test) and a UDFA who we already know sucks at C, and entrusting a rookie OC to solve all the personnel problems
+
+It's not a surprise we can't evaluate Fields. Poles, Eberflus, and Getsy have been a disaster. Even right now there are idiots in this sub criticizing Fields when he hit his best receiver in the hands in the end-zone for what should've been a game winning play.",1.0,chibears,t3_y3oo2d,False,1.0,An Actual Bear,2022-10-14T07:51:59Z,chibears,0.1859666666666667
+3975,11906,11906,Antitypical,"I knew Bears fans were morons, but last night showed me it's way worse than I could've ever imagined. This sub is a disaster.",-2.0,chibears,t3_y3oo2d,False,1.0,An Actual Bear,2022-10-14T07:43:18Z,chibears,-0.487525
+3976,11907,11907,Antitypical,Might as well stop trying. The armchair GMs in this sub who have never played a down are here to tell you they know everything and you're wrong.,17.0,chibears,t3_y3obiw,False,0.0,An Actual Bear,2022-10-14T07:40:29Z,chibears,-0.3211
+3977,11908,11908,Antitypical,"You can spam RB if you have a good run scheme. Which is not what I would call ""run up the gut into the back of your guard for 1.5 yards""
+
+How do you not get it? Everything is broken, we hired a defensive coach who got handled by the jags, traded our best player, went defense with the pick we got back for him, went defense with our other high pick, drafted an old punt returner who can't catch, didn't spend money on offense all...
+
+
+We're a fucking mess.",-7.0,chibears,t3_y3kl20,False,0.0,An Actual Bear,2022-10-14T01:02:14Z,chibears,-0.0466296296296296
+3978,11909,11909,Antitypical,You know the analytics committee is in shambles when Bears and Packers fans are on the same page. Fuck those guys,3.0,nfl,t3_y3j3wd,False,0.0,:Bears: Bears,2022-10-14T00:44:13Z,chibears,-0.27115
+3979,11910,11910,Antitypical,Poles prioritized defense instead of supporting his QB he's trying to evaluate. That's all you need to see to say he fucking sucks.,11.0,nfl,t3_y3j3wd,False,0.0,:Bears: Bears,2022-10-14T00:41:40Z,chibears,-0.078375
+3980,11911,11911,Antitypical,I fucking hate Bears fans,28.0,nfl,t3_y3jnqi,False,0.0,:Bears: Bears,2022-10-14T00:39:49Z,chibears,-0.6115
+3981,11912,11912,Antitypical,Our fanbase sucks,33.0,nfl,t3_y3jnqi,False,0.0,:Bears: Bears,2022-10-14T00:39:27Z,chibears,-0.3612
+3982,11913,11913,Antitypical,Yes because our process is working so well right now. Here's a better plan: take the lay-up. Everyone has been talking about Schoen and Daboll forever. Do that.,-14.0,chibears,t3_y3kl20,False,0.0,An Actual Bear,2022-10-14T00:33:52Z,chibears,0.00947578125
+3983,11914,11914,Antitypical,"Yeah, and we could have hired him a month prior.",3.0,chibears,t3_y3kl20,False,1.0,An Actual Bear,2022-10-14T00:25:20Z,chibears,0.296
+3984,11915,11915,Antitypical,Nah I gave up last season and had better mental health. Not afraid to bounce this season too.,-1.0,chibears,t3_y3ia2e,False,0.0,An Actual Bear,2022-10-14T00:13:41Z,chibears,0.0903
+3985,11916,11916,Antitypical,"Think of it. A world where we have Pickens, Pierce, and Lucas....
+
+A world where we let a young QB go through his reads, and where if he fucks up we know it's his fault!
+
+Fuck Poles. Asshole might as well be a Packers fan. Also let us all be reminded we hired the dude who blew a game with playoff implications to the Jags instead of fucking Brian Daboll. God dammit I hate being a bears fan.",-3.0,chibears,t3_y3ia2e,False,1.0,An Actual Bear,2022-10-14T00:12:33Z,chibears,-0.0109400848765432
+3986,11917,11917,Antitypical,"Think of it. A world where we have Pickens, Pierce, and Lucas....
+
+A world where we let a young QB go through his reads, and where if he fucks up we know it's his fault!
+
+Fuck Poles. Asshole might as well be a Packers fan. Also let us all be reminded we hired the dude who blew a game with playoff implications to the Jags instead of fucking Brian Daboll. God dammit I hate being a bears fan.",5.0,chibears,t3_y3kl20,False,1.0,An Actual Bear,2022-10-14T00:08:20Z,chibears,-0.0109400848765432
+4743,12905,12905,Apathi,“The Hoodie” has a great ring to it.,23.0,nfl,t3_y7hx33,False,0.0,:Bears: Bears,2022-10-18T15:53:42Z,chibears,0.6249
+4744,12906,12906,Apathi,"You just did, friend.",46.0,nfl,t3_y7hx2j,False,0.0,:Bears: Bears,2022-10-18T15:44:00Z,chibears,0.4939
+4745,12907,12907,Apathi,"I don’t like Velus in PR, but the few times he’s touched the ball on offense he’s done things",73.0,chibears,t3_y7b1jp,False,0.0,Bear Logo,2022-10-18T11:18:31Z,chibears,-0.1901
+4746,12908,12908,Apathi,"…he threw 6 with us? 
+
+This seems super cherry picked lol",2.0,chibears,t3_y6sucv,False,0.0,Bear Logo,2022-10-17T20:33:57Z,chibears,0.38585
+4747,12909,12909,Apathi,Probably had David Moore saved in their system and clicked the wrong “D. Moore”,67.0,chibears,t3_y5uoe4,False,0.0,Bear Logo,2022-10-16T18:16:20Z,chibears,-0.0193
+5202,14215,14215,Ar4bAce,He sucks,1.0,nfl,t3_y53qyq,False,0.0,:Bears: Bears,2022-10-16T09:51:19Z,chibears,-0.3612
+5203,14217,14217,Ar4bAce,Very true,0.0,chibears,t3_y3jier,False,0.0,Jay,2022-10-14T08:06:51Z,chibears,0.4754
+5516,17080,17080,Bajin_Inui,I dont remember the last time i was consistently confident in the bears redzone offense.,5.0,nfl,t3_y83y4p,False,0.0,:Bears: Bears,2022-10-19T14:19:51Z,chibears,0.296
+5517,17081,17081,Bajin_Inui,"If I wanted to see a team struggle on offense, I'd watch my team instead",2.0,nfl,t3_y76dk5,False,0.0,:Bears: Bears,2022-10-18T16:26:59Z,chibears,-0.5106
+5518,17083,17083,Bajin_Inui,I can't wait to see the disaster of a game when the bears play the lions,1.0,nfl,t3_y6fve0,False,0.0,:Bears: Bears,2022-10-18T00:18:52Z,chibears,-0.4019
+5519,17084,17084,Bajin_Inui,"This always reminds me of the premier league chants which is like ""All you've got is history"". It certainly feels that way with the bears",91.0,chibears,t3_y5xmzy,False,0.0,"Patrick Scales, Bears legend",2022-10-16T21:11:04Z,chibears,0.2603
+5520,17085,17085,Bajin_Inui,I think the browns are the last place but jets are certainly close.,3.0,chibears,t3_y5rwee,False,0.0,"Patrick Scales, Bears legend",2022-10-16T20:53:00Z,chibears,0.4767
+5521,17087,17087,Bajin_Inui,Oh did you know the bears have never had a 4000 yard passer?! Upvotes please,10.0,nfl,t3_y42l6j,False,0.0,:Bears: Bears,2022-10-14T21:19:50Z,chibears,0.1591
+6017,18136,18136,BassInner835,"We are second in forced fumbles (I think) and despite the lack of consistency, the offensive has some explosive plays from Fields, Monty, Herby and Mooney.",83.0,nfl,t3_y83y4p,False,0.0,:Bears: Bears ,2022-10-19T09:27:31Z,chibears,-0.4657
+6018,18137,18137,BassInner835,"Yea, frustration for the viewer having to sit through his commentary. I wouldn't watch, but I have to.",-4.0,nfl,t3_y6vqan,False,0.0,:Bears: Bears ,2022-10-17T23:05:35Z,chibears,-0.119175
+6019,18138,18138,BassInner835,And the Chargers defense covered up the Broncos wrs real good and attacked Russ real good as well.,3.0,nfl,t3_y6qmrj,False,0.0,:Bears: Bears ,2022-10-17T22:57:03Z,chibears,0.6597
+6020,18139,18139,BassInner835,"Hate-us-cuz-you-aint-us. We are gonna clap the Pats like it's the 85 superbowl.
+
+And it's because Bill Belichick has a shot to beat Hallas' winning record on that very game. The schedulers probably planned it out that way. They knew Bill was gonna get it this season so they had their Bears matchup set for primetime. 
+
+That's why they had the Packers and Bears face off in week 2. Because the Pack only needed to win week 1 and 2 and the Bears were certainly gonna lose to the 9ers. Well the Bears won and the Packers lost week 1, so that story line went out the window. But the Packers got the tie in that very game.",3.0,nfl,t3_y6qmrj,False,1.0,:Bears: Bears ,2022-10-17T22:55:48Z,chibears,0.0074390759867633
+6021,18141,18141,BassInner835,Give some credit to good defense in this game,2.0,nfl,t3_y6qmrj,False,0.0,:Bears: Bears ,2022-10-17T22:16:54Z,chibears,0.7184
+6022,18144,18144,BassInner835,"especially the Jets, with those green tinted helmet, it'll make them look like Halo spartans.",1.0,nfl,t3_y6qmrj,False,0.0,:Bears: Bears ,2022-10-17T20:29:49Z,chibears,0.3612
+6024,18149,18149,BassInner835,"Student loan forgiveness aren't automatic, you gotta apply for them.
+
+[https://studentaid.gov/debt-relief/application](https://studentaid.gov/debt-relief/application) 
+
+Very quick submission, no need for any log in. Apparently this is just the beta, but your submission will be submitted with the real application launches.",5.0,nfl,t3_y5e04d,False,0.0,:Bears: Bears ,2022-10-16T10:07:19Z,chibears,-0.0291592592592592
+6027,18152,18152,BassInner835,">Our defence balled out last night, and should have won us the game if our offence wasn't such a horrific trainwreck.
+
+You just named a more iconic duo than the one OP listed",4.0,nfl,t3_y3ur2x,False,0.0,:Bears: Bears ,2022-10-14T11:59:25Z,chibears,0.18795
+6028,18153,18153,BassInner835,"I don't know how you could watch that and say Al Michaels went off script. The camera guy hit Snyder with the long cut and Al was talking about ""our"" reporter reporting. . . He's reading off a script in a prepared segment. 
+
+He's not getting fired, he did his job. Bezos definitely told the producers to run that, but I'm unsure if Goodell and the other owners had a hand in it.",4.0,nfl,t3_y3hl81,False,0.0,:Bears: Bears ,2022-10-14T11:02:14Z,chibears,0.0904084650103273
+6185,18774,18774,Battle_Sheep,The Critic is so damn underrated.,6.0,chibears,t3_y6im5b,False,0.0,60s Logo,2022-10-17T21:10:23Z,chibears,-0.624
+6186,18782,18782,Battle_Sheep,"I get that, Poles was in a no win situation whats why I was fine with the Gordon pick, however safety’s can be found later in drafts opposed to WR’s. The secondary is fine, but the talent level on offense is abysmal, and was hoping he would have tried to spread the draft capital around with his first 2 picks more than focusing solely on the secondary.",-1.0,chibears,t3_y3v3vm,False,0.0,60s Logo,2022-10-14T13:26:54Z,chibears,0.2935
+6187,18783,18783,Battle_Sheep,Having better WR's around him won't help him catch the ball when it hits him in the hands.,2.0,chibears,t3_y3wemo,False,0.0,60s Logo,2022-10-14T13:03:43Z,chibears,0.1635
+6188,18784,18784,Battle_Sheep,"It is a shitty situation all around, however the Brisker pick (while I really like him) was absolutely a luxury pick when you had WR’s like Pickens and Pierce on the board at that time. I know this regime didn’t draft him, but I can’t imagine they could have handled Fields’ development any worse.",5.0,chibears,t3_y3v3vm,False,0.0,60s Logo,2022-10-14T12:51:19Z,chibears,-0.271475
+6381,21592,21592,BiffApotamous,He’s not quick enough to play tackle. He’s proven to be a much better fit at guard,1.0,chibears,t3_y493h4,False,0.0,Old Logo,2022-10-14T19:25:35Z,chibears,0.41485
+6382,21593,21593,BiffApotamous,Extend monty on a friendly deal that makes both sides comfortable. He’s arguably a top 10 running back and has proven to be able to be a bell cow type back but also be able to catch effectively out of the backfield.,1.0,chibears,t3_y3zl45,False,0.0,Old Logo,2022-10-14T13:56:12Z,chibears,0.48995
+6383,21594,21594,BiffApotamous,"I love Will Anderson but he’s a little thin for a 4-3 DE imo. Yes the talent is there, but if he could add 20~ pounds he’d be perfect",1.0,chibears,t3_y3z9um,False,0.0,Old Logo,2022-10-14T12:02:22Z,chibears,0.51125
+6820,25514,25514,BrickoCocaine,Bad man gone,218.0,chibears,t3_y7cnxj,False,0.0,Moon Me Mooney,2022-10-18T12:05:41Z,chibears,-0.5423
+8347,33751,33751,ChicagosOwn1988,"Ryan Poles and taking another L. 
+
+Dude is off to a worse start than Pace IMO. Not giving up yet, but he deserves a lot of criticism right now.",6.0,chibears,t3_y81wh1,False,0.0,60s Logo,2022-10-19T09:39:18Z,chibears,-0.447275
+8348,33752,33752,ChicagosOwn1988,He won madden super bowl. He’s an expert.,2.0,chibears,t3_y7ixvh,False,0.0,60s Logo,2022-10-18T23:51:57Z,chibears,0.205625
+8349,33753,33753,ChicagosOwn1988,"A few years ago via the Reddit secret Santa I got one of the most unique and awesome gift ideas ever.
+
+
+I was sent a Green Bay Packers garden gnome and a hammer. The note said “ to let your frustrations out the next time they beat your bears”
+
+Of course it was smashed the very next game against them but was fun thing to do.",2.0,chibears,t3_y7aegn,False,0.0,60s Logo,2022-10-18T15:27:15Z,chibears,0.2080333333333333
+8350,33754,33754,ChicagosOwn1988,"Man, if he isn’t used on special teams, this pick is even worse.
+
+Literally the #1 reason he was even drafted at all.
+
+He was electric in college returning balls.",33.0,chibears,t3_y7gt3g,False,0.0,60s Logo,2022-10-18T15:24:37Z,chibears,-0.0038037037037037
+8351,33756,33756,ChicagosOwn1988,"Of course there is issues. 
+
+
+Dante Pettis and St Brown are seeing snaps on every passing down.
+
+Until this is addressed, these issues will be here.
+
+I’m so tired of everyone talking about this and this when it’s completely obvious why there are issues.",1.0,chibears,t3_y6im5b,False,0.0,60s Logo,2022-10-17T16:31:56Z,chibears,-0.123175
+8352,33757,33757,ChicagosOwn1988,"And Modern Warefare 2 comes out in the next 2 weeks so you know Kyler is gonna be more focused on that. 
+
+Seasons over.
+
+
+When will the Kyler is the most overrated player in the league posts start? Long overdue IMO.",44.0,nfl,t3_y6h1jx,False,0.0,:Bears: Bears,2022-10-17T12:49:19Z,chibears,0.001715234375
+8353,33759,33759,ChicagosOwn1988,"Quinn gets us a 4th? Higgins for a 2nd? 
+
+Lmao this a Madden off-season 
+
+Non of these moves are realistic.",1.0,chibears,t3_y4z4kt,False,0.0,60s Logo,2022-10-16T10:12:44Z,chibears,0.1998
+8354,33761,33761,ChicagosOwn1988,"Put me in the game coach.
+
+I can run the wrong routes, drop passes and fumble just as good as all our WRs. 
+
+Plus I’m cheap!",2.0,chibears,t3_y4qxy1,False,0.0,60s Logo,2022-10-15T10:54:46Z,chibears,-0.0353555555555555
+8355,33764,33764,ChicagosOwn1988,"The team dropped back to back game winning TDs and this is what you’re thinking of?
+
+Lmao",4.0,nfl,t3_y3i6ug,False,0.0,:Bears: Bears,2022-10-14T02:10:20Z,chibears,0.431375
+8356,33766,33766,ChicagosOwn1988,"Which one of these WRs is beating their man off of the snap? None of them.
+
+That’s why it’s not working.",19.0,chibears,t3_y3jgnh,False,0.0,60s Logo,2022-10-14T01:24:37Z,chibears,-0.0169925925925925
+9179,39925,39925,CrispierCupid,"All trash talk is grounds for at least a “yeah, well fuck you” even if you’ve got nothing on them",1.0,nfl,t3_y7ofpv,False,0.0,:Bears: Bears,2022-10-19T08:54:55Z,chibears,-0.34
+9180,39927,39927,CrispierCupid,One “mostly” + another “less” = 1/2 good,2.0,nfl,t3_y6vcbu,False,0.0,:Bears: Bears,2022-10-18T11:45:05Z,chibears,0.4404
+9181,39931,39931,CrispierCupid,Thank fuck the Seahawks didn’t bite when we were trying lol,1.0,nfl,t3_y6vt9n,False,0.0,:Bears: Bears,2022-10-18T09:19:43Z,chibears,0.2023
+9182,39937,39937,CrispierCupid,Agreed,3.0,nfl,t3_y5qoh5,False,0.0,:Bears: Bears,2022-10-16T23:58:23Z,chibears,0.2732
+9183,39954,39954,CrispierCupid,I’ve met *many* dumb family loving Catholics lol,0.0,nfl,t3_y42zp7,False,0.0,:Bears: Bears,2022-10-14T19:06:05Z,chibears,0.5267
+10657,57835,57835,DonkeyKong_93,He's been the best player on our team and I haven't really seen him miss a tackle this year either,2.0,chibears,t3_y53nmk,False,0.0,Bears,2022-10-16T11:34:42Z,chibears,0.5165
+11304,58962,58962,DoubleFlip,"i think it means intercept it by getting screened for it, etc. aka don't give it a chance to get you.",57.0,nfl,t3_y6tedq,False,0.0,:Bears: Bears,2022-10-17T20:51:57Z,chibears,0.125
+11988,60432,60432,DownvoteFarmingLibs,that was the last read and also there was literally 3 defenders there to tackle him lol. even disregarding the first point in no universe is a swing pass 7 yards behind the LOS a better chance than the one Mooney got.,7.0,nfl,t3_y3i6ug,False,0.0,:Bears: Bears,2022-10-14T02:47:10Z,chibears,0.220325
+11989,60433,60433,DownvoteFarmingLibs,he can't call his own designed runs lol.,3.0,nfl,t3_y3i6ug,False,0.0,:Bears: Bears,2022-10-14T02:45:07Z,chibears,0.4215
+12628,61469,61469,Drippin7,"If you can’t turn it into a post would you be willing to message me the file? Work stuff removed of course
+
+Appreciate it",3.0,nfl,t3_y89j2g,False,0.0,:Bears: Bears,2022-10-19T14:01:28Z,chibears,0.20095
+12629,61470,61470,Drippin7,"Would you be willing to post some of that research you did validating PFF grades as more predictive than some advanced stats? 
+
+I’d be really interested in reading it",2.0,nfl,t3_y89j2g,False,0.0,:Bears: Bears,2022-10-19T13:59:34Z,chibears,0.360475
+12630,61471,61471,Drippin7,"PFF grades would be talked about a lot differently if people realized they are just another data point, with flaws, just like DVOA and QBR, rather than an end-all-be-all judgement of play.",24.0,nfl,t3_y89j2g,False,0.0,:Bears: Bears,2022-10-19T13:42:01Z,chibears,0.5994
+12631,61472,61472,Drippin7,Now this is interesting,2.0,chibears,t3_y6zjfn,False,0.0,Fields is my GF,2022-10-19T11:45:06Z,chibears,0.4019
+12632,61473,61473,Drippin7,"Thibs was #1 before the actual college football season and then Hutch shot up boards with the season he had. Pre-draft process wasn’t super kind to Thibs either.
+
+All that being said Cowboys had Thibs 1st overall on their board. Wasn’t a consensus last year.",20.0,nfl,t3_y83qt7,False,0.0,:Bears: Bears,2022-10-19T10:27:22Z,chibears,0.012615625
+12633,61474,61474,Drippin7,"We already traded our Von (Mack). Quinn is just not on that level unfortunately. He’s more comparable a Melvin Ingram who fetched a 6th imo
+
+I do think the pick value goes up with how much cap we are willing to eat.",8.0,chibears,t3_y81wh1,False,0.0,Fields is my GF,2022-10-19T08:36:27Z,chibears,0.0755555555555555
+12634,61475,61475,Drippin7,"Yeah a lot of revisionist history in this thread. They viewed him as a vet in the room and on that D and probably thought the production he would bring would be more than they could get in a trade. Was probably at best a 5th even then considering his age and contract.
+
+He hasn’t played at that level. We can just move him now and eat some of the cap.",74.0,chibears,t3_y81wh1,False,0.0,Fields is my GF,2022-10-19T08:07:54Z,chibears,0.01878992
+12635,61480,61480,Drippin7,"There is 100% such a thing as first round grades across the league. Some teams will call it different things but teams definitely separate players into grades like that.
+
+The Cowboys leaked board last year only had 14 players with 1st round grades. They had at least 20 players after that with 2nd round grades.",5.0,nfl,t3_y7hcms,False,0.0,:Bears: Bears,2022-10-18T17:56:29Z,chibears,-0.0077265624999999
+12636,61484,61484,Drippin7,"It doesn’t make sense to take a tackle in the 1st round this year.
+
+95% of the time rookie tackles are bad. Even the 1st rounders. Guys like Wirfs and Slater are the exception. In reality, even tackles taken 1st round (Andrew Thomas, Darrisaw, any of the ones taken this past year) need around 1-2 years to become competent.
+
+We can’t afford to throw Fields in front of a line his 3rd year with a rookie tackle. Address it in FA.",6.0,chibears,t3_y6zjfn,False,0.0,Fields is my GF,2022-10-18T10:34:36Z,chibears,0.0010735246368434
+12637,61485,61485,Drippin7,"Yeah, wins talk and Breece looks great. Happy he’s worked out.",2.0,nfl,t3_y799cb,False,0.0,:Bears: Bears,2022-10-18T10:29:50Z,chibears,0.5046999999999999
+12638,61486,61486,Drippin7,That’s a big part of it as well yes.,6.0,nfl,t3_y799cb,False,0.0,:Bears: Bears,2022-10-18T10:16:26Z,chibears,0.5859
+12639,61487,61487,Drippin7,"I don’t think I would use the word “waste”. Breece was RB1 in that class and obviously been a great player so far.
+
+I think if I was gonna frame the argument it would be “The Jets would’ve been better off taking one of the very talented players in the secondary/WR over a RB as those players will generally hold their value through a second contract more than a RB and or more likely to even get a second contract. And you can find a talented back later in the draft which is unlikely at any of the other positions I named”
+
+Before Jets fans come at me I’m just playing devil advocate here",11.0,nfl,t3_y799cb,False,0.0,:Bears: Bears,2022-10-18T10:14:52Z,chibears,0.0373453125
+12640,61488,61488,Drippin7,I don’t agree with that either for the record. But I still think the no-RB early argument has some merit,13.0,nfl,t3_y799cb,False,0.0,:Bears: Bears,2022-10-18T10:05:37Z,chibears,0.148
+12641,61489,61489,Drippin7,"I’ll bite.
+
+The entire reasoning behind not picking RB’s early is not their production. Never have their been questions over picking RB’s early and getting value out of them the first couple years of their contract.
+
+It’s that you are spending a very valuable draft pick on a player unlikely to be resigned after their rookie contract, and even if they are resigned they often struggle to maintain their value at their AAV on second contract.
+
+Breece is a great player but we’ll see in 3 years if the Jets would’ve been better off taking a position of greater value.",22.0,nfl,t3_y799cb,False,0.0,:Bears: Bears,2022-10-18T10:01:45Z,chibears,0.190652
+12642,61490,61490,Drippin7,There were definitely some analysts that had Stingley higher (looking at you Mike Renner) because of his freshman year film at LSU. Was basically the Jamarr Chase argument where Stingley was shutdown vs high level NFL players in college at 19 years old. There were also some who gave a lot of credit to Stingley for his play in the run game and zone corner abilities.,24.0,nfl,t3_y6pbor,False,0.0,:Bears: Bears,2022-10-17T18:18:10Z,chibears,0.2142185185185185
+12643,61492,61492,Drippin7,"Agree to disagree I guess.
+
+I don't know what your bar for ""fantastic"" is but I consider a WR whose 5th in receptions and 7th in rec yards for the entire league as having a fantastic season.",6.0,nfl,t3_y6h1zh,False,0.0,:Bears: Bears,2022-10-17T12:48:43Z,chibears,0.39455
+12644,61493,61493,Drippin7,Marquise was having a fantastic year before this,15.0,nfl,t3_y6h1zh,False,0.0,:Bears: Bears,2022-10-17T12:32:58Z,chibears,0.5574
+12645,61498,61498,Drippin7,Have a nice weekend,1.0,chibears,t3_y418qu,False,0.0,Fields is my GF,2022-10-14T16:45:45Z,chibears,0.4215
+12646,61499,61499,Drippin7,That’s okay my overall point was I don’t respect your opinion of o-line play,1.0,chibears,t3_y418qu,False,0.0,Fields is my GF,2022-10-14T16:44:37Z,chibears,0.7506
+12647,61500,61500,Drippin7,"No but I also understand how PFF grades people especially quarterbacks so I understand how they got to that grade relatively. It’s a good objective look at someone’s play as a whole. I also know that they are great reference points when forming an educated opinion. Or when looking for an objective opinion. PFF isn’t gospel of performance but it’s a good data point.
+
+My point overall is that I don’t respect some random redditors opinion of o-line play or what “promise” looks like more than people who get paid by NFL teams do grade people and provide advanced analytics. Nor do I think my eye test is better either. O-line is hard to judge. 
+
+So when a 5th round rookie with Trent Williams like frame and RAS is grading out as one of the best rookie tackles in all of football by not only PFF but also ESPN, I’m gonna put more stock into it than what anyone on this sub has to say about it.
+
+I work in data analysis and a lot of what PFF does is pretty sound if you take the time to look at what they do and how they do it.",1.0,chibears,t3_y418qu,False,0.0,Fields is my GF,2022-10-14T16:42:02Z,chibears,0.05452734158229
+12648,61502,61502,Drippin7,ZACH WILSON BREAKOUT GAME ON THAT BUM ASS GREEN BAY DEFENSE,14.0,nfl,t3_y44be6,False,0.0,:Bears: Bears,2022-10-14T16:10:47Z,chibears,-0.4588
+12649,61503,61503,Drippin7,"Can I jump ahead and say Patrick’s hand injury caused all of this?
+
+They never planned on Mustipher having to be a C and the hand injury caused the whole carousel/G rotation when he did come back.
+
+Then obviously as you said Whitehair getting hurt caused even more issues",5.0,chibears,t3_y418qu,False,0.0,Fields is my GF,2022-10-14T14:21:59Z,chibears,-0.1603518518518518
+12650,61504,61504,Drippin7,"> This team needed to build a new OL from the ground up for years and Poles accomplished nothing in his first year trying to do that.
+
+So playing the rookie tackle isn’t trying to do it from the ground up? Idk what it is now but Braxton was the highest graded rookie tackle on PFF before this week. He’s shown way more promise than people are giving him credit for.
+
+Is playing Borom who showed promise last year not building from the ground up? Is playing our 2nd round pick at G not from the ground up? 
+
+So do you want to build from the ground up or have immediate stop gap answers?",9.0,chibears,t3_y418qu,False,0.0,Fields is my GF,2022-10-14T14:06:49Z,chibears,-0.0173205933387813
+12651,61505,61505,Drippin7,"So first off the Cowboys didn’t pass on him. They took Tyler Smith who they had at 16 overall at 24. They had Kyler 8 spots below. 
+
+I don’t know why Gordon fell besides assumptions and rumors, same thing goes for Pickens. Clearly teams had concerns for Pickens. 
+
+Kyler and Brisker could have a much better career than Pickens and Pierce. We have no clue until years from now.
+
+Clearly the Bears didn’t have Pickens anywhere near Brisker or Gordon. They were prepared to take Brisker at 39.",2.0,chibears,t3_y3zzuh,False,0.0,Fields is my GF,2022-10-14T13:18:54Z,chibears,0.0297740673000389
+12652,61506,61506,Drippin7,"> Who cares about pre draft boards
+
+Do you in all honesty actually think that teams don't use or value their own draft boards? The boards that teams spend thousands of hours in scouting building during the pre-draft process? That they use as a guideline to make their own picks? The same board the entire front office, coaching staff, and scouts build.
+
+Do you think we are talking about some big board put together by ESPN? 
+
+By the same logic, if George Pickens is so nice of a receiver with zero flaws, why did he fall into the Steelers laps at 52 overall? If Alex Pierce was so good why was he a late second round pick?",2.0,chibears,t3_y3zzuh,False,0.0,Fields is my GF,2022-10-14T13:05:07Z,chibears,0.0939538294903848
+12653,61507,61507,Drippin7,"Do you realize Kyler Gordon was a first round talent on some actual NFL draft boards? Pretty sure Cowboys had him at 24 overall on their leaked board. 
+
+Pickens and Pierce weren’t even on it. Secondary was absolutely a need and the front office saw a guy they probably graded as a first rounder fall, and someone (Brisker) who they were going to take at 39 fall to 48.
+
+They said they are a BPA staff and took who they viewed as the BPA. They weren’t intentionally neglecting the offense. They took who they viewed as steals and higher overall on their boards.
+
+Here’s the distribution of picks after the second round:
+
+5/6 picks after that were used on offense.
+
+There’s an entire process to these things. They got two guys they wanted at 39 overall with both second rounders. We have no idea who they would’ve taken if Gordon or Brisker were off the board earlier.",4.0,chibears,t3_y3zzuh,False,0.0,Fields is my GF,2022-10-14T12:46:34Z,chibears,-0.0269296594718718
+12654,61508,61508,Drippin7,"I’ve been getting a good laugh out of the people complaining “We have been ‘almost there’ for almost 30 years and it’s never true” then also complain about a team going full clean house to set up a healthy cap and draft capital with the goal of long term, sustainable success.
+
+This sub is just filled with people who want to live in a $5 million dollar mansion without actually going through any of the work to build it",2.0,chibears,t3_y3oo2d,False,0.0,Fields is my GF,2022-10-14T11:57:19Z,chibears,0.26515
+12655,61509,61509,Drippin7,It was always going to be garbage and there wasn’t really a way around it. There is not a single GM in the league who could’ve made this a top half roster without trading away every single pick at our disposal,0.0,chibears,t3_y3ysof,False,0.0,Fields is my GF,2022-10-14T11:51:48Z,chibears,0.10115
+12656,61510,61510,Drippin7,"Nobody has any reason to trust or not trust Poles at this point in time. Having a sway in either direction is idiotic.
+
+We have nothing to judge him on",11.0,chibears,t3_y3ysof,False,0.0,Fields is my GF,2022-10-14T11:48:21Z,chibears,-0.0562814814814814
+12657,61511,61511,Drippin7,"Did you.... watch the game? 
+
+They passed on all four downs in the last red zone trip. Do-or-die situation and they passed on all four downs. So what are you complaining about",6.0,chibears,t3_y3oo2d,False,0.0,Fields is my GF,2022-10-14T11:08:55Z,chibears,-0.050575
+12658,61512,61512,Drippin7,"I think it would be beneficial to this sub to remind everyone how absolutely dire the Bears situation was going into this last offseason. 
+
+I’m not sure when that fact got lost, but the Bears were/are in the worst team building spot of any team in the league. That’s not an exaggeration either. The Bears were one of the oldest teams in the league, with bottom 5-10 draft capital over the next 3 years, with very little young talent to build on. 
+
+Even if you remove the Khalil Mack trade, we are still $40 million in dead cap. We are stilling eating dead cap for guys Pace cut after 2020. Just an absurd number. 
+
+We had $40 million in cap space to fill over 35+ roster spots just to meet the 53 man roster minimum.
+
+This was always the clean house year. This isn’t even an intentional tank. This is just the reality of what years of bad contracts, void years, and trading away draft picks gets. You get a bad team.",10.0,chibears,t3_y3oo2d,False,0.0,Fields is my GF,2022-10-14T10:35:34Z,chibears,-0.0489382536595286
+12659,61513,61513,Drippin7,"They were never going to make any changes to the OL on a short week with limited practice time. 
+
+Any changes will happen during this mini-bye",1.0,chibears,t3_y3oo2d,False,0.0,Fields is my GF,2022-10-14T10:23:40Z,chibears,-0.056575
+12660,61514,61514,Drippin7,"And I agree with that. When you asked I never looked at any of the blue chips it’s unreasonable. Can’t assume you get every best FA. 
+
+I personally think this team won’t truly be competitive until 2024. We were one of the oldest teams in the league with one of the worst cap situations and limited picks.
+
+Fields being thrusted into this situation has just exasperated the issue. He’s just caught up in one of the worst cap situations in the league.",1.0,chibears,t3_y3ia2e,False,0.0,Fields is my GF,2022-10-14T09:31:42Z,chibears,-0.0996974432421865
+12661,61515,61515,Drippin7,"Yes a GM who wanted to clear the dead cap off the books and insert one of the oldest teams in the NFL with young talent in a year where we had only $40 million in cap space to sign over 35+ players to even fill out a 53 man roster.
+
+The Bears had the worst cap scenario/draft capital/lack of young talent in the league going into this last offseason. Genuinely the worst. There was not a team in the NFL in a worse situation. The writing was all over the wall to anyone who took one good look at what the teams future outlook was.
+
+Pace laid his eggs out with bad contracts and void years and this is the result of a GM who saw this roster and cap situation for what it was and stripped it clean. 
+
+This was always a clean house year. I don’t know what some of you expected tbh.",5.0,chibears,t3_y3oo2d,False,0.0,Fields is my GF,2022-10-14T08:57:21Z,chibears,0.0059750317037105
+12662,61517,61517,Drippin7,"Solid C’s available. Decent availability at interior line depth if you believe in a new center + Jenkins + Whitehair. Also should be able to fill that in the 2nd/3rd round if you went that route. 
+
+Flexible 1st round pick. Could always trade back and grab a WR in a class that won’t push up much into the top 10. Could just take value. Or a right tackle. 
+
+You also get more flexible with 2024 picks after the next draft to potentially trade for some players.
+
+It’s also realistically a team that becomes truly competitive in 2024. Too many holes on both lines and WR. Plus not great secondary depth. 
+
+Could address some of the defense needs in free agency on reasonable 2/3 year contracts and focus more in the draft on offense.
+
+It’s a very fluid and flexible situation.",0.0,chibears,t3_y3ia2e,False,0.0,Fields is my GF,2022-10-14T00:20:58Z,chibears,0.0244021543864363
+12663,61518,61518,Drippin7,"Couldn’t imagine being this wound up about a rebuilding team. Get a grip
+
+I’m not going to debate with some grown man throwing a tantrum.",-1.0,chibears,t3_y3ia2e,False,0.0,Fields is my GF,2022-10-14T00:11:29Z,chibears,-0.21075
+12664,61519,61519,Drippin7,"Same difference? This was never going to be a competitive year. 3rd in the league in dead cap. 
+
+I dont think any team with $115 million in cap space and a top 10 pick is in a bad spot. I also don’t know what you expect from a team who is paying over $40 million to players not even on the team. 
+
+Anyone who took a look at this rosters outlook going into this year knew the Bears would have to eat the dead cap. Year 1 or year 0. It’s the same thing.",1.0,chibears,t3_y3ia2e,False,0.0,Fields is my GF,2022-10-14T00:10:23Z,chibears,-0.0012814512729644
+12779,62714,62714,EBeerman1,"Quinn was our only pass rusher who did anything last year.. Mack and hicks played under 30% of the snaps.
+
+It’s a huge bummer that he hasn’t looked at least half the part this year.. but I understand why they wanted to get some last bits of production out of him. Just a shame
+
+I feel like a lot of these “roll the dice” roster moves haven’t panned out for us this year 🫤",18.0,chibears,t3_y81wh1,False,0.0,Smokin' Jay,2022-10-19T08:06:28Z,chibears,-0.0427407407407407
+13189,65205,65205,Er0ck619,"Last time Belichick praised the Bears he said “Trubisky has a hell of an arm. Can sling it easily 50-60 yards”
+
+The Bears proceeded to lose on a Trubisky 60 yard Hail Mary that was actually caught a yard short of the goal line. 
+
+Almost prophetic.",1.0,nfl,t3_y82mr4,False,0.0,:Bears: Bears,2022-10-19T12:54:12Z,chibears,-0.0125925925925925
+13190,65206,65206,Er0ck619,I remember when Belichick praised Trubiskys arm and said “He can fling it easily downfield 50-60 yards” almost foreshadowing how we’d lose that game lol,22.0,chibears,t3_y840l4,False,0.0,Forte,2022-10-19T10:37:02Z,chibears,0.6908
+13191,65207,65207,Er0ck619,"No way! 
+
+It’s almost as if all the shitty WRs we talked ourselves into being good are actually not!",1.0,chibears,t3_y7cnxj,False,0.0,Forte,2022-10-18T12:56:08Z,chibears,-0.2139249999999999
+13192,65208,65208,Er0ck619,"Herbert is bad at blocking and can’t catch. He’s a good change of Pace back. He is not better than Montgomery. He could be but he’s not there yet. There’s more to being a good rb than having more yards. Then who replaces Herbert? Ebner is literally just a body. Might as well be Ryan Nall. This take is just stupid.
+
+Half of those are Brady teams lol. Salaries have also risen since then too. Ebner is making close to a million this year and he’s the 93rd highest paid back as a rookie 5th rounder. Chiefs are literally paying CEH like 3 million this year too lol. 
+
+You can argue about paying Montgomery but it’s an idiotic take to say we don’t need a back. If you let him go we’re wasting a draft pick on a back or paying a guy like Hunt a few million in FA. 
+
+[RB salaries](https://www.spotrac.com/nfl/rankings/2022/running-back/average/)",1.0,chibears,t3_y6jisk,False,0.0,Forte,2022-10-17T16:30:14Z,chibears,-0.0003784317759839
+13193,65209,65209,Er0ck619,"Herbert blocks as bad as Mustipher. Why keep creating holes? No one’s saying pay him CMC money lmao but you think RBs just don’t get paid lol? I’m thinking Edmunds/Connor type. 3 years. 18mill. Maybe 11mill guaranteed. 
+
+If we don’t pay him we’re spending a draft pick on a RB or paying someone else in the offseason",0.0,chibears,t3_y6jisk,False,0.0,Forte,2022-10-17T16:04:39Z,chibears,-0.0128349026024341
+13194,65210,65210,Er0ck619,Herbert has broken off bigger runs but he’s allowing too many pressures on pass pro. Montgomery has allowed zero so far. Herbert hasn’t proven he’s a reliable pass catcher either. Why not pay Monty and keep that nice tandem going. Why waste a pick on another RB. Ebner at this point is just a body.,3.0,chibears,t3_y6jisk,False,0.0,Forte,2022-10-17T15:44:34Z,chibears,-0.0095177554869684
+13195,65211,65211,Er0ck619,"I understand stocking picks and it sounds awesome going into the draft loaded but essentially we’re also creating more holes, on a team that already has fuckin plenty, by trading everyone away. 
+
+Id like to give a reasonable 3yr extension to Monty and have Hebert on his rookie deal while sprinkling in Ebner than having to spend a 3rd/4th round pick on a Monty replacement.",1.0,chibears,t3_y6jisk,False,1.0,Forte,2022-10-17T14:39:51Z,chibears,0.34415
+13196,65212,65212,Er0ck619,"To answer your question, and for the record I am someone who questions our future with fields, Fields is a top 5 QB in air yards. Which is part of his problem. He’s looking for the knockout but misses the underneath too often.",1.0,chibears,t3_y5zyif,False,0.0,Forte,2022-10-16T22:31:18Z,chibears,-0.1468629629629629
+13197,65213,65213,Er0ck619,I understand not paying RBs but we have tons of needs besides the glaring WR/Oline holes. If we can resign Monty to a team friendly deal I think that’s a win. Why create more holes and just say “we’ll just spend draft capitol in the mid rounds to fill a hole we created” ?  What has Ebner done for people to be like he’ll help us fill the hole!,7.0,chibears,t3_y5zk0r,False,0.0,Forte,2022-10-16T22:28:05Z,chibears,0.1951125
+13198,65214,65214,Er0ck619,Saint Omni strikes again,23.0,chibears,t3_y5kitl,False,0.0,Forte,2022-10-16T11:16:37Z,chibears,-0.3612
+13199,65215,65215,Er0ck619,"Lol
+
+“First round WRs we’re running circles against future tax accountants but that’s not the point!” 
+
+/s",2.0,chibears,t3_y4qxy1,False,0.0,Forte,2022-10-15T14:32:19Z,chibears,0.2942
+13200,65217,65217,Er0ck619,Sounds standard but it’s nice to hear. Think we’re all jaded by the Nagy Era of searching for the whys and shit and nothing changing. Will be nice to see if they make some personnel changes on the DLine and OLine. Maybe some more roll outs for Justin.,4.0,chibears,t3_y4qxy1,False,0.0,Forte,2022-10-15T11:31:21Z,chibears,0.017091796875
+13201,65220,65220,Er0ck619,Nope!  Especially with Gordon’s slow start and VJJ costing us games. Some people are way too comfortable giving a pass to this regime.,-3.0,chibears,t3_y418qu,False,0.0,Forte,2022-10-14T14:39:12Z,chibears,0.2302666666666666
+13202,65223,65223,Er0ck619,"Bro don’t. Go suck the kool aids dick at this point.  You’re completely fine with this team getting beat by Barkley running a high school wildcat offense and elite qb play by Wentz being stopped by Gordon gives you faith that Poles and Eberflus are the correct people to spend 120 million next year? 
+
+Say it
+
+“I have complete faith in Ryan Poles and Matt Eberflus going into next offseason with the most cap spec in the league and I trust them based on one third of the season”
+
+Don’t even respond if you can’t say that. 
+
+Tell me based on what you’ve seen these are the two people you want having those resources. 
+
+The Cards swapped Rosen for Murray after a year. 
+
+Poles and Flus didn’t save your mom from a fire what loyalty do you have to them other than George McCaskey felt a tingle in his prostrate and now you’re gargling his nuts.",0.0,chibears,t3_y3i4y2,False,0.0,Forte,2022-10-14T01:02:17Z,chibears,0.0660957033208952
+13203,65224,65224,Er0ck619,"I said what I said. Poles drafting isn’t helping us this year. And I’m someone who bought in. I just didn’t think this class would be worse than Meredith, Bellamy, Inman, Wright. 
+
+Those guys got contracts with other teams or us after the 2017 season. This core is going nowhere and watching Gordon struggle when the offense is already costing us plays and guys like Pierce/Pickes/Doubs could’ve been had and made our team instantly better ?
+
+Hard to swallow
+
+Ya why not. Fire Poles. Teams are moving on from QBs. What’s Poles shown that gives him a pass?
+
+What’s Poles shown that says Poles and Eberflus are the correct choice in directing our rebuild ?",0.0,chibears,t3_y3i4y2,False,0.0,Forte,2022-10-14T00:42:28Z,chibears,-2.3593271387337613e-05
+13204,65225,65225,Er0ck619,Nah. I’m saying don’t surprised when do and it’s this draft.,0.0,chibears,t3_y3i4y2,False,0.0,Forte,2022-10-14T00:34:29Z,chibears,0.087475
+13205,65226,65226,Er0ck619,"Nah I’m not letting you hijack my post. All I said was don’t surprised if Jones, Gordon, VJJ are the reason we’re rebuilding in four years with a new GM. Someone called it when Pace drafted Trubs, Cohen, and Shaheen.",0.0,chibears,t3_y3i4y2,False,0.0,Forte,2022-10-14T00:29:55Z,chibears,0.0213407407407407
+13206,65227,65227,Er0ck619,"Dude. That’s what I said. Brisker is good. I like him lot. Jones Is not good though. And he’s starting out of need. Not cause he beat out a bunch of quality competition. Do you think Mustipher is good? Causes he’s starting and PFF says he’s good too. 
+
+You have VJJ a punt returner who can’t catch punts costing us games. A CB who finally had a decent game against Carson Wentz lol. And a rookie LT we’re starting out of need. 
+
+C-     Until they improve. And that’s generous. Could’ve had maybe even two of Pierce/Pickens/Doubs, Brisker, and Jones still.",0.0,chibears,t3_y3i4y2,False,0.0,Forte,2022-10-14T00:18:41Z,chibears,0.0024003800333097
+13207,65228,65228,Er0ck619,"I’m not deciding how any of these guys will be. Just they are not good right now. Can they be better? Sure. But there are guys who are good right now helping their shitty teams be better. This is not a good draft as of now. 
+
+VJJ cost us two games (or at least helped the other team score crucial points in final minutes). Gordon had a decent game finally in week 6 but has been getting bullied up until now. Brisker has been good. Big fan. Jones is not good either. 
+
+C- is my draft game through week 6.",0.0,chibears,t3_y3i4y2,False,0.0,Forte,2022-10-14T00:08:46Z,chibears,-0.0021671583978831
+14349,70670,70670,FratDaddy69,"This year he's had a fumbling problem this year no doubt, but his first 2 years those fumble numbers weren't exactly massive.  4 in 2020 and 3 in 2021, there are a lot of big names that had as many or more fumbles in that time frame.",19.0,nfl,t3_y77dl8,False,0.0,:Bears: Bears,2022-10-18T12:50:30Z,chibears,-0.018975
+14350,70671,70671,FratDaddy69,"People really seem to hate the guy for some reason.  Like he's had a couple screw ups, but the amount of vitriol from Chargers and Broncos fans for the guy is nuts, especially since he's been mostly productive through his career.",92.0,nfl,t3_y77dl8,False,0.0,:Bears: Bears,2022-10-18T11:29:35Z,chibears,-0.321925
+14351,70673,70673,FratDaddy69,"It was Mooney too, that's the one guy he should trust on the offense.",1.0,chibears,t3_y6n1fq,False,0.0,Smokin' Jay,2022-10-18T08:33:59Z,chibears,0.3182
+14352,70674,70674,FratDaddy69,"I'm a strong maybe at this point.  He definitely holds onto the ball way too long, but as far as arm talent goes he's got it in spades.  If he can figure out how to be decisive in throwing the football I think he can be very good, but that's not an easy thing to do, especially when you don't have any talent around you.",35.0,chibears,t3_y3tl8j,False,0.0,Smokin' Jay,2022-10-14T08:48:10Z,chibears,-0.0898444444444444
+15436,73139,73139,FuckTheCrabfeast,"I mean we just cut ISM. Velus cost us more in terms of investment and has fucked up twice. Is a clear double standard going to set a great culture?
+
+I'm not saying we should cut VJJ, but he's done nothing to hold onto his job at this point.",-5.0,chibears,t3_y7gt3g,False,0.0,Smokin' Jay,2022-10-18T15:55:38Z,chibears,0.00170625
+15437,73140,73140,FuckTheCrabfeast,Yeah. there really is an art to knowing what to do on punt returns. It's not Madden where you can just put a speedy person there and expect it to work out.,31.0,chibears,t3_y7gt3g,False,0.0,Smokin' Jay,2022-10-18T15:51:03Z,chibears,0.0109629629629629
+15438,73141,73141,FuckTheCrabfeast,That's fine. I don't mind throwing darts at LB and D-Line. But I don't know how the staff can get an accurate evaluation of Fields given the circumstances.,10.0,chibears,t3_y6o34a,False,0.0,Smokin' Jay,2022-10-17T19:38:48Z,chibears,0.0074925925925925
+15439,73142,73142,FuckTheCrabfeast,Crazy how some don't understand it can still be a developmental year without putting him in the absolute worst situation in the league.,47.0,chibears,t3_y6o34a,False,0.0,Smokin' Jay,2022-10-17T19:02:31Z,chibears,-0.7579
+15440,73143,73143,FuckTheCrabfeast,"His new deal had almost $42 million guaranteed. It just doesn't go away.
+
+After you use the calculator to ""trade"" him, scroll over to the 2023, 2024 and 2025 tab and you'd see the dead money they'd still be paying him in those years.",1.0,chibears,t3_y6jmuv,False,0.0,Smokin' Jay,2022-10-17T15:04:47Z,chibears,-0.2161999999999999
+15441,73144,73144,FuckTheCrabfeast,Are you even aware of the dead cap associated with them trading Moore before the end of the 2023 season?  It's more than if they'd just keep him on the roster. You think they want to eat 30+ million for a few 4th rounders? It ain't happening.,1.0,chibears,t3_y6jmuv,False,0.0,Smokin' Jay,2022-10-17T14:17:56Z,chibears,0.00229140625
+15442,73145,73145,FuckTheCrabfeast,"After rewatching a few times, I think I take issue with what Kurt is saying around the 4:50 mark on the play where he said Justin missed due to his throwing motion. 
+
+I think he adjusted his arm angle last second because the LB jumped into his lane. If he throws it where Kurt is saying he should, it's either tipped and/or picked. https://i.imgur.com/VsGBV3D.png
+
+Unless the video is really throwing off the depth of the LB, it looks like he almost gets a hand on it even where Justin ended up throwing it. Kinda seemed like good D and him getting in the way.",13.0,chibears,t3_y6hch6,False,0.0,Smokin' Jay,2022-10-17T14:05:08Z,chibears,0.145324512
+15443,73146,73146,FuckTheCrabfeast,"It's definitely more encouraging both from the playcalls and the QB play compared to Mitch and Nagy.
+
+As Kurt mentioned, we're literally taking turns where Fields will fuck it (and not let it rip), line will fuck up and give him zero time, and the WRs will fuck up and drop the ball.
+
+We're simply not talented enough to be taking turns messing up. Fields is a smart dude, so I really hope he can turn around his issue of not trusting what he is seeing and let some of those anticipation throws go. If so, that's a few extra positive plays a game and a few less hits he's probably taking.",3.0,chibears,t3_y6hch6,False,0.0,Smokin' Jay,2022-10-17T13:58:44Z,chibears,0.157684736
+15444,73147,73147,FuckTheCrabfeast,"It's an anticipation issue, trust issue, or a combination of both. I agree he tends to, more often than not, have his eyes in the right place. I really hope they hammer it into him over this ""mini bye"" that you just need to freaking let it rip. 
+
+I think Kurt does a really good job explaining the why behind a lot of this pre snap and why Justin is sometimes focusing on one side of the field vs. the other. I'm also glad he agrees that Fields needs to hit the pass to Griffin. Dilfer and others are adamant it's not on him. But I fall into the side that says not every route will be perfectly timed and that wide open window in the NFL should be hit 100/100 times.",4.0,chibears,t3_y6hch6,False,0.0,Smokin' Jay,2022-10-17T13:54:43Z,chibears,0.1131088577038478
+15445,73148,73148,FuckTheCrabfeast,Lol true,1.0,chibears,t3_y50827,False,0.0,Smokin' Jay,2022-10-16T11:21:57Z,chibears,0.6808
+15446,73149,73149,FuckTheCrabfeast,"I'd love to take a gamble on him at the right price, simply because his skillet is what I think our offense needs and nobody else on the roster has his type of profile.
+
+Of course there are a ton of red flags here so I'm not giving up anything beyond a conditional 5th.",8.0,chibears,t3_y584c3,False,0.0,Smokin' Jay,2022-10-16T11:19:33Z,chibears,-0.0355749999999999
+15447,73152,73152,FuckTheCrabfeast,"I'm not disagreeing, but my guess is they're going to say that's the position he was signed to play and give him a shot there.",15.0,chibears,t3_y50827,False,0.0,Smokin' Jay,2022-10-15T19:04:28Z,chibears,0.56
+15448,73153,73153,FuckTheCrabfeast,"Outside of the draft, we're likely going to have to trade for a WR if we want a current player. The group slated to be free agents is absolutely pathetic. Higgins would be a dream come true.
+
+At TE I'd want to gamble on Gesicki.",3.0,chibears,t3_y4z4kt,False,0.0,Smokin' Jay,2022-10-15T18:22:45Z,chibears,0.0534687499999999
+15449,73154,73154,FuckTheCrabfeast,"I have to imagine they're banking on Whitehair coming back in a few games and likely Patrick moving to Center. Doubt anything of value is available via trade at this point.
+
+The only WR I'd be interested in dealing for is DJ Moore but doubt Carolina trades him. Reports are they'd deal Robbie Anderson. Wouldn't mind for a late pick but nothing substantial.",22.0,chibears,t3_y50827,False,0.0,Smokin' Jay,2022-10-15T18:20:25Z,chibears,-0.04746128
+15450,73155,73155,FuckTheCrabfeast,"Of course I don't think they went in saying fuck the O, either. I just don't think Gordon was a slam dunk rush to the podium to turn in the card type of prospect that he is touted as. Of course Poles had him rated as BPA. Of course it's possible that was a mistake.",0.0,chibears,t3_y3zzuh,False,0.0,Smokin' Jay,2022-10-14T13:15:20Z,chibears,-0.089510546875
+15451,73156,73156,FuckTheCrabfeast,"I am saying who cares about where those teams had him slotted if they passed on him. Why didn't those teams call us up and offer us a ransom for him when we were on the clock? 
+
+I never said Pickens had zero flaws. It's obvious why he fell. My argument is the combination of talent+need give me Pickens. Why did Gordon fall?",1.0,chibears,t3_y3zzuh,False,0.0,Smokin' Jay,2022-10-14T13:12:13Z,chibears,-0.0100234996570644
+15452,73157,73157,FuckTheCrabfeast,I tend to agree regarding overall unit. But I think you're just glossing over the impact that marginally better play on the line would have. The same argument could have been made that Whitehair and Patrick would be on the line at LG/C to pair with rookie(s) to form a formidable unit as well.,0.0,chibears,t3_y3zzuh,False,0.0,Smokin' Jay,2022-10-14T13:02:02Z,chibears,0.0598555555555555
+15453,73158,73158,FuckTheCrabfeast,"He was a first round talent by so many teams he didn't get drafted in the first round. Who cares about pre draft boards. It's not like he was some top 10 consensus that fell unexpectedly, he was a fringe back end of round 1 guy who fell to early round 2. Additionally, if a first round talent so many teams had graded way above that fell into our laps we could have obviously received a nice haul in return and traded out, right?
+
+So no - a very nice DB was on the board and we picked him over very nice OL/WR. This isn't some premiere game changing DB we're talking about.",0.0,chibears,t3_y3zzuh,False,0.0,Smokin' Jay,2022-10-14T12:56:41Z,chibears,0.0190166473765432
+15454,73159,73159,FuckTheCrabfeast,"> I also just don’t see how 1-2 upgrades at OL in the second round would make a huge difference. They are struggling at all 5 OL positions.
+
+This doesn't compute. You say all 5 suck but don't see how 1-2 upgrades would help? Um....kinda the same way that 1-2 improved players in the secondary is helping there at the moment?
+
+It's also a HELL OF A LOT easier to scheme on O if you know you can at least trust the interior of the line and only need to chip on the outside...or vice versa.",1.0,chibears,t3_y3zzuh,False,0.0,Smokin' Jay,2022-10-14T12:48:27Z,chibears,0.0097202074759945
+15455,73160,73160,FuckTheCrabfeast,Exactly. Why not take better OL or WR in the second round and then throw darts at CB and S after that. It's as if this tear down could only be done by neglecting the offense in some people's minds.,0.0,chibears,t3_y3zzuh,False,0.0,Smokin' Jay,2022-10-14T12:41:50Z,chibears,-0.2285444444444444
+15456,73161,73161,FuckTheCrabfeast,"I think what gets lost in this entire debate is nobody (that I've seen) is pissed we're losing games, we're pissed because it was pretty obvious our offense was setup to fail and the D was made a priority. 
+
+I don't care if we're mediocre on D this year (vs. a garbage schedule so far) if it means we're completely dysfunctional on offense. 
+
+The effort that went into trying to get Larry O should have been targeted on the best OL in that price range. (many said this in real time). 
+
+One (if not both) of our 2nd rounders should have gone to OL/WR. (many said this in real time)
+
+VJJ is just a complete waste of a pick. (many said this in real time).
+
+So this isn't some revisionist history here. The fear going into this season after all the moves we made was ""holy shit, we have the worst line and WRs in the league and we're going to get Justin killed"". That's come true. Nobody was screaming about oh now we're gonna lose games, we were screaming about setting him up for failure.",18.0,chibears,t3_y3zzuh,False,0.0,Smokin' Jay,2022-10-14T12:39:03Z,chibears,-0.0772917478247628
+15457,73162,73162,FuckTheCrabfeast,"Of course we can't blame the D for the loss, but it was basically bad offense vs. mediocre defense. Quinn is still a ghost out there. Same thing happened vs the Giants.",17.0,chibears,t3_y3zpnr,False,0.0,Smokin' Jay,2022-10-14T12:19:18Z,chibears,-0.0637703703703703
+15458,73163,73163,FuckTheCrabfeast,"If the money is GTD then the players and agents don't give a shit. It's not arm chair GM, it's literally what actually happens all the time.",0.0,chibears,t3_y3yx53,False,1.0,Smokin' Jay,2022-10-14T12:11:46Z,chibears,0.111225
+15459,73164,73164,FuckTheCrabfeast,"It's not really hindsight, though.
+
+Many of us said it was dumb to make Larry Ogunjobi your priority FA as well as not address OL/WR with our first picks this year. That was in real time when those decisions were made. Of course at that time anyone saying that would get downvoted with replies along the lines of ""give it time"".
+
+So if we repeat that same thing now after giving it time it's now hindsight?
+
+And we're not talking about making a bunch of huge splashes on O in some attempt to make the playoffs or something. We're talking about laying some type of foundation so the offense could actually be installed and to give us a real evaluation of Fields. We're literally wasting an entire year at best....and setting his development and career back at worst.",4.0,chibears,t3_y3ysof,False,0.0,Smokin' Jay,2022-10-14T12:07:50Z,chibears,-0.1014800239562988
+15460,73165,73165,FuckTheCrabfeast,"Pace did it going ""all in"". It could have still been done strategically this off-season to simply give us SOMETHING better on the line and/or at WR.",-2.0,chibears,t3_y3yx53,False,1.0,Smokin' Jay,2022-10-14T11:53:53Z,chibears,0.2202
+15461,73166,73166,FuckTheCrabfeast,Because there's no middle ground between doing that and doing jack shit?,3.0,chibears,t3_y3yx53,False,0.0,Smokin' Jay,2022-10-14T11:52:45Z,chibears,-0.7003
+15462,73167,73167,FuckTheCrabfeast,"Such a weak and lazy argument. 
+
+It's almost as if NFL contracts can, ya know, can extend into other years. You don't need fit a player's entire contact under the 2022 cap.",17.0,chibears,t3_y3yx53,False,0.0,Smokin' Jay,2022-10-14T11:50:05Z,chibears,-0.1011222222222222
+15463,73168,73168,FuckTheCrabfeast,"Most likely. But like everything we've done in the off season, we're expecting bargain bin scraps to play meaningful roles.",2.0,chibears,t3_y3wemo,False,0.0,Smokin' Jay,2022-10-14T11:46:08Z,chibears,0.44425
+15464,73169,73169,FuckTheCrabfeast,"So much of the justification of this pick was ""but he'll help so much on special teams!"".
+
+If you take that away, holy shit does this pick (and the entire plan of waiting until this pick to address WR) look even worse.",58.0,chibears,t3_y3y1u4,False,0.0,Smokin' Jay,2022-10-14T11:42:20Z,chibears,-0.178075
+15465,73170,73170,FuckTheCrabfeast,It was widely considered a terrible TE class and Pace felt he just had to pick him even after outbidding himself to sign Jimmy Graham.,9.0,chibears,t3_y3wemo,False,0.0,Smokin' Jay,2022-10-14T10:30:41Z,chibears,-0.4767
+15466,73171,73171,FuckTheCrabfeast,"Yeah. We have no ""quick"" throws other than WR screens.",9.0,chibears,t3_y3wemo,False,0.0,Smokin' Jay,2022-10-14T10:17:07Z,chibears,-0.074
+15467,73172,73172,FuckTheCrabfeast,You don't draft a TE in the 2nd round (with your first pick) because he can pickup a block. He's a wasted pick at this point and don't imagine that'll change.,6.0,chibears,t3_y3wemo,False,0.0,Smokin' Jay,2022-10-14T10:15:15Z,chibears,-0.35705
+15468,73173,73173,FuckTheCrabfeast,"Who is that guy on our team that can just flat out get open underneath when you need to pick up a 3rd and 4? I'm not talking about Justin scrambling around to pick it up with his feet or the play to break down and WRs going into scramble drill... I'm talking about who the hell can get open?
+
+That was supposed to be Kmet. He's supposed to too big for a CB to cover and good enough to beat a LB. He doesn't do either well at all. 
+
+Mooney just isn't that type of WR, either. All of our plays are crossing routes that need time to develop or where we need a vertical route to clear a DB and we just don't have the time in the pocket for that.
+
+Kmet is such a disappointment in the passing game. He was drafted to be a QB security blanket but he's just flat out bad.",44.0,chibears,t3_y3wemo,False,0.0,Smokin' Jay,2022-10-14T10:13:08Z,chibears,-0.066420223068
+15469,73174,73174,FuckTheCrabfeast,"That ""win"" against the Texans is gonna haunt us, isn't it",7.0,chibears,t3_y3tfmj,False,0.0,Smokin' Jay,2022-10-14T08:22:09Z,chibears,0.2732
+15470,73176,73176,FuckTheCrabfeast,"This is where I'm at with him. Does his supporting cast suck? Absolutely. Does he hold onto the ball too long and also misses throws that are there? Absolutely.
+
+So we have a bad line, bad WRs, a QB who holds the ball too long, runs before going through all of his reads, a rookie OC trying to cram his system on a second year QB. It's all a mess that our GM thought was acceptable.",2.0,chibears,t3_y3oo2d,False,0.0,Smokin' Jay,2022-10-14T08:07:50Z,chibears,-0.023600374843815
+15969,73807,73807,FuckingHatesNFLRefs,"Yeah, I really don't get the ""if we draft a QB they'll be in the same bad situation"" argument. Doesn't that apply to just about every quarterback drafted in the top 5, with a few crazy, Lance-esque exceptions?
+
+Let's just pretend for a moment we do draft high enough for Stroud or Young and we take one of them with our first. We'll probably have a very high second that we can use on a solid WR like Josh Downs or maybe even Addison if he slips due to his recent injury. Then trade out a 3rd for a WR3 (DJ Moore feels like a pipe dream at this point, but it would be ideal if it happens). Splurge out on O-line during FA, maybe even draft another lineman depending on what we get from trading Quinn/Roquan. 
+
+By all reasonable expectations, we should have a workable offense by the end of the offseason. At least good enough so the new hypothetical QB doesn't have any excuses.",3.0,chibears,t3_y8e5bs,False,0.0,Chicago Flag,2022-10-19T20:49:49Z,chibears,0.0513363777458667
+15970,73808,73808,FuckingHatesNFLRefs,"It's the other way around for me.
+
+No quarterback can truly look good in this offense, so I don't think can possibly learn if he's ""the guy"" this year, but if he goes back to playing like he did against Green Bay and Houston for the rest of the year, then he's definitely not it.",0.0,chibears,t3_y8e5bs,False,0.0,Chicago Flag,2022-10-19T20:44:39Z,chibears,0.43445
+15971,73809,73809,FuckingHatesNFLRefs,"What's not working with the playcalling to you?
+
+Not enough designed runs? People whined when they supposedly ""didn't let Justin throw"" (read: Fields scrambled or got sacked on called passes so they didn't count as passing attempts), and now they want us to make him run even more?
+
+Not enough bootlegs? We run them, but we can't run them every damn play like fans want or else the defense will just scheme against it every down.
+
+We got into the redzone three times against Washington in addition to the touchdown we got on Fields's deep pass. They ended with a Fields interception off a helmet and another that had two touchdown drops. The issue with this offense is execution and lack of talent, period. People will bend over backwards to defend quarterbacks for having nothing to work with but will crucify the OC running the same offense, even though he's helped this bottom of the barrel dogshit team to two wins.",-1.0,nfl,t3_y866gv,False,0.0,:Bears: Bears,2022-10-19T20:04:44Z,chibears,0.0587634254581202
+15972,73811,73811,FuckingHatesNFLRefs,The playcalling has been fine.,0.0,nfl,t3_y866gv,False,1.0,:Bears: Bears,2022-10-19T14:39:47Z,chibears,0.2023
+15973,73813,73813,FuckingHatesNFLRefs,"More like: ""We won't be adding any more games to his suspension because we need Deshaun to have his big return against the Texans for the drama.""",6.0,nfl,t3_y7lim6,False,0.0,:Bears: Bears,2022-10-19T08:17:42Z,chibears,0.4201
+15974,73818,73818,FuckingHatesNFLRefs,"How is this a hot take, it's literally the most popular opinion on this sub by far.",11.0,chibears,t3_y6zjfn,False,0.0,Chicago Flag,2022-10-18T08:27:25Z,chibears,0.4754
+15975,73819,73819,FuckingHatesNFLRefs,"Lmao, you're getting downvoted for saying Fields's performance in the first three weeks will get him traded if he goes back to playing like that. This sub is absolutely insane.
+
+I don't think there's any excuse in the world that can excuse the shit he put out in those games. He literally looked bad beyond all repair. So why the fuck would you keep a bad QB you can't repair?",-1.0,chibears,t3_y6o34a,False,1.0,Chicago Flag,2022-10-17T22:01:21Z,chibears,-0.17782112
+15976,73820,73820,FuckingHatesNFLRefs,Foles played in 2020...,19.0,nfl,t3_y6p523,False,0.0,:Bears: Bears,2022-10-17T17:42:47Z,chibears,0.34
+15977,73821,73821,FuckingHatesNFLRefs,I hope not just for my mental health's sake. It's going to take a hell of a lot of therapy before this fanbase is ready to trade up again.,1.0,chibears,t3_y6ele4,False,0.0,Chicago Flag,2022-10-17T13:46:11Z,chibears,-0.12825
+15978,73822,73822,FuckingHatesNFLRefs,"I swear I'm not even saying this because I don't like him, but I seriously would like to know: are the Packers better off without him at this point?
+
+The team desperately needs to rebuild, but they're so bogged down by massive contracts right now that they can't. If I'm the Packers, I would hope for him to retire next year (a trade would be ideal, but not even the most desperate teams would take that contract), eat the dead cap next year, and then start the rebuild the year after that. There's no quick fix to the Packers' situation right now, so you might as well rip it off like a Band-Aid.",1.0,nfl,t3_y6ajr4,False,0.0,:Bears: Bears,2022-10-17T12:54:38Z,chibears,0.0343265625
+15979,73823,73823,FuckingHatesNFLRefs,"Lmao, how the fuck are there STILL Trubisky truthers on this sub???",0.0,chibears,t3_y5qisn,False,0.0,Chicago Flag,2022-10-17T12:50:36Z,chibears,0.04815
+15980,73824,73824,FuckingHatesNFLRefs,"In my opinion, we HAVE to try trading back, ideally for some future firsts. I don't care if we end up trading all the way to the 15-20 range if we need to. We can still probably grab a really good WR prospect in that area.
+
+If we surround Fields with good talent and he still can't make it work next year, we need a lot of draft capital so we can either trade up to draft another QB or maybe even trade for a veteran if one is available. But we can't go all-in on building around Fields and risk having him still suck next year without some extra draft capital. Then we put ourselves in mediocrity hell where we're too bad to compete but too good for a top quarterback prospect, just like the Pace years. We need a safety net for if Fields doesn't work.",14.0,chibears,t3_y6ele4,False,0.0,Chicago Flag,2022-10-17T12:25:17Z,chibears,0.0743406464507621
+15981,73825,73825,FuckingHatesNFLRefs,"Seriously. Like it or not, it's WAY more likely than most of this sub is thinking. 
+
+Fields has improved since his abysmal first three weeks, but he still looks like he has a long way to go to looking like a serviceable quarterback, regardless of the lack of talent around him. This sub may disagree, but the vast majority of those in the league and the media don't. If Fields doesn't improve by the end of the year and we're in position to draft a prospect that Poles really believes in, they WILL pull the trigger. 
+
+There's a reason shitty teams usually draft quarterback first. If you focus on building around the QB and the QB still doesn't work, then you put yourself in a position where you're too bad to compete but too good to draft a top quarterback prospect. It'll be the Pace years with Mitch all over again.",3.0,chibears,t3_y6ele4,False,0.0,Chicago Flag,2022-10-17T12:19:10Z,chibears,0.0108487269222736
+15982,73827,73827,FuckingHatesNFLRefs,This subreddit is so fucking desperate.,12.0,chibears,t3_y5qisn,False,0.0,Chicago Flag,2022-10-16T16:15:47Z,chibears,-0.4351
+15983,73828,73828,FuckingHatesNFLRefs,"It's probably because the Jets look like an all-around competent team right now and people don't really pile on poor quarterbacks if the team is still good.
+
+But the bottom line is, why the fuck should we even care? Fields isn't good right now and that's enough to deal with at the moment, who gives a fuck about what people are saying about another team's quarterback?",35.0,chibears,t3_y5qisn,False,0.0,Chicago Flag,2022-10-16T16:14:12Z,chibears,-0.2303925925925926
+15984,73829,73829,FuckingHatesNFLRefs,The Bears are in a better overall situation right now than the Packers.,6.0,chibears,t3_y125t6,False,0.0,Chicago Flag,2022-10-16T16:09:32Z,chibears,0.4404
+15985,73831,73831,FuckingHatesNFLRefs,">Guess you’ve missed our red zone offensive series this year. 
+
+....which was a direct result of Fields throwing an interception and then overshooting a tight end last week, but saying anything critical of him is blasphemy here.",15.0,chibears,t3_y50827,False,0.0,Chicago Flag,2022-10-15T18:58:04Z,chibears,-0.384075
+15986,73832,73832,FuckingHatesNFLRefs,"No way I'm even going to try taking a guess on who may be available in 2024, lmao. But with the direction the league is going with ""franchise"" quarterbacks leaving their teams in the last 5 years (Brady, Watson, Wilson, etc.), I'd say it's at least worth a thought.",1.0,chibears,t3_y45ey1,False,0.0,Chicago Flag,2022-10-14T21:14:35Z,chibears,0.0903185185185185
+15987,73833,73833,FuckingHatesNFLRefs,">If he spends big on offense next year and it turns out Fields isn’t the guy, we are basically back to the Pace era. Not bad enough to get a high pick to take a QB, so trading draft capital for it.
+
+Considering this franchise's systemic and repeated failures in drafting and developing a quarterback, I would have no issue at all if Poles wanted to trade for an already proven one in 2024, assuming he has a good offseason in 2023 and most other positions are in place. These trades make sense when the player you're trading for truly is the one missing piece, not just a player to keep you barely competitive or a desperation move like what Pace loved to do. So if that happens, I would say we're definitely not back to the Pace era.
+
+My personal dream scenario is we end up with a top 5 draft pick, Bryce Young falls to us, and we trade back to a team absolutely desperate for a quarterback and willing to give us a goldmine for him. If that happens, we would probably still be able to grab a good WR1 in the first round considering how deep this class is, and we'd have enough capital to set us up perfectly if Fields still can't pan out.",1.0,chibears,t3_y45ey1,False,0.0,Chicago Flag,2022-10-14T20:46:29Z,chibears,0.1162969220793571
+15988,73834,73834,FuckingHatesNFLRefs,"Lmao, this sub is so fucking asinine whenever a young player, especially a QB, does anything slightly below average, and I say that as someone currently leaning towards the ""Fields isn't the guy"" camp. He put it right in Mooney's hands and it's Justin's fault he bobbled it? 
+
+I mean, I was seeing the ""Ohio State quarterbacks are always busts"" take get unironically upvoted last night for Christ's sake. I seriously need to just stop coming here every time a rookie/sophomore quarterback loses.",3.0,nfl,t3_y3t5ws,False,0.0,:Bears: Bears,2022-10-14T15:13:16Z,chibears,-0.16316328125
+15989,73835,73835,FuckingHatesNFLRefs,"1. This sub is in complete denial about Fields's faults and no amount of other holes in this offense will ever change the fact that he's not an NFL caliber quarterback right now. 
+
+2. It's literally, word for word, the same exact shit we said about Trubisky. ""Oh, you think (quarterback) is bad? But what about the (insert whatever other position here)?!!?
+
+3. There is absolutely no reason at all to have this amount of unshakable faith in a quarterback who was passed up by eight different teams but ultimately chosen by Ryan fucking Pace.
+
+3. This sub is absolutely unbearable after a loss.",8.0,chibears,t3_y125t6,False,0.0,Chicago Flag,2022-10-14T01:05:48Z,chibears,-0.0317809988014999
+15990,73836,73836,FuckingHatesNFLRefs,"Gotta love how the guy I'm responding to is basically just saying ""Poles is a dumbass for not taking the three best available offensive players that we now know are the best players in hindsight"". By that logic, all 31 other teams in the league not named the Patriots are a bunch of morons for not drafting Brady when they had the chance. 
+
+And why the fuck do so many people here still think Daboll would have even considered coming here? Newsflash: when you're an already bad team with not much capital, then you're not a very attractive option for candidates.",4.0,chibears,t3_y3kl20,False,0.0,Chicago Flag,2022-10-14T00:54:56Z,chibears,-0.21421171875
+15991,73837,73837,FuckingHatesNFLRefs,"Justin Fields is an overall pretty bad quarterback right now, but the amount of ""oh, but I thought it was RACIST to criticize Fields, right you STUPID LIBTARDS???"" comments that come out every single time he's mentioned show where this subreddit lies. At the end of the day, Reddit is still a white, 20-something year old male STEM degree-holding dominated site, and as much as r/nfl may be slightly better at stuff like sexual assault accountability, the demographics of Reddit is bound to seep through eventually.",1.0,nfl,t3_y3kewk,False,0.0,:Bears: Bears,2022-10-14T00:49:40Z,chibears,-0.0560777777777777
+15992,73838,73838,FuckingHatesNFLRefs,"Good lord, this sub is fucking insufferable after a loss.",13.0,chibears,t3_y3kl20,False,0.0,Chicago Flag,2022-10-14T00:36:53Z,chibears,0.1531
+18452,85034,85034,HassanDarkside,"Lmao ""onetime"" as if you could be a threetime first round pick",14.0,nfl,t3_y7j87b,False,0.0,:Bears: Bears,2022-10-18T16:21:34Z,chibears,0.5994
+18453,85038,85038,HassanDarkside,"Latavius Murray wasn’t doing anything special, surprised they didn’t give him a few snaps at least",14.0,nfl,t3_y6wqzq,False,0.0,:Bears: Bears,2022-10-17T23:30:46Z,chibears,0.5574
+18454,85039,85039,HassanDarkside,You just know Skip had this one ready to go,3.0,nfl,t3_y6vpfg,False,0.0,:Bears: Bears,2022-10-17T22:39:08Z,chibears,0.3612
+18455,85040,85040,HassanDarkside,"That collision was hilarious, papers going everywhere",1.0,nfl,t3_y6qmrj,False,0.0,:Bears: Bears,2022-10-17T22:21:52Z,chibears,0.0516
+18456,85041,85041,HassanDarkside,Nice swing there Chubb,1.0,nfl,t3_y6qmrj,False,0.0,:Bears: Bears,2022-10-17T20:23:57Z,chibears,0.4215
+18457,85042,85042,HassanDarkside,"Thanks Troy, it sucked but I appreciate you asking",8.0,nfl,t3_y6qmrj,False,0.0,:Bears: Bears,2022-10-17T20:21:02Z,chibears,0.5423
+18458,85043,85043,HassanDarkside,"What are the refs doing, another bogus PI. Should be allowed to challenge that garbage",5.0,nfl,t3_y6qmrj,False,0.0,:Bears: Bears,2022-10-17T20:19:56Z,chibears,0.0386
+18459,85044,85044,HassanDarkside,There's no fucking way that's PI lmfaoooooo,5.0,nfl,t3_y6qmrj,False,0.0,:Bears: Bears,2022-10-17T20:16:31Z,chibears,-0.296
+18460,85046,85046,HassanDarkside,"Haha the way Troy said ""dying""",2.0,nfl,t3_y6qmrj,False,0.0,:Bears: Bears,2022-10-17T19:52:28Z,chibears,0.4588
+18461,85048,85048,HassanDarkside,"Lmfao Dulcich was wiiiiide open, people roast Fields but that is so much worse",3.0,nfl,t3_y6qmrj,False,0.0,:Bears: Bears,2022-10-17T19:34:55Z,chibears,-0.5135
+18462,85049,85049,HassanDarkside,What a weak PI,8.0,nfl,t3_y6qmrj,False,0.0,:Bears: Bears,2022-10-17T19:32:03Z,chibears,-0.4404
+18463,85050,85050,HassanDarkside,"The worst bit of football, rooting for a PI on any long throws",5.0,nfl,t3_y6qmrj,False,0.0,:Bears: Bears,2022-10-17T19:24:57Z,chibears,-0.6249
+18464,85051,85051,HassanDarkside,Wow nice block from Ekeler,3.0,nfl,t3_y6qmrj,False,0.0,:Bears: Bears,2022-10-17T19:20:52Z,chibears,0.5719
+18465,85052,85052,HassanDarkside,Lol that's all Kelce,9.0,nfl,t3_y5vohw,False,0.0,:Bears: Bears,2022-10-16T22:24:27Z,chibears,0.4215
+19330,88164,88164,HoosierTrey,For my leg not falling off yet,7.0,nfl,t3_y6vq3x,False,0.0,:Bears: Bears,2022-10-18T07:46:31Z,chibears,0.1139
+19331,88167,88167,HoosierTrey,"Defense doesn’t have a oline, but I agree with that too",10.0,chibears,t3_y53nmk,False,0.0,Monsters,2022-10-15T22:51:40Z,chibears,0.5423
+19332,88168,88168,HoosierTrey,Agreed. I can’t wait to see how amazing this defense is next year wild a more experienced secondary and a hopefully better dline,7.0,chibears,t3_y53nmk,False,0.0,Monsters,2022-10-15T20:38:36Z,chibears,0.50615
+19333,88171,88171,HoosierTrey,That’s what happened a lot last night. I think that it’s just looking a lot worse cause there’s been no pressure up the middle at all,6.0,chibears,t3_y3uupb,False,0.0,Monsters,2022-10-14T12:32:52Z,chibears,-0.14935
+19787,89403,89403,Hooze,"All of the stats on Fields like this are screwed up because they're not really a reflection of his protection. Fields is often creating his own time to throw, and he's also the reason why he takes so many sacks.  Dude can usually elude the first or sometimes even second pass rusher, but that gives him this weird confidence where he doesn't feel like he needs to get the ball out.  Sometimes he makes huge gains out of that, but sometimes he takes terrible sacks.",21.0,nfl,t3_y3t5ws,False,0.0,:Bears: Bears,2022-10-14T09:47:07Z,chibears,-0.093876171875
+20977,91339,91339,I-Pessimist,What the fuck is going on out there?,15.0,nfl,t3_y8am3i,False,0.0,:Bears: Bears,2022-10-19T13:51:57Z,chibears,-0.5423
+22336,105280,105280,Jtm1082,"He means close to winning games, not being a SB contender.  They only game the Bears weren’t in at the end of the game was against the Packers.  But bad teams find ways to lose and that’s what the Bears have done.",1.0,nfl,t3_y3jr0n,False,0.0,:Bears: Bears,2022-10-14T17:39:47Z,chibears,-0.2617666666666666
+22337,105281,105281,Jtm1082,"I’ve watched a couple breakdowns of this play (by neutral sources) and it was not all on Fields.  Essentially, Ryan Griffin didn’t shed his block soon enough and should’ve been much further along on his route when Fields was supposed to throw the ball.  And of course, if Justin held onto it too long then the guy that Griffin let go might tip the ball or sack Justin.  Timing was everything on that play.",2.0,nfl,t3_y3fmp5,False,0.0,:Bears: Bears,2022-10-14T17:32:41Z,chibears,0.07972734375
+22338,105282,105282,Jtm1082,"I’ve watched a couple breakdowns of this play and it was not all on Fields.  Essentially, Ryan Griffin didn’t shed his block soon enough and should’ve been much further along on his route when Fields was supposed to throw the ball.  And of course, if Justin held onto it too long then the guy that Griffin let go might tip the ball or sack Justin.  Timing was everything on that play.",1.0,nfl,t3_y3fmp5,False,0.0,:Bears: Bears,2022-10-14T17:30:52Z,chibears,0.07972734375
+22717,108267,108267,LL_Cruel_J,"Akers bad at football, trade incoming",311.0,nfl,t3_y4pcwk,False,0.0,:Bears: Bears,2022-10-15T10:45:52Z,chibears,-0.5423
+23518,114995,114995,LinuxF4n,"No, even if fields is shit we could pull out 6-8 wins that would push us out of the top 10.",5.0,chibears,t3_y8e5bs,False,0.0,Hester,2022-10-19T22:10:12Z,chibears,0.2263
+23519,114996,114996,LinuxF4n,"One thing that Smithz said that is true is that we aren't going to be in a position to get another top 5 pick to get an top QB after 2023. So if we're in the top 5 and Poles doesn't feel comfortable with Fields the only chance to really get an top QB is in 2023 because we're going to be adding talent next year and by that time we're going to be a 6-8+ win team and be well outside of range to get a top QB. That is not to say he doesn't like Fields though. He says he wants them to keep going with Fields.
+
+The other thing he mentioned is the benefit of waiting till 2024 is that it basically guaranteed Poles another contract because he can be like well I was rebuilding and now I have a rookie and we don't know what he can do and he'll get extended for another 4 years. I just don't see how we are in position to get a top 5 pick in 2024 though unless we add no talent with the cap space we have next year.",6.0,chibears,t3_y8e5bs,False,0.0,Hester,2022-10-19T20:45:50Z,chibears,-0.0015169945987654
+23520,115000,115000,LinuxF4n,"> Our problem is no one on our offense is doing what they are supposed to do.
+
+Where are you getting this? There are plenty of plays where the receivers run exactly what they're supposed to run and they're wide open, or open and fields just doesn't pull the triggers.",10.0,chibears,t3_y7axdv,False,0.0,Hester,2022-10-18T13:52:37Z,chibears,0.0570518518518518
+23521,115001,115001,LinuxF4n,Did you see him completely destroys Jefferson at the line in press? I could watch that all day.,1.0,chibears,t3_y75yjt,False,0.0,Hester,2022-10-18T12:17:44Z,chibears,-0.1496
+23522,115002,115002,LinuxF4n,He's not saying he should make 4 reads. Most of these plays are strong side and weak side and you either pick a side and it's 2 reads of either side or is designed progression. He seems to get to the right guy then freeze. He is also failing to recognize persnap looks and how that effects the play (like the double move against quarters. CB is just going to pass off the inside fake so it'll never work). Also Mahomes isn't really struggling this year.,20.0,chibears,t3_y7axdv,False,0.0,Hester,2022-10-18T11:58:47Z,chibears,0.0494410365226337
+23523,115003,115003,LinuxF4n,"He's just hesitating at pulling the trigger, or ""getting stuck"" on #1 read. It's kinda really triggering how many times he's actually looking at the right guy, but he just refuses to let it go.",93.0,chibears,t3_y7axdv,False,0.0,Hester,2022-10-18T11:34:50Z,chibears,-0.131675
+23524,115009,115009,LinuxF4n,"The switching QB is such a double edged sword. When it works it's great, but when it doesn't it throws off the rhythm of the QB and leaves them in a shitty 3rd and long. Dalton was marching down the field then gets yanked for 2 plays and the drive was basically over. That being said the offense wasn't really the problem when you score 26 points and lose because your defense gave up 30...",19.0,nfl,t3_y5qdwb,False,0.0,:Bears: Bears,2022-10-16T15:16:28Z,chibears,-0.0391546875
+23525,115010,115010,LinuxF4n,"Saints defense is legitimately a joke. This is supposed to be a team build around their defense, and they can't make a tackle to save their life. Offense put up 26 points while missing top 3 receivers and a bunch of practice guys replacing them and still lose because defense gives up 30 points.",7.0,nfl,t3_y5qdwb,False,0.0,:Bears: Bears,2022-10-16T15:10:30Z,chibears,-0.1073703703703703
+23526,115011,115011,LinuxF4n,You're really blaming the offense when they put up 26 points and lost?,2.0,nfl,t3_y5l41j,False,0.0,:Bears: Bears,2022-10-16T15:09:29Z,chibears,-0.7939
+23527,115013,115013,LinuxF4n,This is the best thing that could happen. This gives the saints a chance to win the game instead of letting them drain the clock all the way for a fg.,3.0,nfl,t3_y5l41j,False,0.0,:Bears: Bears,2022-10-16T14:48:47Z,chibears,0.509375
+23528,115014,115014,LinuxF4n,Saints D legit can't tackle for shit. Isn't this D supposed to be good?,1.0,nfl,t3_y5l41j,False,0.0,:Bears: Bears,2022-10-16T14:37:53Z,chibears,0.331425
+23529,115015,115015,LinuxF4n,"It must be frustrating as a QB to be in rhythm marching down the field then you get yanked for a trick play and it fails, then they run it and it fails and you get thrown out on a 3rd and 12 where they're stacking against the pass and you can't do anything.",15.0,nfl,t3_y5l41j,False,0.0,:Bears: Bears,2022-10-16T14:24:07Z,chibears,-0.743
+23530,115021,115021,LinuxF4n,That was a blatant fucking pentalty. More proof the refs suck Packers cock. Never call any penalties on them.,10.0,nfl,t3_y5l3xc,False,0.0,:Bears: Bears,2022-10-16T13:11:25Z,chibears,-0.0602555555555555
+23531,115023,115023,LinuxF4n,What a fucking bullshit flag.,6.0,nfl,t3_y5l41j,False,0.0,:Bears: Bears,2022-10-16T12:33:39Z,chibears,-0.624
+23532,115025,115025,LinuxF4n,"Eddie Jackson has been single handedly carrying the Bears defense this year. He deserves DPOY nod, but he wont get any credit because 1) he's on the bears and 2) we suck.",1.0,nfl,t3_y4suqe,False,0.0,:Bears: Bears,2022-10-15T23:45:09Z,chibears,-0.3514
+23533,115028,115028,LinuxF4n,Watson would have had better odds of succeeding here. He wasn't raw like Mahomes.,6.0,chibears,t3_y3yx53,False,0.0,Hester,2022-10-14T21:13:43Z,chibears,0.0439749999999999
+23534,115029,115029,LinuxF4n,Pretty sure every play Jones was in the offense resulted in a first down or TD.,2.0,chibears,t3_y3yx53,False,0.0,Hester,2022-10-14T20:41:34Z,chibears,0.7096
+23535,115030,115030,LinuxF4n,Pace wasn't really inept. He builds a Superbowl roster but fucked up with the biggest decision of which qb to drafted. Then he went all in before we even knew what Mitch was. Honestly if we take Watson over Mitch we win the Superbowl in 2018.,8.0,chibears,t3_y3yx53,False,0.0,Hester,2022-10-14T20:40:10Z,chibears,0.18213125
+23536,115032,115032,LinuxF4n,Did anyone actually watch the video or comment off the title ? Honestly his breakdowns have been good.,9.0,chibears,t3_y40yjl,False,0.0,Hester,2022-10-14T20:04:35Z,chibears,0.3548
+23537,115033,115033,LinuxF4n,He's not good. He was mainly drafted for depth.,1.0,chibears,t3_y49x2l,False,1.0,Hester,2022-10-14T19:42:38Z,chibears,-0.0853
+23538,115034,115034,LinuxF4n,"I don't think Tretter is going to unretire for 2 million, especially to play on this team.",8.0,chibears,t3_y49x2l,False,0.0,Hester,2022-10-14T19:38:55Z,chibears,0.3976
+23539,115035,115035,LinuxF4n,He was also handed the biggest dead cap hit in the league too. It makes sense he's trying to wipe the slate clean to rebuild the roster how he likes instead of trying to bandaid that will lead to mediocrity.,2.0,chibears,t3_y3jbp4,False,0.0,Hester,2022-10-14T19:34:35Z,chibears,0.1563
+23540,115036,115036,LinuxF4n,We haven't even faced the best pass rushing teams on the schedule yet. This can definitely get really ugly.,2.0,chibears,t3_y3jbp4,False,0.0,Hester,2022-10-14T19:33:02Z,chibears,0.046875
+23541,115037,115037,LinuxF4n,No chance. We're not trying to win this year. Unless Fields gets hurt we're going to keep riding him to see if he can develop.,5.0,chibears,t3_y40yjl,False,0.0,Hester,2022-10-14T19:28:56Z,chibears,-0.2349296296296296
+23542,115039,115039,LinuxF4n,"Man Fields footwork looks bad, but it's not all on Fields. Getsy also called some great calls that Fields just missed.",33.0,nfl,t3_y42l29,False,0.0,:Bears: Bears,2022-10-14T14:15:01Z,chibears,0.143425
+23725,116747,116747,Lungorthin666,Trade down unless Fields just looks awful the rest of the season. But I feel like we've seen improvement from him since game 1 so I'd like to see where he is at by the end of the season. But trading down would be so necessary for this team all those picks plus all our cap space would go a long way in making this rebuild have as big a chance of success as possible.,2.0,chibears,t3_y3oo2d,False,0.0,Smokin' Jay,2022-10-14T13:09:58Z,chibears,0.3561851851851852
+24323,117704,117704,MKula,"Well, I’m bummed that ISM didn’t work out but glad to see someone else get a chance.",214.0,chibears,t3_y7cnxj,False,0.0,Justin Fields,2022-10-18T12:08:26Z,chibears,0.7935
+24935,120149,120149,Mark_Kostecki,LOVE seeing Gordon improve like this,1.0,chibears,t3_y7b1jp,False,0.0,1,2022-10-18T20:06:56Z,chibears,0.8842
+25013,120530,120530,MewTupac,Your work ethic is unmatched. Honestly there’s no way I’d have the attention span to count and time every commercial break for almost every game,4.0,nfl,t3_y6vqan,False,0.0,:Bears: Bears :Jaguars: Jaguars,2022-10-17T22:42:02Z,chibears,0.08185
+25585,127547,127547,NagyBiscuits,">If this level of disagreement between graders is common
+
+Except it's not, so your point is moot.",-3.0,nfl,t3_y89j2g,False,1.0,:Bears: Bears,2022-10-19T18:13:55Z,chibears,-0.3612
+25586,127548,127548,NagyBiscuits,The king of annoying film review. So happy there's tons of better options these days.,13.0,chibears,t3_y8fljj,False,0.0,11,2022-10-19T17:21:49Z,chibears,0.291575
+25587,127549,127549,NagyBiscuits,"You can hide posts, or even set downvotes to hide posts",2.0,chibears,t3_y848wp,False,0.0,11,2022-10-19T12:07:54Z,chibears,-0.34
+25588,127550,127550,NagyBiscuits,"Agreed. Pettis kinda has the speed to go deep, but he's not very reliable to catch it should he get targeted, especially if it's just any kind of contested catch. Hopefully Velus can find a role on go routes and Harry can be some sort of a contested catch threat.",1.0,chibears,t3_y7ivca,False,0.0,11,2022-10-19T10:26:41Z,chibears,-0.0491814814814814
+25589,127551,127551,NagyBiscuits,"Condensed field, tighter windows. Things he's less comfortable with at this time.",17.0,chibears,t3_y7ivca,False,0.0,11,2022-10-18T17:03:01Z,chibears,0.23005
+25590,127552,127552,NagyBiscuits,"He also threw what should've been 2 game winning TD passes if the WRs would've done their jobs / not been interfered with. From a standpoint of evaluating him, he did what he needed to do.",14.0,chibears,t3_y7ivca,False,0.0,11,2022-10-18T17:01:25Z,chibears,0.131675
+25591,127553,127553,NagyBiscuits,[Longer thread here](https://twitter.com/robertkschmitz/status/1582406834903580679) from Schmitz discussing the offense currently creating chunk plays and struggling to dink and dunk. It's a very interesting dilemma for Getsy and Fields to work through as he grows more comfortable within the offense and with his weapons/OL.,16.0,chibears,t3_y7ivca,False,0.0,11,2022-10-18T16:08:01Z,chibears,0.240975
+25592,127554,127554,NagyBiscuits,"His pocket presence has improved, but the first 3 weeks he was repeatedly walking into sacks instead of moving away from them. I think as he's settled into the offense and gotten comfortable things have gotten much better. The line still gives up some blindside pressure or immediate pressure up the middle that gives him almost no chance to react, AND he still freezes up at times taking unnecessary sacks.",4.0,chibears,t3_y79eqw,False,0.0,11,2022-10-18T10:20:52Z,chibears,-0.133974074074074
+25593,127555,127555,NagyBiscuits,Those numbers are 100% telling the truth per the definitions of these specific statistics. They are also missing context.,4.0,chibears,t3_y79eqw,False,1.0,11,2022-10-18T10:18:40Z,chibears,-0.06845
+25594,127557,127557,NagyBiscuits,"Good to know. I wonder how he'd fare at gunner, but Blackwell seems to have one side pretty locked down the last few games, so it's less of a priority.",0.0,chibears,t3_y75yjt,False,0.0,11,2022-10-18T09:45:49Z,chibears,0.4344
+25595,127559,127559,NagyBiscuits,Yea the inside zone runs inside the 10 have been a disaster for the most part. Aside from the Monty TD a couple weeks ago when the defense left the A gaps wide open.,2.0,chibears,t3_y6im5b,False,0.0,11,2022-10-17T15:07:50Z,chibears,-0.092225
+25596,127560,127560,NagyBiscuits,"The sad part is the play designs ""work"" in the RZ, guys tend to get open and are targeted. The execution is flawed, either they can't make a catch or the pass isn't good. They really need to find one or two 'go to' options that can reliably haul in a pass and be in sync with Fields. I just don't know if we have 'that guy' on the roster. Or maybe just do a designed run for Fields to the edge.",15.0,chibears,t3_y6im5b,False,0.0,11,2022-10-17T13:52:00Z,chibears,-0.001130688
+25597,127562,127562,NagyBiscuits,"Typically if you do it early and beat other deals, you get a discount. But I'd first like to see just how he'll fit with others that we either sign or draft.",0.0,chibears,t3_y5kitl,False,0.0,11,2022-10-16T16:19:45Z,chibears,0.37895
+25598,127564,127564,NagyBiscuits,"Definitely want to extend him, but would probably wait til after the draft to see where the rest of the WR room stands.",27.0,chibears,t3_y5kitl,False,0.0,11,2022-10-16T11:07:19Z,chibears,0.3291
+25599,127568,127568,NagyBiscuits,"Most of the money we have should be poured into the offense. Then set aside 30-35% for the defense. He'd take up too much, just ain't worth it.",4.0,chibears,t3_y4z4kt,False,0.0,11,2022-10-15T17:56:54Z,chibears,-0.051537037037037
+25600,127569,127569,NagyBiscuits,"Nah, throw $20M/yr and the pick at DTs and a LB and the defense is improved. You seriously overvalue a LB.",11.0,chibears,t3_y4z4kt,False,0.0,11,2022-10-15T17:28:58Z,chibears,0.034525
+25601,127571,127571,NagyBiscuits,"Getting pick 32 for Roquan would be fantastic. It'll never happen, but it'd be a steal.",16.0,chibears,t3_y4z4kt,False,0.0,11,2022-10-15T17:17:17Z,chibears,-0.1849499999999999
+25602,127572,127572,NagyBiscuits,"Maybe at guard when looking at his play on both sides, but at LG only he's the absolute bottom of the barrel.",1.0,chibears,t3_y4vsco,False,0.0,11,2022-10-15T16:04:09Z,chibears,0.1779
+25603,127573,127573,NagyBiscuits,"Time to throw = how long it takes to throw, not how long a pocket is kept clean.",26.0,chibears,t3_y4vsco,False,0.0,11,2022-10-15T15:36:01Z,chibears,0.4019
+25604,127575,127575,NagyBiscuits,Might actually be worse at LG than Mustipher is at Center,38.0,chibears,t3_y4vsco,False,0.0,11,2022-10-15T14:12:54Z,chibears,-0.4767
+25605,127578,127578,NagyBiscuits,"I don't think Reiff necessarily sucks, he's just not significantly better than the young tackles and their development is better long-term value.",10.0,chibears,t3_y49x2l,False,0.0,11,2022-10-14T19:51:44Z,chibears,0.1012
+25606,127579,127579,NagyBiscuits,">shoulder been touched
+
+This autocorrect 🤣",3.0,chibears,t3_y45ey1,False,0.0,11,2022-10-14T17:03:51Z,chibears,0.4939
+25607,127580,127580,NagyBiscuits,Will be interesting to see Patrick at center and if he can turn things around. He absolutely should not play another snap at LG.,9.0,chibears,t3_y42w8c,False,0.0,11,2022-10-14T15:14:05Z,chibears,-0.058575
+25608,127581,127581,NagyBiscuits,We can design runs for him that aren't power runs like Lance. And getting him mobile in planned situations can set up better protection than just drop backs where the pocket collapses and he gets annihilated anyways.,3.0,nfl,t3_y3t5ws,False,0.0,:Bears: Bears,2022-10-14T12:46:17Z,chibears,-0.145425
+25609,127582,127582,NagyBiscuits,"He's also not a punt returner, had like 2 in college. He's a kick returner.",3.0,chibears,t3_y3y1u4,False,0.0,11,2022-10-14T12:27:33Z,chibears,0.0903
+25610,127584,127584,NagyBiscuits,"Rookies typically get a full camp / preseason. There are vets who miss that time and start the year playing like shit, so it makes sense rookies would struggle the same or more in that situation.",6.0,chibears,t3_y3y1u4,False,0.0,11,2022-10-14T11:26:57Z,chibears,-0.24695
+25611,127585,127585,NagyBiscuits,Or he's a rookie who's missed a ton of time and is still getting the playbook down / timing with the QB.,5.0,chibears,t3_y3y1u4,False,0.0,11,2022-10-14T11:23:53Z,chibears,-0.296
+25612,127586,127586,NagyBiscuits,Even Pettis had trouble knowing when to field a punt and when to let it bounce. How do we not have a single guy on the roster who can simply do that. I don't care if it's fair caught every time. Just making smart decisions to eliminate fumbles and the ball getting pinned further than it should.,4.0,chibears,t3_y3wyfk,False,0.0,11,2022-10-14T10:47:03Z,chibears,0.0936300781249999
+25613,127587,127587,NagyBiscuits,"The fact we've barely called any designed runs for Fields is a major error by Getsy. There are some read options, but I don't know if I've witnessed one play that was very clearly a designed QB run this season. Unless you count the staff telling him if his first read isn't open and the defense is playing 2 high safeties with man coverage, then run.",51.0,nfl,t3_y3t5ws,False,0.0,:Bears: Bears,2022-10-14T10:09:14Z,chibears,0.266774074074074
+25614,127588,127588,NagyBiscuits,"You're missing Pringle's $4.125M, and Jones who out snapped ISM I believe",79.0,chibears,t3_y3v3vm,False,0.0,11,2022-10-14T09:28:09Z,chibears,-0.296
+27618,146498,146498,PlatypusOfDeath,2021 UDFA originally signed by WAS. Also the first Chilean to play in the NFL.,46.0,chibears,t3_y7vgsq,False,0.0,Sweater,2022-10-19T01:57:51Z,chibears,0.17
+27619,146499,146499,PlatypusOfDeath,Removed. please feel free to repost with the the text of the tweet as the posts title.,0.0,chibears,t3_y69cva,False,0.0,Sweater,2022-10-17T07:04:37Z,chibears,0.3404
+28599,150415,150415,PwnzillaGorilla,You're getting downvoted but you're not wrong. Everything here is right,6.0,chibears,t3_y6o34a,False,1.0,33,2022-10-17T21:11:54Z,chibears,0.128925
+28600,150416,150416,PwnzillaGorilla,💯!!! I'd love to see what Gesicki could do for us!,1.0,chibears,t3_y418qu,False,0.0,33,2022-10-17T18:45:56Z,chibears,0.3348
+28601,150417,150417,PwnzillaGorilla,"I say WR should be the position you hit early and more than once. The FA class for receivers is... honestly cheeks. JuJu, Lazard, Agholor, Sterling Shepard, Chark, Marvin Jones, and the remains of Julio, AJ Green, and Randall Cobb are the biggest names.
+
+Dig your heels in and hope JSN or Addison can make tons of plays along with Mooney, hopefully with another day 3 receiver.",1.0,chibears,t3_y418qu,False,0.0,33,2022-10-17T18:41:56Z,chibears,0.19841875
+28602,150418,150418,PwnzillaGorilla,"I feel you on that. I like the idea of drafting a team moreso than buying one as much as the next guy.
+
+That being said, Poles was also a part of the KC FO who traded for Orlando Brown and signed Joe Thuney. They went from
+
+**Fisher-Allegretti-Reiter-Wylie-Remmers (the line that nearly got Mahomes killed in SB LV)
+
+to
+
+**Brown-Thuney-Humphrey-Smith-Wylie (one of the best offensive lines in the entire league)
+
+all in the span of one offseason. I believe he'll get us something like that once he has the picks and cash in hand 🙏🙏🙏",1.0,chibears,t3_y418qu,False,0.0,33,2022-10-17T18:23:05Z,chibears,0.1183139199999999
+28603,150419,150419,PwnzillaGorilla,"The best situation would be to deal a high pick for more picks. This is also dependent on what we do in FA. But off the top of my head we need:
+
+*3 new starters on OL (LG, C, RT). LT as well if you're not a believer in Braxton (I am, personally)
+
+*WR1, WR2 (we'll see where Mooney lands in the War room)
+
+*3T
+
+*another EDGE player that gets consistent pressure since Quinn isn't getting it done
+
+*outside CB with Jaylon of they're gonna make Gordon the permanent nickel
+
+*TE upgrade and depth
+
+That's a lot of improvement needed for the team. FA can absolutely address a few of these needs (namely on the OL) but the draft is where you should be going after your cheap and easy/replaceable positions.",0.0,chibears,t3_y6ele4,False,0.0,33,2022-10-17T18:07:13Z,chibears,-0.007428192
+28604,150420,150420,PwnzillaGorilla,"We're number one in cap space next offseason ($105.2 mil). We will have nearly $50 mil more than the next team to spend on FAs and draft picks.
+
+I think getting them both as well as addressing DL and WR is well worth it and extremely possible.",1.0,chibears,t3_y418qu,False,0.0,33,2022-10-17T18:04:19Z,chibears,0.2111592592592592
+28605,150422,150422,PwnzillaGorilla,"\-Elgton Jenkins and Jack Conklin can be had in FA. We have the money. Don't be a fucking pussy, spend it on them. Put them at LG and RT, respectively.
+
+\-If you're feeling froggy, attempt to get Orlando Brown from KC (but I bet they'd do something crazy like franchise tag him twice). Otherwise, continue to let Jones handle LT.
+
+\-Draft your favorite center prospect this year (I'm quite partial to John Michael Schmitz from Minnesota or Joe Tippmann from Wisconsin).
+
+\-Jones/Brown-Jenkins-center-Jenkins-Conklin",1.0,chibears,t3_y418qu,False,0.0,33,2022-10-17T13:13:01Z,chibears,0.013438983756768
+28606,150423,150423,PwnzillaGorilla,Dear sweet god if we got  Elgton Jenkins to take over LG i'd be so fucking happy,1.0,chibears,t3_y418qu,False,0.0,33,2022-10-17T00:02:23Z,chibears,0.8995
+28607,150424,150424,PwnzillaGorilla,This assumes there's multiple FA WRs worth the same as Tee Higgins and JSN. I doubt there is.,2.0,chibears,t3_y4z4kt,False,0.0,33,2022-10-16T20:37:09Z,chibears,-0.124025
+28608,150425,150425,PwnzillaGorilla,Elgton Jenkins. Get that man into Halas Hall and never allow him the chance to leave without signing on the line which is dotted. $85 mill/5 years. He *N E E D S* to be the LG of the future.,3.0,chibears,t3_y4wasj,False,0.0,33,2022-10-15T22:06:38Z,chibears,0.000540625
+28609,150426,150426,PwnzillaGorilla,"Unless the Chiefs wanna give up on signing him, I doubt we'll get the chance to sign Brown. They might franchise tag him twice.",1.0,chibears,t3_y4wasj,False,0.0,33,2022-10-15T22:02:35Z,chibears,-0.032
+28610,150428,150428,PwnzillaGorilla,Would've liked to have seen us go after Jenkins from GB as our new LG. But overall not a bad mock at all.,1.0,chibears,t3_y4z4kt,False,0.0,33,2022-10-15T21:56:08Z,chibears,0.493625
+35352,212237,212237,ZappaOMatic,Last year's Lions.  The Cowboys the year before that did as well.,13.0,nfl,t3_y7jjhg,False,0.0,:Bears: Bears,2022-10-18T17:24:05Z,chibears,0.1366
+35353,212238,212238,ZappaOMatic,"Closest was the 1995 Bucs who beat the Panthers, Bengals, and Jags, but got swept by the Lions.  Incidentally, the following year's Falcons had the honor of losing to all four cat teams (though they split the series with Carolina so they didn't go winless).",15.0,nfl,t3_y7jjhg,False,0.0,:Bears: Bears,2022-10-18T17:11:55Z,chibears,0.07655
+36557,220152,220152,artevandelay55,"I've been saying all along, they need to tell him ""go ahead and throw 4 INTs every game"" he needs to start just pulling the trigger, finding out what throws he can make. Hopefully he'd learn and throw less picks as the season goes on. But holy shit, wins don't matter, we fucking suck anyway, so let him learn that way since that's clearly his problem",1.0,chibears,t3_y6n1fq,False,0.0,Justin Fields,2022-10-18T09:46:57Z,chibears,-0.1696444444444444
+36558,220161,220161,artevandelay55,"Ryan Poles: ""who is the best secondary player?""",5.0,chibears,t3_y3oo2d,False,0.0,Justin Fields,2022-10-14T13:25:30Z,chibears,0.6369
+36559,220162,220162,artevandelay55,"I 100% agree he needs to learn to get it out quicker, and not only that but Getsy needs to call plays that allow that to happen. He is also missing open guys. But these receivers are still not getting open much. And they're dropping it when he does hit them. I agree with everything you said but I still think he is on the brink of being ruined",1.0,chibears,t3_y3oo2d,False,0.0,Justin Fields,2022-10-14T10:14:51Z,chibears,-0.1055957439999999
+36560,220163,220163,artevandelay55,"My beef is not with Fields or his talent. He's going to get injured at this rate, like there is simply no way he can survive this season being the highest sacked QB. Not to mention he already looks fed up with this team. His confidence is going to get destroyed along with his trust in the organization. If I'm Justin, I'm not playing another fucking game until this FO makes some moves, they're throwing him out to get ruined",4.0,chibears,t3_y3oo2d,False,0.0,Justin Fields,2022-10-14T08:40:05Z,chibears,-0.09348112
+36561,220164,220164,artevandelay55,"What the hell do you think a ""regular"" quarterback could do behind this line?",4.0,chibears,t3_y125t6,False,0.0,Justin Fields,2022-10-14T08:27:35Z,chibears,-0.6808
+36562,220166,220166,artevandelay55,"I mean Justin is going to get killed out there at this rate right? This isn't sustainable. Like when we play the cowboys what are we going to? Like we are simply going to have to run the ball 85% of the time. Justin is fed up. If this FO feels like Justin is their guy then we absolutely, unequivocally, have to make serious moves at the deadline or Justin's career might be over by the end of the year",7.0,chibears,t3_y3oo2d,False,0.0,Justin Fields,2022-10-14T08:16:01Z,chibears,0.0514536844135802
+36563,220167,220167,artevandelay55,Idk that shotgun run on fourth and goal for Fields against the Packers was pretty terrible,8.0,chibears,t3_y3hooo,False,0.0,Justin Fields,2022-10-14T00:01:54Z,chibears,-0.0772
+37280,222430,222430,billyinforsey,"Kyler is far better already in the slot then Vildor. Unless you’re just saying CB1, CB2 CB3?",9.0,chibears,t3_y40hce,False,0.0,Smokin' Jay,2022-10-14T12:59:34Z,chibears,0.1101
+37785,224322,224322,bluewords,"You may have eyes, but they aren’t very good.",6.0,nfl,t3_y5fg5u,False,0.0,:Bears: Bears,2022-10-16T13:12:41Z,chibears,0.6474
+37786,224323,224323,bluewords,"Not according to the stats:
+
+>	when Fields has a clean pocket, he’s completing nearly 70% of his passes and averaging 8.7 yards per attempt. The problem is, Fields rarely has a clean pocket. He’s been sacked 23 times through six games and is among the most pressured QBs this season. And in Thursday’s loss, the offensive line allowed 18 pressures on 45 pass block reps, according to Pro Football Focus. That’s a pressure rate of 40%.
+
+https://bearswire.usatoday.com/2022/10/14/bears-justin-fields-pocket-passer-ryan-fitzpatrick-take-week-6-nfl/#:~:text=The%20common%20misconception%20is%20that,averaging%208.7%20yards%20per%20attempt.",4.0,nfl,t3_y5fg5u,False,0.0,:Bears: Bears,2022-10-16T13:10:07Z,chibears,-0.0124961441186556
+37787,224324,224324,bluewords,The problem is that we shouldn’t be relying on the NFL to dole out justice. Why the hell isn’t this man in jail?,-1.0,nfl,t3_y4tuu0,False,0.0,:Bears: Bears,2022-10-15T16:23:52Z,chibears,-0.295925
+37788,224325,224325,bluewords,"Considering how bad some of those contracts are looking, that does not inspire hope.",1.0,chibears,t3_y4wasj,False,0.0,Fire Poles,2022-10-15T16:17:43Z,chibears,-0.8361
+37789,224326,224326,bluewords,Either one being considered a “premier” addition is really depressing.,41.0,chibears,t3_y4vsco,False,0.0,Fire Poles,2022-10-15T15:45:56Z,chibears,-0.4391
+37790,224328,224328,bluewords,I hope he at least gets one vote,1.0,nfl,t3_y4mtkw,False,0.0,:Bears: Bears,2022-10-15T10:04:25Z,chibears,0.4404
+37791,224329,224329,bluewords,">	The next pick was OT Abraham Lucas who many of us thought could have been one of their 2nd rounds picks.
+
+Thank you for including this. I’m sick of people on here acting like we only like certain players after we’ve seen them play. Loads of people saw that Lucas would be a good get. Poles fucked up. It’s just that simple.",1.0,chibears,t3_y3yx53,False,0.0,Fire Poles,2022-10-15T09:42:05Z,chibears,-0.0157482253086419
+37792,224331,224331,bluewords,Did you forget that the feast exists?,1.0,chibears,t3_y3yx53,False,0.0,Fire Poles,2022-10-14T20:59:06Z,chibears,-0.2263
+37793,224332,224332,bluewords,"Ok, my bad",1.0,chibears,t3_y3kl20,False,0.0,Fire Poles,2022-10-14T18:07:57Z,chibears,-0.5423
+37794,224333,224333,bluewords,"Pace isn’t the one who fucked up this draft and off season, so I’ll give Poles his share of the blame, too.",0.0,chibears,t3_y3k5nq,False,0.0,Fire Poles,2022-10-14T17:58:39Z,chibears,-0.6808
+37795,224334,224334,bluewords,The cap wasn’t there to draft better?,-1.0,chibears,t3_y3k5nq,False,0.0,Fire Poles,2022-10-14T17:45:37Z,chibears,0.4404
+37796,224336,224336,bluewords,"Please, can people stop with this narrative? No one said the Bears needed to be a contender this season. That’s not the issue. The issue is that this is not building the right way. Building the right way means developing your QB. That’s building for the future. This? This is throwing your QB to the wolves without caring how this will negatively effect his development.",-1.0,chibears,t3_y3k5nq,False,0.0,Fire Poles,2022-10-14T17:30:29Z,chibears,-0.0484375832915306
+37797,224337,224337,bluewords,">	overspending on aging and injury prone Free Agents
+
+Who asked them to? Keep your straw man in the corn fields. I’ve specifically pointed out guys they should’ve drafted. Not hindsight out of no where guys. People Poles was flamed for skipping at the time. 
+
+>	we can’t afford to give up first rounders.
+
+Literally, no one has said that we should. Marquis went for pick 100. Amari went for a fifth. Again, straw men belong in the corn fields, not your arguments. Also, unless Amari had a no trade clause, what he wanted didn’t matter so much.",1.0,chibears,t3_y3kl20,False,0.0,Fire Poles,2022-10-14T16:53:02Z,chibears,-0.0222853103819096
+37798,224338,224338,bluewords,">	6 games is not “plenty” of anything. 
+
+If you can’t see what’s in front of you, then that’s on you.
+
+>	that’s what the last administration left us with
+
+And current administration ignored fixing
+
+>	You can’t fix it all in 1 year.
+
+No one asked them to. Fix the side of the ball where you’re trying to evaluate your sophomore QB.
+
+>	They develop their QBs THEN they go all out for a WR. Kyler and Hopkins. Allen and Diggs. Hurts and Br
+
+Can you look at how these games have gone and say this is him being developed? I can’t. Plus, drafting a WR or even getting in on the Marquis or Amari trades where you give up a third or fifth isn’t “going all out”. It’s literally bare minimum, dude.
+
+>	this team had no talent anywhere
+
+Yeah, so prioritize to accomplish your one important task, developing and figuring out what you have at QB. QB is the most important position in the game. We need to know what we have, otherwise we’re gonna get stuck in another five year Mitch limbo.
+
+>	WRs they don’t like
+
+If they didn’t like Pickens, Pierce, or Shakir, then they suck at scouting.",0.0,chibears,t3_y3kl20,False,0.0,Fire Poles,2022-10-14T14:04:13Z,chibears,0.0161735411487751
+37799,224340,224340,bluewords,"It’s called having eyes, dude. 6 games is plenty to see that the bears offense is broken. Constantly getting sacked and learning that you can’t trust your WRs is not how you develop a QB.
+
+He’s had 1 draft class, and he didn’t invest it into the one thing that mattered this year, building around Fields, developing him, and finding out if he was the guy. Failing to do the only thing that mattered for this season is enough to call this draft bad. I don’t care how good our secondary is if we ruin our QB prospect building it.
+
+The real question is why are you not pissed? Are you blind on koolaid?
+
+>	reactionary
+
+I don’t think you know how to use that word. Reactionaries constantly change their view anytime circumstances shift slightly. I’ve been very steady in saying that Poles’s strategy is a mistake, which has yet to be shown to be incorrect.",-1.0,chibears,t3_y3kl20,False,0.0,Fire Poles,2022-10-14T13:48:14Z,chibears,-0.0309330361266733
+37800,224341,224341,bluewords,">	Why all the indignation and shock?
+
+Because everyone knew this was the plan and said that it’s a dumb fucking plan. We don’t want Fields to be RG3ed. We don’t want him jumping at ghosts or developing bad habits, like holding the ball too long because he doesn’t trust his WRs to be open or bailing on clean pockets because he doesn’t trust his protection.
+
+How do you not get this? The mental aspect of this game is so important. We needed to develop him and build his confidence in the game. This isn’t that. 
+
+>	They missed out on Pickens
+
+No, they specifically decided not to draft him twice. He wasn’t some secret. He was widely considered one of the best prospects in the class at the position. They elected to not do things that would help their sophomore QB because…I don’t honestly know. Flus cares more about defense?
+
+>	Brisker and Gordon were the two best picks on the board 
+
+Nobody will know who the best was until years down the road, but we did know that a good WR would be more valuable got developing the most important position in the game than a CB or safety. If they didn’t know how good Pickens is, then they suck at scouting.
+
+>	this is who we hired 
+
+Which was a mistake",-1.0,chibears,t3_y3k5nq,False,0.0,Fire Poles,2022-10-14T13:28:50Z,chibears,-0.0210051238625132
+37801,224342,224342,bluewords,Too bad they didn’t do this on the god damned off season,0.0,chibears,t3_y3jswx,False,0.0,Fire Poles,2022-10-14T12:37:16Z,chibears,-0.6124
+37802,224343,224343,bluewords,">	those first two picks being defense
+
+Which everyone knew was a mistake",-1.0,chibears,t3_y3kl20,False,0.0,Fire Poles,2022-10-14T12:16:25Z,chibears,-0.2263
+37803,224345,224345,bluewords,"This isn’t hind sight. Don’t rewrite history. Pickens was always considered a high end WR pick who wasn’t supposed to fall to the bears, and I know for a fact I’d seen Lucas mocked to the bears in the third numerous times. What will it take for you all to wake up to the fact that the bears hired a bad GM? It’s so freaking obvious.",-4.0,chibears,t3_y3kl20,False,0.0,Fire Poles,2022-10-14T11:47:29Z,chibears,-0.1193176
+37804,224346,224346,bluewords,Don’t lie. You have a clue. It’s really simple. Ted and the McCaskeys are fucking stupid. They are where they are due to nepotism and being related to papa bear. I would trust any armchair GM on Reddit more that anyone hired by Ted.,0.0,chibears,t3_y3kl20,False,0.0,Fire Poles,2022-10-14T11:38:40Z,chibears,0.0824569444444444
+37805,224347,224347,bluewords,"Lol, no way Odell would sign with us. You’d be lucky to get Will Fuller or Antonio Brown at this point.",3.0,chibears,t3_y3v3vm,False,0.0,Fire Poles,2022-10-14T11:31:28Z,chibears,0.249025
+37806,224348,224348,bluewords,"Yeah, but they run really fast before dropping them",4.0,chibears,t3_y3v3vm,False,0.0,Fire Poles,2022-10-14T11:30:29Z,chibears,0.1531
+38251,229306,229306,buttholez69,Thank god someone else agrees. I keep seeing people say we need to draft another qb! Why? So we can stick him in the same situation as this year? Fucking idiotic,4.0,chibears,t3_y3tfmj,False,0.0,chicago,2022-10-14T13:03:49Z,chibears,-0.119468896
+40083,238741,238741,dafoo21,"The average fan expects progression to equal good results and that's not always the case. All they see is poor stats, so they assume he's still bad. 
+
+Tape shows he's been inconsistent, but is progressing. He's got poor pass blocking and poor receivers, so it's hard to have good results. 
+
+I mean, I don't blame the average fan. They aren't going to watch film on all qbs.",6.0,chibears,t3_y8hjdd,False,0.0,Italian Beef,2022-10-19T18:37:17Z,chibears,0.0107277713477366
+40084,238742,238742,dafoo21,Yes,-2.0,chibears,t3_y8e5bs,False,1.0,Italian Beef,2022-10-19T17:05:21Z,chibears,0.4019
+40085,238751,238751,dafoo21,"Lolol, whatever you say bud. Your argument is, ""why didn't he just see the wide open guy?"".
+
+I explained, by looking at film, that it was obvious that the qb wasn't looking at the middle of the field at the time. 
+
+Who doesn't know what they are talking about? 
+
+But thanks for being a condescending asshole about it. I was just looking at the film and providing a view that was different from the 12 year-olds on the nfl sub. 
+
+This was definitely a ""fulfilling"" waste of my time. Come back to me, when you want to have a normal discussion without a you trying to act all cool",1.0,nfl,t3_y7hs82,False,0.0,:Bears: Bears,2022-10-19T01:05:50Z,chibears,0.0474664049148559
+40086,238753,238753,dafoo21,"I know his weaknesses and what he can improve. But, him having to bulk up is giving me Mustipher vibes. 
+
+He's bigger than Musty already, but I'm just worried. If he can't do LT, I do feel good with him at RT or inside",11.0,chibears,t3_y7qufv,False,0.0,Italian Beef,2022-10-19T00:54:59Z,chibears,0.091605859375
+40087,238759,238759,dafoo21,"Am I wrong in remembering that Jones played multiple spots in college? 
+
+He has been... fine... but he really struggles against power rushers.",24.0,chibears,t3_y7qufv,False,0.0,Italian Beef,2022-10-18T22:23:22Z,chibears,-0.298925
+40088,238762,238762,dafoo21,"1. You need wide video to see how the routes worked out and how the defense was setup and how it reacted to the play. Photos don't do shit. You can't even see the guy on the sideline
+
+2. Notice how he's looking mid field all the way to the right? He's not seeing the TE as hes going through progressions there. Theres two progressions there as it looks like he was waiting to see how the 3 dbs were going to react to 2 Receivrs on the right. It looked like the one WR was taking a slant to the left to get to the middle of the field and was it a RB doing a wheel route that isn't shown in the pic? I'm not sure. But 
+
+A. Who knows if the WR didn't cut his slant early enough to get in front of the DB and Wilson then goes to his 3rd read the TE but he gets wrapped up.
+
+B. Who knows what the guy on the sideline was doing. But Russ was def watching him too.",-1.0,nfl,t3_y7hs82,False,0.0,:Bears: Bears,2022-10-18T19:01:18Z,chibears,2.691871440737915e-06
+40089,238764,238764,dafoo21,"Who's saying he shouldn't have to scan it quickly? Not me. Wilson scans the field quickly plenty of the time. That TE was saying that shouldn't have been the first read. Wilson obviously saw something he liked to the right and waited a bit to see if it'd open.  When be turned left he waa getting wrapped up. I'm done talking about this until the all22 comes out, bc we aren't seeing the same shit he was seeing to the right.
+
+I'll come back and eat my words if I'm wrong",-4.0,nfl,t3_y7hs82,False,0.0,:Bears: Bears,2022-10-18T18:28:04Z,chibears,-0.0681939697265625
+40090,238770,238770,dafoo21,"Don't know what to tell you dude. He immediately looks right which let's us know that's his first read and when he comes back left, he's getting heavily pressures with a guy wrapped around him. I'd like to see the wide angle of the play on all22 to see what's going on towards the right side. 
+
+He can't see the whole field at once. He couldn't see the open guy. That's the truth. Keep trying to repeat the hiveminds opinion though.",-3.0,nfl,t3_y7hs82,False,0.0,:Bears: Bears,2022-10-18T17:30:04Z,chibears,0.0065268366071959
+40091,238771,238771,dafoo21,"Yea i saw it before, but thanks flr linking it so.more peole can see. The problem is, None of us know how the play is setup to go. We don't know if he was supposed to work inside first then outside or vice versa. I.dont watch nearly enough of the broncos film to know how they progress through a play. 
+
+I'm just trying to say, this noname twitter guy for sure isn't thinking of all the intricacies a qb needs to go through and is just saying, ""haha, he missed""",-3.0,nfl,t3_y7hs82,False,0.0,:Bears: Bears,2022-10-18T17:27:14Z,chibears,0.120882144
+40092,238772,238772,dafoo21,They think it's like madden where you can see the whole field all at once and not just a third at a time,-2.0,nfl,t3_y7hs82,False,1.0,:Bears: Bears,2022-10-18T16:52:44Z,chibears,0.3612
+40093,238774,238774,dafoo21,"Yeah, he wasn't looking in the middle.of the field, he was looking to the right. Qb cant see the whole field at once. 3rd read looked to be the dump off up the middle, like you said, and he just couldn't get there fast enough.",-2.0,nfl,t3_y7hs82,False,1.0,:Bears: Bears,2022-10-18T16:49:40Z,chibears,0.0023629629629629
+40094,238775,238775,dafoo21,"I get what youre saying, but at the same time, if he thinks he can hit his boy 1 on 1 diagnosing the coverage, and hes correct, that shows hes reading everything right. You know Fields wants to go for the big plays and if he see it, hes for sure going to alert the route to do it.
+
+Im not going to pretend I know if/when hes reading it right and calling the proper alert. Im not close to that when watching film. I do like that he feels confident enough to do it, though. I think that provides things him and Getsy can bounce off of each other. Think it can help him learn coverages better, too.
+
+Also, we heard it over and over, Fields makes a mistake once and fixes it next time. So, if hes calling alerts too much, or misreaading the coverage, Getsy is going to let him know. 
+
+But I like your input, it gave me something new to look for.",2.0,chibears,t3_y77l9m,False,0.0,Italian Beef,2022-10-18T15:37:02Z,chibears,0.0499587750734999
+40095,238776,238776,dafoo21,"I thanked you for your work and upvoted you. Then, I also responded to you about some of the things you are missing. Dont worry about the downvotes in here, just respond to the people that reach out back to you for a discussion. Very small part of this sub (or any NFL  sub) takes the time to watch film, listen to pods, or read analysis. 
+
+But, in response back, this isnt my opinion. Think of what I am saying as a research paper. I have watched and listened to atleast 7 sources on Fields and Im reporting back what I find. The fact that all of them are pretty close to the same analysis, i am going to take as fact. This isnt MY opinion, its me informing you of experts' opinions.",2.0,chibears,t3_y77l9m,False,0.0,Italian Beef,2022-10-18T15:25:03Z,chibears,0.0060976008935345
+40096,238777,238777,dafoo21,"Again, ill respond, he sees the field and sees where he needs to throw it. Sometimes hes just not getting rid of the ball and hesitates. He will start double pumping and just doesnt let it sling. As if hes afraid of turning it over or sometimes the WR might have made a wrong move.",2.0,chibears,t3_y77l9m,False,0.0,Italian Beef,2022-10-18T14:59:59Z,chibears,-0.126133984375
+40097,238778,238778,dafoo21,"Theres pods for the bears where they actually look at the tape and dissect what is going on. Theres also Warners, Dilfers, jt o'sullivan's, and a couple others video reviews that I cant think of that I have all watched. They all agree on the points that I made. Every single one of them. 
+
+Hes recognizing coverage, going through each progression, has his eyes to where it should be thrown (or to look off safeties) and sometimes he throws it, sometimes he holds it, gets gunshy and gets sacked and sometimes, he holds it and decides to run prematurely. But, I will say, when he recognizes man coverage and he doesnt see a lurker, or if the lurker isnt close enough, hes pulling the ball down and running. Thats what he should be doing and what is told to do. So, sometimes, it looks like hes bailing, but what he is really doing is seeing the DBs/LBs backs and then running. 
+
+Im not going to say hes doing these things perfectly, at all, but for a young guy, where these were all of his faults coming out of college, hes doing a really good job of progressing. There are other times where he does hold it and waits for the routes to develop and it just takes too long, or the line is giving up a sack in less than 2 seconds and hes getting hit. He loves throwing the ball for 20+ yard plays. Thats just one of his greatest skills he possess. He either needs to learn to not wait as long, or wait til next year for better oline lol.",3.0,chibears,t3_y77l9m,False,0.0,Italian Beef,2022-10-18T14:57:47Z,chibears,0.0572345610869263
+40098,238779,238779,dafoo21,"I appreciate the effort on this, for sure. What the pros are seeing on film is that Fields is seeing the field fine, is going through his progression fine, doing better in staying in the pocket, recognizing defenses, having his eyes where they should be. But, what he is having problems with is actually pulling the trigger when he makes the right read. The times where he hesitates, he has his eyes to the proper read, double pumps and hesitates and doesnt throw the ball and runs, bc he can trust his legs. Im sure some of this can be on the WRs running wrong routes too (Mooney has said a few times he fucked up routes) , but he is having problems pulling the trigger sometimes. 
+
+So, on the plus side, he is progressing pretty well from his college negatives, for the shit oline (great at run blocking though) and poorthe talent on the field. 
+
+The bad is, when he hesitates, he is creating sacks that shouldnt be happening, and taking unnecessary hits in the pocket. Also, sometimes, he still is waiting in the pocket too long, when he should just not taking the easy throw, but that has been improved over the season. 
+
+Progression isnt linear, so hes going to have bad and good and avg games sprinkled throughout the year. He had a really good game against MIN and against WAS, kinda reverted back to a mix of MIN and a mix of the GB game. He showed towards the end of the game, hes still an NFL level QB. His game winning drives have been stopped by bad drops and poor opportune fumbles. 
+
+Personally, this is how I expected it to go. Hes learning a new offense, 3rd in 3 years, fixed some mechanics issues, which im sure play a reason into his hesitations, and his teammates as a whole, are just not talented enough. 
+
+If Pace can do what Miami did for Tua, get him some talented WRs and shore up the oline, Fileds is going to look alot better and has a much higher ceiling than Tua. And we saw how much better Tua looked this year. 
+
+Lastly, i do wanna also talk about the play calling. It was very simple and very run heavy the first few weeks. I can understand why, to get Fields comfortable out there. Over the last few weeks, it has been opened up alot, to allow Fields to kind of do his things, which is great. But i will also say, theres been some questionable calls from the OC sprinkled in. He is also a first time playcaller, so i can understand. This whole season was to strip down the mistakes Pace made over the years and get a fresh start where everyone can progress together. Poles has been saying this from the very first press conference for him. Im not sure why people are acting surprised lol.",8.0,chibears,t3_y77l9m,False,0.0,Italian Beef,2022-10-18T10:13:37Z,chibears,0.0164003950647171
+40099,238780,238780,dafoo21,"Fields just crossed his 1st season worth of games in his career. Hurts has a ton more games played and a 2nd year in the same offense. He is also behind one of the best olines in the game. And also has 2 great WRs. 
+
+Now, have you watched Hurts? He hasn't thrown a pass beyond single digits yards.",1.0,chibears,t3_y5zyif,False,0.0,Italian Beef,2022-10-16T22:23:21Z,chibears,-0.0098966413751714
+40100,238781,238781,dafoo21,I appreciate the dedication to make this and respond to the meatballs with a level head. Gotta love the people who think they know more than ex nfl players and you,6.0,chibears,t3_y3obiw,False,0.0,Italian Beef,2022-10-14T08:32:02Z,chibears,0.418925
+40607,245683,245683,dragonice81,Ahh yeah my bad I missed that,2.0,nfl,t3_y6c124,False,0.0,:Bears: Bears,2022-10-17T12:25:28Z,chibears,-0.5423
+40608,245684,245684,dragonice81,He would've in 2014 but our coach tried to save his job by benching Cutler for Jimmy fucking Clausen,3.0,nfl,t3_y6c124,False,0.0,:Bears: Bears,2022-10-17T12:25:14Z,chibears,0.6486
+40609,245685,245685,dragonice81,We did once and we got monkey paw'd and the defense was historically shit,6.0,nfl,t3_y6c124,False,0.0,:Bears: Bears,2022-10-17T12:24:22Z,chibears,-0.4767
+40610,245687,245687,dragonice81,Rodgers got hurt on the first possession lol. Cutler outplayed Rodgers that last game but go off. McCown played well against bad teams,0.0,nfl,t3_y407z2,False,0.0,:Bears: Bears,2022-10-15T13:37:02Z,chibears,-0.0056703703703703
+40611,245689,245689,dragonice81,Against shitty defenses yeah. Cutler was the reason we almost beat the Packers to win the division that year before Conte happened,0.0,nfl,t3_y407z2,False,0.0,:Bears: Bears,2022-10-15T11:06:54Z,chibears,0.248475
+40612,245691,245691,dragonice81,Don't slander lance Louis like that. He was fine,10.0,chibears,t3_y3jswx,False,0.0,Rex is my quarterback,2022-10-14T00:04:25Z,chibears,0.19145
+41022,249444,249444,enailcoilhelp,"> Athletic talent will slowly drift back from DL to OL as teams start paying more money for OL than DL again.
+
+DL aren't more athletic because they make more money, them being more athletic is what *makes them DLinemen*. OL is *never* going to be more or close to athletic as DL. Legit how 90% of HS football coaches choose OLinemen/DLinemen is making all the big guys stand in a line, more athletic ones become DL, less athletic become OL. Similar to WRs vs DBs. Line up all the athletes, ones who can catch the best become WRs, rest become DBs.",2.0,nfl,t3_y6vcbu,False,0.0,:Bears: Bears,2022-10-18T14:36:48Z,chibears,0.1061590342078189
+41023,249445,249445,enailcoilhelp,Yeah Brown is like the polar opposite of what Poles says he wants out of his linemen.,2.0,chibears,t3_y7e172,False,0.0,FTP,2022-10-18T13:51:25Z,chibears,0.5719
+41024,249446,249446,enailcoilhelp,"> He can either take RT
+
+Elgton Jenkins has actually had a pretty down year so far, and I've seen some discussion online from experts that they should just put him at G where he's best and let him stay there. 
+
+Still agree with you, he's probably the most versatile lineman in the NFL, which means he's gonna command top dollar (if he returns to form by end of the season, which I think he will). Thankfully we'll have the most cap space in the league by a decent margin and OL is a huge need.",3.0,chibears,t3_y7e172,False,0.0,FTP,2022-10-18T13:19:34Z,chibears,0.2951296296296297
+41025,249451,249451,enailcoilhelp,"The source *is* bogus. This dude just takes educated guesses based on what everyone already thinks is gonna happen and then pretends that he has a ""source"". If he's wrong, literally nothing happens, and if he gets lucky and is right, then people like you will say ""see? where there's smoke there's fire!""
+
+Balko literally posts a made up rumor multiple times a week based on w/e's being discussed on twitter.",8.0,nfl,t3_y473j0,False,0.0,:Bears: Bears,2022-10-14T18:26:14Z,chibears,-0.01380832
+41026,249452,249452,enailcoilhelp,"OP completely ignores that we tried to give Ogunjobi $40 million because it doesn't fit his nonsense ""WE LITERALLY HAVE NO MONEY THIS IS IMPOSSIBLE"" narrative. 
+
+You'd think after watching the Saints be in ""insurmountable cap hell"" for a decade while still signing players that people would get the cap is way more fluid and forgiving than they realize. 
+
+""They're a $100 million over the cap, they're done for!"" 
+
+*Saints proceed to resign key players and FAs every year*
+
+""BUT HOW?!""",8.0,chibears,t3_y3yx53,False,0.0,FTP,2022-10-14T17:48:10Z,chibears,-0.069935546875
+41027,249454,249454,enailcoilhelp,"Everyone's complaining about Mustipher, but Patrick has been so disappointing, he's been our worst lineman imo. He gets abused in pass protection. 
+
+Oh wow Teven's our best lineman, who could've known besides *literally everyone  but this coaching staff*. I get angry knowing we wasted the first few weeks of the season rotating Jenkins because this coaching staff is playing favorites with Patrick. If he couldn't start at C because his hand then he should've stayed a backup G until he could. Would've loved to see our *actual* starting OLine of Jones-Whitehair-Patrick-Jenkins-Borom at least once.",17.0,chibears,t3_y42w8c,False,0.0,FTP,2022-10-14T15:04:40Z,chibears,0.1119675111454046
+41028,249455,249455,enailcoilhelp,"yeah weights are gonna help him grow to Wentz size /s 
+
+People really acting like Wentz isn't a huge, strong QB who just made a really good play on Smith.",1.0,chibears,t3_y42rfw,False,0.0,FTP,2022-10-14T14:50:16Z,chibears,0.8354
+41029,249456,249456,enailcoilhelp,OL literally shitting their pants trying to block for Fields?,1.0,chibears,t3_y3zrj1,False,0.0,FTP,2022-10-14T12:19:31Z,chibears,-0.6908
+41030,249459,249459,enailcoilhelp,"Yeah I reported this post and I hope others do as well. Self-promotion is not allowed, and it's even worse when it's inflammatory bs from a guy who isn't part of the community.",3.0,chibears,t3_y3wwm8,False,0.0,FTP,2022-10-14T11:12:16Z,chibears,-0.054575
+41031,249460,249460,enailcoilhelp,I remember reading analysis on him that said he's gonna need to up his play strength in the NFL to transition. An offseason or 2 of NFL S&C and I think he'll be in a great spot.,3.0,chibears,t3_y3oo2d,False,0.0,FTP,2022-10-14T10:31:17Z,chibears,0.48265
+41365,250506,250506,eyeguy21,Which means no,216.0,chibears,t3_y7gt3g,False,0.0,J Smokin Cuts,2022-10-18T14:47:09Z,chibears,-0.296
+42210,255727,255727,g0dzilllla,Daniel Bellinger has randomly been nice wtf,86.0,nfl,t3_y8lecf,False,0.0,:Bears: Bears,2022-10-19T21:16:21Z,chibears,-0.25
+42211,255728,255728,g0dzilllla,Lol,1.0,nfl,t3_y8kjom,False,0.0,:Bears: Bears,2022-10-19T20:36:35Z,chibears,0.4215
+42212,255729,255729,g0dzilllla,Good defense,6.0,nfl,t3_y8i23k,False,0.0,:Bears: Bears,2022-10-19T18:47:45Z,chibears,0.5267
+42213,255734,255734,g0dzilllla,Lmao the fuck,1.0,nfl,t3_y6o53o,False,0.0,:Bears: Bears,2022-10-17T17:03:45Z,chibears,0.1027
+42214,255735,255735,g0dzilllla,"Quinnen and Quincy playing their asses off as brothers on the same defense is crazy 
+
+Must be so fucking cool watching your bro fuck someone up and then you do the same on the next play.",2.0,nfl,t3_y67jzn,False,0.0,:Bears: Bears,2022-10-17T14:17:19Z,chibears,0.1708
+42215,255736,255736,g0dzilllla,Oh god I remember this,3.0,nfl,t3_y69j9w,False,0.0,:Bears: Bears,2022-10-17T14:14:46Z,chibears,0.2732
+42216,255737,255737,g0dzilllla,Holy shit,1.0,nfl,t3_y6ajr4,False,0.0,:Bears: Bears,2022-10-17T14:13:19Z,chibears,-0.5574
+42217,255738,255738,g0dzilllla,He definitely does lmao he’s mentioned in literally every rookie thread,0.0,nfl,t3_y6atgh,False,1.0,:Bears: Bears,2022-10-17T14:11:17Z,chibears,0.765
+42218,255739,255739,g0dzilllla,LMAO,6.0,nfl,t3_y6atgh,False,0.0,:Bears: Bears,2022-10-17T14:09:27Z,chibears,0.5994
+42219,255740,255740,g0dzilllla,Breaking: fans of a team stop liking player who leaves and shit talks team,20.0,nfl,t3_y6g14s,False,0.0,:Bears: Bears,2022-10-17T13:58:54Z,chibears,-0.4767
+42220,255741,255741,g0dzilllla,"Because we are all using Reddit, Twitter, Google, Facebook, you have a smartphone, like dude it’s not just tiktok that does this shit or you’re naive 
+
+Im sure they love the data they’ve collected from me from all the shitposts I’ve saved lmao",5.0,nfl,t3_y6gdcx,False,0.0,:Bears: Bears,2022-10-17T13:56:26Z,chibears,0.8537
+42221,255742,255742,g0dzilllla,Lmao I love these,6.0,nfl,t3_y6gdcx,False,0.0,:Bears: Bears,2022-10-17T13:54:23Z,chibears,0.8442
+42222,255743,255743,g0dzilllla,We joke but the 2020 bears are genuinely one of the worst 5-1 teams of all time lmao,10.0,nfl,t3_y6hajd,False,0.0,:Bears: Bears,2022-10-17T13:51:08Z,chibears,0.0772
+42223,255744,255744,g0dzilllla,Was waiting for the clip of this lol,1.0,nfl,t3_y6itf6,False,0.0,:Bears: Bears,2022-10-17T13:41:56Z,chibears,0.5023
+42224,255745,255745,g0dzilllla,I more directed it at that guy because he was confused about elbows,7.0,nfl,t3_y5v1jd,False,0.0,:Bears: Bears,2022-10-16T18:46:34Z,chibears,-0.3182
+42225,255746,255746,g0dzilllla,Mr. Bone Confusion,9.0,nfl,t3_y5v1jd,False,0.0,:Bears: Bears,2022-10-16T18:35:32Z,chibears,-0.148
+42226,255748,255748,g0dzilllla,Von Miller is a fucking menace,2038.0,nfl,t3_y5v9x4,False,0.0,:Bears: Bears,2022-10-16T18:31:31Z,chibears,-0.5413
+42227,255750,255750,g0dzilllla,This game is as promised. Let's see what Mahomes does,10.0,nfl,t3_y5v7dv,False,0.0,:Bears: Bears,2022-10-16T18:28:46Z,chibears,0.0903
+42228,255752,255752,g0dzilllla,"Why is this upvoted. It's wrong
+
+Mr. Bogus Convention",26.0,nfl,t3_y5v1jd,False,0.0,:Bears: Bears,2022-10-16T18:25:45Z,chibears,-0.23835
+42229,255754,255754,g0dzilllla,"I'd like the feeling of a woman's loving embrace, personally",961.0,nfl,t3_y5uko7,False,0.0,:Bears: Bears,2022-10-16T18:00:55Z,chibears,0.8481
+42230,255755,255755,g0dzilllla,"Is Kirk generally liked around the league? Genuinely asking for opinions, personally the goofy cornball dad shtick is just kinda overdone imo
+
+Also, if Russ did this r/NFL would have a fucking aneurysm",-16.0,nfl,t3_y5ugxw,False,0.0,:Bears: Bears,2022-10-16T17:56:54Z,chibears,0.105375
+42231,255756,255756,g0dzilllla,interesting,3.0,nfl,t3_y5uh6d,False,0.0,:Bears: Bears,2022-10-16T17:56:20Z,chibears,0.4019
+42232,255757,255757,g0dzilllla,He runs like a young Frank Gore,9.0,nfl,t3_y5tw60,False,0.0,:Bears: Bears,2022-10-16T17:45:27Z,chibears,0.3612
+42233,255759,255759,g0dzilllla,"As much as I like the Zapinator, probably not
+
+Although this does make me wonder what the conversations were like in 2001 when Brady was balling out",12.0,nfl,t3_y5s2v7,False,0.0,:Bears: Bears,2022-10-16T16:14:31Z,chibears,0.6124
+42234,255760,255760,g0dzilllla,I do not wish to see Rodgers’ penis,18.0,nfl,t3_y5rvt8,False,0.0,:Bears: Bears,2022-10-16T16:14:10Z,chibears,-0.3089
+42235,255761,255761,g0dzilllla,Lmao,0.0,nfl,t3_y5s0dc,False,0.0,:Bears: Bears,2022-10-16T16:12:56Z,chibears,0.5994
+42236,255763,255763,g0dzilllla,Smart man,6.0,nfl,t3_y5rnzk,False,0.0,:Bears: Bears,2022-10-16T15:59:03Z,chibears,0.4019
+42237,255764,255764,g0dzilllla,Fucking beast. We’re in a golden age of WR play,13.0,nfl,t3_y5rp2x,False,0.0,:Bears: Bears,2022-10-16T15:58:30Z,chibears,0.17
+42238,255765,255765,g0dzilllla,"Lmao
+
+You should donate $11k then Ja’Marr",10.0,nfl,t3_y5re7h,False,0.0,:Bears: Bears,2022-10-16T15:57:01Z,chibears,0.5994
+42239,255766,255766,g0dzilllla,"Damn, I hope he’s alright. Hit his head hard
+
+It’s these kind of head-ground contact shots that are the true concussion culprits, imo. So much kinetic energy, basically 250+ lbs smashing into a wall every time someone goes airborne and lands",1.0,nfl,t3_y5rjtx,False,0.0,:Bears: Bears,2022-10-16T15:54:47Z,chibears,0.1594407407407407
+42240,255768,255768,g0dzilllla,Obviously within the division it would be even lol,11.0,nfl,t3_y5r0ub,False,0.0,:Bears: Bears,2022-10-16T15:36:38Z,chibears,0.4215
+42241,255770,255770,g0dzilllla,"Wow, he’s getting fewer carries and yards every game. Bust",3.0,nfl,t3_y5qi4q,False,0.0,:Bears: Bears,2022-10-16T15:21:26Z,chibears,0.146475
+42242,255771,255771,g0dzilllla,I LOVE SAUCE GARDNER,2.0,nfl,t3_y5qolv,False,0.0,:Bears: Bears,2022-10-16T15:18:36Z,chibears,0.6369
+42243,255772,255772,g0dzilllla,"Giants are him, holy shit. What a division",721.0,nfl,t3_y5qbir,False,0.0,:Bears: Bears,2022-10-16T15:01:51Z,chibears,-0.13935
+42244,255773,255773,g0dzilllla,New York is going insane today,101.0,nfl,t3_y5qbb7,False,0.0,:Bears: Bears,2022-10-16T15:01:42Z,chibears,-0.4019
+42245,255775,255775,g0dzilllla,Probably not gonna end up much further but that’s a huge milestone,41.0,nfl,t3_y5ozm4,False,0.0,:Bears: Bears,2022-10-16T14:08:01Z,chibears,0.4497
+42246,255776,255776,g0dzilllla,"Hello Kettle, I welcome you to the cellar",3.0,nfl,t3_y5oqij,False,0.0,:Bears: Bears,2022-10-16T14:04:19Z,chibears,0.4588
+42247,255777,255777,g0dzilllla,Colts suck so bad,7.0,nfl,t3_y5oqij,False,0.0,:Bears: Bears,2022-10-16T13:57:42Z,chibears,-0.8122
+42248,255779,255779,g0dzilllla,"Honestly 340 total pounds of sex is pretty reasonable if it’s a tall couple, like 210 + 130",3.0,nfl,t3_y5o3zl,False,0.0,:Bears: Bears,2022-10-16T13:41:58Z,chibears,0.8271
+42249,255782,255782,g0dzilllla,Fair,-1.0,nfl,t3_y51f8c,False,0.0,:Bears: Bears,2022-10-15T23:33:22Z,chibears,0.3182
+42250,255783,255783,g0dzilllla,"The amount of hate is weird tbh 
+
+He’s not bothering anyone lol just a strange dude",4.0,nfl,t3_y51f8c,False,1.0,:Bears: Bears,2022-10-15T23:14:46Z,chibears,-0.7467
+42251,255784,255784,g0dzilllla,"Starters? All of them
+
+Entire roster maybe like 45-50
+
+Other teams rosters? Probably like ~15 on average
+
+This site might have dumb takes overall but it’s honestly a good concentration of some of the most closely following fans lol",34.0,nfl,t3_y55zpm,False,0.0,:Bears: Bears,2022-10-15T22:03:21Z,chibears,0.3412
+42252,255785,255785,g0dzilllla,Lmao sounds like something I would write out while on my Ritalin,2.0,nfl,t3_y410dk,False,0.0,:Bears: Bears,2022-10-15T17:02:07Z,chibears,0.7506
+42253,255786,255786,g0dzilllla,Good read lmao,1.0,nfl,t3_y410dk,False,0.0,:Bears: Bears,2022-10-15T08:35:32Z,chibears,0.7783
+42254,255790,255790,g0dzilllla,So confused about this,1.0,nfl,t3_y45ls4,False,0.0,:Bears: Bears,2022-10-14T16:36:29Z,chibears,-0.3804
+42255,255795,255795,g0dzilllla,Please for the love of god get Mustipher the fuck away from this team,42.0,nfl,t3_y3ki5f,False,0.0,:Bears: Bears,2022-10-14T00:01:28Z,chibears,0.6249
+42316,256292,256292,garebeardrew,If he watches more than four hours he should consult his defensive coordinator,2.0,chibears,t3_y4qxy1,False,0.0,chuggin that kool-aid,2022-10-15T23:09:24Z,chibears,0.0258
+42317,256297,256297,garebeardrew,God dammit. Imma just leave it as is,2.0,chibears,t3_y3hyhm,False,0.0,chuggin that kool-aid,2022-10-14T13:54:29Z,chibears,0.0424999999999999
+42318,256299,256299,garebeardrew,Kmet’s a good blacking tight end. Horsted was a good pass catching tight end for us which is why I’m still pissed how we underutilized him last season before dumping him off this past off season,5.0,chibears,t3_y3hyhm,False,0.0,chuggin that kool-aid,2022-10-14T00:15:54Z,chibears,-0.1686
+43005,267689,267689,illuminanthi77,This made me laugh so hard. He’s just so amped,1.0,nfl,t3_y6qmrj,False,0.0,:Bears: Bears,2022-10-17T21:47:07Z,chibears,0.10215
+43006,267692,267692,illuminanthi77,"Lockdown all fucking game, every game, as a rookie. Best player in the draft so far",147.0,nfl,t3_y5qnup,False,0.0,:Bears: Bears,2022-10-16T15:17:58Z,chibears,0.31845
+43007,267693,267693,illuminanthi77,I’m lost in the sauce,95.0,nfl,t3_y5qnup,False,0.0,:Bears: Bears,2022-10-16T15:15:56Z,chibears,-0.3182
+43008,267694,267694,illuminanthi77,Titty kisser back with a vengeance,82.0,nfl,t3_y5qg7c,False,0.0,:Bears: Bears,2022-10-16T15:07:34Z,chibears,0.4019
+43009,267697,267697,illuminanthi77,This is fucking hilarious,531.0,nfl,t3_y5nep5,False,0.0,:Bears: Bears,2022-10-16T13:06:09Z,chibears,0.4576
+43812,272004,272004,jamfan40,"They're also not hosting Super Bowls or Final Fours, concerts in the Winter, conventions in the Winter, etc",1.0,nfl,t3_y6jy1p,False,0.0,:Bears: Bears,2022-10-17T14:26:55Z,chibears,-0.4847
+43813,272005,272005,jamfan40,It gets cold in December here (Nashville).  I went to a Week 17 game a few years ago and it's the coldest I've ever been.  Was a must-win game for the Titans to get into the playoffs and half the stadium was empty.,1.0,nfl,t3_y6jy1p,False,0.0,:Bears: Bears,2022-10-17T14:22:49Z,chibears,-0.0674333333333333
+43814,272013,272013,jamfan40,Bears fans spent all offseason crying at national media members saying Mooney wasn't a WR1.,2.0,chibears,t3_y3il2w,False,0.0,Sayers,2022-10-14T01:12:01Z,chibears,-0.4767
+43815,272014,272014,jamfan40,"Are people really excited about Harry?  Don't get me wrong, I'm fine with taking a chance on a talented guy from college but he's done nothing in the NFL and the Pats gave up on him.  He's likely bad.",13.0,chibears,t3_y3il2w,False,0.0,Sayers,2022-10-14T01:10:46Z,chibears,-0.1004222222222222
+44335,276412,276412,jmaca90,"First off, how dare you. Secondly, you’re not wrong.",47.0,nfl,t3_y6vcbu,False,0.0,:Bears: Bears,2022-10-17T23:50:05Z,chibears,0.1862
+44336,276418,276418,jmaca90,Oh god are we the NFC East now,5.0,nfl,t3_y5qrjp,False,0.0,:Bears: Bears,2022-10-16T23:20:29Z,chibears,-0.516
+44337,276419,276419,jmaca90,DONT YOU REGRET NOT COMING TO THE KNiiiiiiiiiiiiiiiiiiiiIIIICKS??,4.0,nfl,t3_y5qf4i,False,0.0,:Bears: Bears,2022-10-16T23:10:50Z,chibears,0.1089
+44338,276420,276420,jmaca90,"My college friends are from New York and indoctrinated me. They’re my AFC team.
+
+Needless to say, I’ve only known pain my entire football watching life",1.0,chibears,t3_y5rwee,False,0.0,Justin Fields,2022-10-16T19:02:58Z,chibears,-0.1553148148148148
+44339,276421,276421,jmaca90,"My college friends are Jets fans, and we went to school during the Rex Ryan era, so they’ve been my AFC team for a while (Bears and Jets fan, I must be a masochist)
+
+Happy to see the Jets get it today, FTP",3.0,chibears,t3_y4h1jm,False,0.0,Justin Fields,2022-10-16T14:15:34Z,chibears,0.7506
+44342,276434,276434,jmaca90,Hoping the Ms can hold off today,2.0,chibears,t3_y4h1jm,False,0.0,Justin Fields,2022-10-15T15:56:42Z,chibears,0.4215
+44343,276435,276435,jmaca90,Definitely. Their 30 for 30 was heartbreaking hearing how they knew they could’ve won multiple titles but never got to.,1.0,nfl,t3_y3jr0n,False,0.0,:Bears: Bears,2022-10-14T12:24:35Z,chibears,0.145475
+44344,276436,276436,jmaca90,I was -5 years old and I remember like it was before my existence,6.0,nfl,t3_y3jr0n,False,0.0,:Bears: Bears,2022-10-14T12:23:54Z,chibears,0.3612
+44345,276437,276437,jmaca90,But remember 1985? That was good football,12.0,nfl,t3_y3jr0n,False,0.0,:Bears: Bears,2022-10-14T09:26:57Z,chibears,0.2202
+44346,276438,276438,jmaca90,"Alcohol. 
+
+But also, I went to a local sports bar that I haven’t went to in a while, and it was really fun. I forgot how fun watching a game (even if it’s bad) is with a packed bar.",10.0,nfl,t3_y3ur2x,False,0.0,:Bears: Bears,2022-10-14T09:22:50Z,chibears,0.0615333333333333
+44347,276439,276439,jmaca90,"I got some great advice at the bar last night from a fellow miserable Bears fan.
+
+He said, “Don’t let this ruin your week or weekend. It’s just a game, and we knew it was going to be bad. But we can respond to this by not letting it affect us.”
+
+Excellent coping advice for the Bears and also life 
+
+🫠🫠👀",5.0,chibears,t3_y3oo2d,False,0.0,Justin Fields,2022-10-14T09:14:36Z,chibears,0.138233984375
+44740,277551,277551,jmrogers31,I'm actually surprised he hasn't already.,1.0,nfl,t3_y42l6j,False,0.0,:Bears: Bears,2022-10-14T21:59:52Z,chibears,0.2263
+45111,287014,287014,lime_licker7,FUCK THE PACKERS WOOOOO,2.0,nyjets,t3_y5kdcc,False,0.0,:ChicagoBears:,2022-10-16T12:46:57Z,chibears,-0.5423
+45112,287018,287018,lime_licker7,Love watching Aaron go down,2.0,nyjets,t3_y5kdcc,False,0.0,:ChicagoBears:,2022-10-16T12:15:40Z,chibears,0.6369
+45113,287019,287019,lime_licker7,A fact I know all too well 😭 FTP,3.0,nyjets,t3_y5kdcc,False,0.0,:ChicagoBears:,2022-10-16T12:13:45Z,chibears,-0.25
+45114,287020,287020,lime_licker7,Jets are my second favorite team this season,0.0,nyjets,t3_y5kdcc,False,0.0,:ChicagoBears:,2022-10-16T12:08:21Z,chibears,0.4588
+45115,287021,287021,lime_licker7,It’s the packers so the calls gonna go against NY unfortunately no matter how close it is,1.0,nyjets,t3_y5kdcc,False,0.0,:ChicagoBears:,2022-10-16T12:07:38Z,chibears,-0.3557
+45200,287630,287630,lulzjihad,"Not at all. We had a very strong point differential in 2018, one of the best in the league. It’s just all our losses were very close. There was only one or two wins that was close, despite like 3 being one-score games. So it’s more like we easily could’ve gone anywhere from 9-7 to 16-0 but instead landed on 12-4.
+
+We had the 4th best point differential in the NFL that year at +138. The leader was +151. That’s usually a sign of a strong playoff team.",5.0,chibears,t3_y432fp,False,0.0,Smokin' Jay,2022-10-15T10:18:35Z,chibears,0.0651851120471954
+46852,291915,291915,mikebob89,Pretty wild. Link to time stamp: https://youtu.be/fzFNvllchnQ?t=132,6.0,chibears,t3_y6ehy0,False,0.0,FTP,2022-10-17T10:47:06Z,chibears,0.123475
+46853,291919,291919,mikebob89,They were like 5 yards away from having 28 points last night.,3.0,chibears,t3_y3oo2d,False,0.0,FTP,2022-10-14T17:47:47Z,chibears,0.3612
+48391,305934,305934,noahw1228,"True, there really is no comparison. Honestly I think the Bears did him dirty from the start, even going back to training camp last year where he got zero starting reps, then firing the coaching staff so he had to learn a new offense and then giving him no weapons this season, all while having a terrible line every step of the way. I know people make tons of excuses for fields but this is simply how you set up your QB for failure. 
+
+If we do move on from him we need to have our shit together before selecting our next guy, and that’s probably gonna take a couple years because this team is just so barren of quality players, especially on offense. So even if fields isn’t the guy, we might as well keep him around and then go get our new QB once this team is actually in a place that we can develop one correctly, because they absolutely shit the bed. Who knows, maybe along the way he’ll show some growth. Either way it’s not a good idea to ditch him after this year imo",4.0,chibears,t3_y8e5bs,False,0.0,Monsters of the Midway,2022-10-19T18:15:57Z,chibears,-0.0425132255389214
+48392,305935,305935,noahw1228,"Idk, maybe Tua? I can’t really think of a qb that was set up to fail this badly honestly, the bears really did not put him in any position to succeed.
+
+I do think that Fields has to make a bigger leap by the end of the season to make me feel confident that he can become the QB he has the potential to be. I definitely wouldn’t call him the worst QB in football tho just for his running ability alone",2.0,chibears,t3_y8e5bs,False,1.0,Monsters of the Midway,2022-10-19T18:07:32Z,chibears,-0.041462109375
+48393,305936,305936,noahw1228,"1000000% 
+
+Even if fields isn’t the guy this is not a good time to be bringing a QB into the mix. A lot of the most successful qb’s in the league went to teams that were already pretty good and could give him a good supporting cast. Plus it helps that they had organizational stability and could learn under the same offense for multiple seasons",5.0,chibears,t3_y8e5bs,False,0.0,Monsters of the Midway,2022-10-19T18:03:48Z,chibears,0.1431962962962963
+48394,305937,305937,noahw1228,"Josh Rosens ceiling wasn’t as high as Murray’s so they went with Kyler. Do Stroud and Young have a higher ceiling/potential than Fields? I’m not sure
+
+If we had ended up with a guy like Mac Jones then I’d say yeah go ahead and move on, because these guys have the potential to be better. But with Fields he has the athleticism and arm strength to be something very special and I think that’s the reason why so many are hesitant to move on already",5.0,chibears,t3_y8e5bs,False,0.0,Monsters of the Midway,2022-10-19T17:28:37Z,chibears,0.2303375
+48395,305938,305938,noahw1228,"Fields has sky high potential and has shown that he can improve so it’s not like he’s uncoachable, not sure I like moving on from fields quite yet.",29.0,chibears,t3_y8e5bs,False,0.0,Monsters of the Midway,2022-10-19T17:27:27Z,chibears,-0.3707
+48396,305939,305939,noahw1228,"Even if we lose out the rest of the year they aren’t firing this coaching staff. Even if that’s the right move, which I don’t think it would be, it isn’t the McCaskey way",1.0,chibears,t3_y6zjfn,False,0.0,Monsters of the Midway,2022-10-19T16:25:57Z,chibears,-0.156225
+48397,305940,305940,noahw1228,"I mean yea the 2013 bears had Alshon Bmarsh Cutty Forte and Bennett all on offense that shit was OP as fuck
+
+The 2013 bears and 2018 bears are both great examples that if you are completely loaded on one side of the ball and complete ass on the other you aren’t going anywhere",3.0,chibears,t3_y6zjfn,False,0.0,Monsters of the Midway,2022-10-19T16:15:14Z,chibears,-0.8176
+48398,305941,305941,noahw1228,Aurelio’s has the best pizza in the Chicago area (at least that I’ve tried),8.0,chibears,t3_y6zjfn,False,0.0,Monsters of the Midway,2022-10-18T19:56:03Z,chibears,0.6369
+48399,305945,305945,noahw1228,"Nobody was trading up for a qb last year so yeah. I’m going off of the 2021 draft where the niners gave up 2 firsts and we gave up a first to get our qbs
+
+My prediction is that we draft like 3rd and someone like the Colts trades up to get their QB of the future and we net an extra first as a result",7.0,chibears,t3_y6ele4,False,0.0,Monsters of the Midway,2022-10-17T17:18:42Z,chibears,0.414725
+48400,305946,305946,noahw1228,As bad as Fields might be doing Mac would have been worse,1.0,chibears,t3_y125t6,False,0.0,Monsters of the Midway,2022-10-17T14:13:26Z,chibears,-0.765
+48401,305947,305947,noahw1228,"If we can get Tillman in the second round that would be pretty sweet, although after the run on wide receivers that happened in last years draft I don’t know if he’ll fall out of the first",9.0,chibears,t3_y6ele4,False,0.0,Monsters of the Midway,2022-10-17T12:34:07Z,chibears,0.7351
+48402,305948,305948,noahw1228,"Right now the big one is Jaxon Smith-Njigba out of Ohio state, he hasn’t played much this season due to injury but last year dude was something really special. Definitely the best WR prospect in this draft, assuming his injury doesn’t hamper him at all long term. There’s also Kayshon Boutte from LSU, same school that Jamarr Chase and Justin Jefferson came from. He had the highlights last year but has been kinda down this year. One of my personal favorites though is Jordan Addison out of USC. Great route runner with a lot of versatility. There’s more but these are the top ranked WRs at the moment",25.0,chibears,t3_y6ele4,False,0.0,Monsters of the Midway,2022-10-17T11:45:05Z,chibears,0.0562746634966237
+48403,305949,305949,noahw1228,"I think for what we’re trying to do trading back and getting one or two extra first rounders would be ideal, we’ll probably still be able to get a damn good WR if we trade back to the teens",84.0,chibears,t3_y6ele4,False,0.0,Monsters of the Midway,2022-10-17T10:58:06Z,chibears,0.5574
+48404,305950,305950,noahw1228,The 2018 one was crazy with special teams I remember. I think Patterson muffed a punt for NE and then on his next return he took it to the house. That was a fun but very stupid game,24.0,chibears,t3_y6dqrx,False,0.0,Monsters of the Midway,2022-10-17T10:20:52Z,chibears,-0.196474074074074
+48405,305956,305956,noahw1228,"Gesicki would be a great weapon to add. I’m sure Getsy will try and get Lazard as well, not sure how I feel about him",5.0,chibears,t3_y4wasj,False,0.0,Monsters of the Midway,2022-10-15T15:06:51Z,chibears,0.28415
+48406,305957,305957,noahw1228,Nah it’s a rebuild. If it wasn’t they probably would have kept Mack and all the other vets,10.0,chibears,t3_y4vsco,False,0.0,Monsters of the Midway,2022-10-15T14:29:22Z,chibears,-0.025675
+48407,305958,305958,noahw1228,"Pretty sure Poles’ free agency strategy for this year will be the same as the patriots from a couple years back, which was basically EVERYONE GET IN HERE!!!!!",12.0,chibears,t3_y4wasj,False,0.0,Monsters of the Midway,2022-10-15T14:25:20Z,chibears,0.218525
+48408,305960,305960,noahw1228,Agree. Our losses are way more entertaining then the Nagy era,2.0,chibears,t3_y125t6,False,0.0,Monsters of the Midway,2022-10-15T07:11:06Z,chibears,0.15345
+48409,305961,305961,noahw1228,Idk man Trenton Gill’s playing pretty well lol,4.0,chibears,t3_y125t6,False,0.0,Monsters of the Midway,2022-10-15T06:43:00Z,chibears,0.8176
+48410,305962,305962,noahw1228,Fuck it! Roll the tank!,1.0,chibears,t3_y3oo2d,False,0.0,Monsters of the Midway,2022-10-14T11:36:20Z,chibears,-0.1462
+48503,306174,306174,noblesix31,HE'S SO GOOD,17.0,nfl,t3_y5pkif,False,0.0,:Bears: Bears ,2022-10-16T14:32:19Z,chibears,0.4927
+49980,314258,314258,patrick_e,His fiancée called off their engagement after the SB too.,22.0,nfl,t3_y82mr4,False,0.0,:Bears: Bears,2022-10-19T12:56:20Z,chibears,0.4588
+49981,314259,314259,patrick_e,"It might be coaching up, hopefully it is, that will help lift all boats in the long run. But it’s also definitely scheme related. Desai ran a Fangio scheme which was more reliant on the blitz and confusing stunts at the line. This out DBs on an island in man. Eberflus/Williams run a zone-based system which frees him up a bit to take chances since he has help over the top, and also, well, he has help over the top more often than not. 
+
+I liked Desai and I’m rooting for him but sticking to a scheme that you don’t have the personnel to run is a big red flag for me. Lovie, Trestman, and Nagy were all that kind of coach. You can be a really good coach that way but you can’t adjust for injury or schemes that provide a hard counter (like the WCO countered the Cover-2).",1.0,chibears,t3_y75yjt,False,0.0,69,2022-10-19T10:47:49Z,chibears,0.0021624521076679
+49982,314260,314260,patrick_e,Do you really think based off his career trends he actually had value this summer?,-2.0,chibears,t3_y81wh1,False,1.0,69,2022-10-19T08:16:40Z,chibears,0.34
+49983,314261,314261,patrick_e,"Yeah, I mean, you’re not getting out of that contract until…2026? You’re absolutely right there. It’s Wilson all the way down.",2.0,nfl,t3_y77dl8,False,0.0,:Bears: Bears,2022-10-18T15:13:06Z,chibears,0.0109629629629629
+49984,314262,314262,patrick_e,"When you win with a bend-but-don’t-break defense and run game, it looks bad. It’s not what people are used to. They see the opponent moving the ball and it’s easy to say, “well, the other team moved the ball, they just couldn’t finish so they beat themselves.” 
+
+Like, yeah, that’s how the defensive scheme is supposed to work. 
+
+Throw in a few busted plays on both sides and it’s easy to say the team is fresh turds and only beat teams who beat themselves, ignoring that the Bears beat them exactly the way the Bears gameplanned.",0.0,chibears,t3_y6zjfn,False,0.0,69,2022-10-18T13:36:41Z,chibears,0.184596484375
+49985,314263,314263,patrick_e,"Literally every single offense can use a speedy WR to fuck with defensive coverages. Even if he isn’t super productive, a guy with his speed can help everyone else produce. 
+
+With his speed and Fields’s long ball, teams can’t ignore him. Yeah it’ll take time and he needs enough reps for the coaching staff to trust him but he has the ability to be an enormous asset between the 20s and maybe more.",5.0,chibears,t3_y7b1jp,False,0.0,69,2022-10-18T13:21:15Z,chibears,0.2006011718749999
+49986,314264,314264,patrick_e,"The problem with Wilson is that he spent a decade with the right coaching staff to get the most out of him, and he spent at least half that time complaining. 
+
+Maybe this season has humbled him enough to be open to being a system QB again. But every time Seattle gave in to Russ it looked like this. Good QB, terrible OC. He can’t run an offensive system like Peyton could or Brady does. Hell, as awful as he was, Bug Ben still ran that offense last year and maximized it to what little his arm could still do. 
+
+Russ just can’t seem to do that. Not sure why, except that he seems to think he can do things that he can’t, and he’s always had a chip on his shoulder that he’s been held back, so his expectations and goals just have no basis in reality.",8.0,nfl,t3_y77dl8,False,0.0,:Bears: Bears,2022-10-18T13:07:39Z,chibears,-0.0626405112206935
+49987,314265,314265,patrick_e,That’s fair,3.0,nfl,t3_y77dl8,False,0.0,:Bears: Bears,2022-10-18T12:49:51Z,chibears,0.3182
+49988,314266,314266,patrick_e,"Demanding a trade is pretty much just a negotiating tactic these days. It’s not really that big of a deal. 
+
+I don’t think it’s unreasonable for a player to essentially say, “show me you want me or let someone else want me.” 
+
+In the corporate world you just find another job and then can go to your boss and say, “hey this company think I’m worth $X. Are you willing to match that?” You can’t do that with NFL contracts, but it’s more or less the same tactic.",31.0,nfl,t3_y77dl8,False,0.0,:Bears: Bears,2022-10-18T12:43:11Z,chibears,0.02381796875
+49989,314272,314272,patrick_e,"Getsy went from QB coach to OC, which seems like a natural progression but his HC called plays on offense, so he was more like 2 steps removed. Hackett was a glorified QB coach and frankly Getsy is doing better than him as far as I can tell. 
+
+At the end of the day, maybe we should stop getting excited every time a coach works with a HOF QB who was good before they worked together? Brady got McDaniels multiple chances (and Weiss, Mangini, O’Brien, Judge), Peyton got Gase in the HC convo, and this year we can see Rodgers getting Hackett and Getsy promotions. 
+
+Maybe, just maybe, we should hire coordinators that either develop talent or can win without a HOF QB. It’s similar to hiring college HCs to the NFL when 75% of their college job is recruiting. The only college HCs I would be interested in are second-their programs who win with scheme and buy-in instead of just being able to recruit the best talent. 
+
+I do like Eberflus. I like that he’s not calling plays and trying to control everything. He’s the CEO who sets the culture and delegates appropriately. I think Getsy is growing but the NFL is a harsh place to grow “on the job.” I don’t think we’ve seen enough from him (or this team) to really know if he has what it takes, but right now I’d categorize his work thus far as somewhere between “rough growing pains” and “doesn’t have it.” Hopefully he can show that it’s the former and we get some reason to be optimistic by the end of the year.",3.0,chibears,t3_y4qxy1,False,0.0,69,2022-10-15T12:10:49Z,chibears,0.0564206183869902
+49990,314273,314273,patrick_e,"Mustioher, you exist and mostly know the scheme and we have literally nobody else. You are a live human being. Congratulations.",6.0,chibears,t3_y4qxy1,False,0.0,69,2022-10-15T11:47:32Z,chibears,0.1998
+50429,316766,316766,qb1avellini,"This is hilarious. Some of the things he said are like, not even remotely true. We’re going to get absolutely destroyed because he’s actually treating us like we’re a real threat. We’re not.",5.0,nfl,t3_y889n1,False,0.0,:Bears: Bears,2022-10-19T12:45:28Z,chibears,-0.038941015625
+50430,316767,316767,qb1avellini,"I sincerely doubt it happens, but why not try Jenkins at LT? Is the spot he has experience in and wants to play anyways and is good in pass pro.",1.0,chibears,t3_y4w3m0,False,0.0,FTP,2022-10-15T17:03:21Z,chibears,0.3435999999999999
+50431,316768,316768,qb1avellini,Anyone watching Bama vs Tennessee? I live in between both schools and both are good teams. Great game so far.,4.0,chibears,t3_y4h1jm,False,0.0,FTP,2022-10-15T16:53:20Z,chibears,0.2572333333333333
+50432,316769,316769,qb1avellini,"IMO, it’s tough to say right now. I think you can make an argument that without more weapons and support, you can’t truly evaluate what we have in Fields. Just what he’s able to do on a shit team, which isn’t much. I think you can extrapolate that he’s probably not gonna be the guy who will win games here and there despite having nothing to work with. But how many QBs can in this league right now?
+
+I think you can also make an argument that despite the lack of weapons and support, he’s not showing the signs of consistent improvement to commit to him and know that he’s the answer.  
+
+The truth is likely somewhere in the middle. 
+
+In my totally uneducated and unimportant opinion, there’s no reason not to let him finish this year… see where we draft and go BPA. If that pick is a quarterback, then that’s what it is. I’d personally still like to see him next year in the same offense with better receivers and Oline and shorten his leash. If we don’t draft a QB, sign a guy like Dalton again who can at least be reliable.",0.0,chibears,t3_y3yu44,False,0.0,FTP,2022-10-14T12:15:38Z,chibears,0.0371518610827156
+50927,318579,318579,rIIIflex,"You really think they look at every player, in every snap, and judge them based on several different criteria even somewhat accurately and have the results out within a day? It’s impossible.
+
+They use it to push narratives more. Want to make a qb look worse? Give higher grades to the players around them. Fields for example has been playing horrible, but so has his line. PFF says his pass blocking has been great. So now it seems like fields is horrible despite a good system which is not true.",-3.0,nfl,t3_y89j2g,False,1.0,:Bears: Bears,2022-10-19T13:43:18Z,chibears,-0.0816003631591796
+50928,318580,318580,rIIIflex,"Ref city, let’s bribe!",1.0,nfl,t3_y8601g,False,0.0,:Bears: Bears,2022-10-19T13:25:30Z,chibears,-0.2714
+50929,318583,318583,rIIIflex,"Think Aaron Rodgers just sucks to be honest. He played terribly and exposed himself. He just can’t do it without a top line and receivers, which IMO just lumps him in with most QBs.",-12.0,nfl,t3_y6atgh,False,0.0,:Bears: Bears,2022-10-17T10:09:11Z,chibears,-0.0830074074074074
+50930,318584,318584,rIIIflex,And the refs tried to bail you out 3 times early in key moments with 3 early bogus 15 yard penalties. The packers now suck to the point where they can’t  even be bailed out by refs.,-2.0,nfl,t3_y5qkhk,False,1.0,:Bears: Bears,2022-10-16T16:00:51Z,chibears,-0.2202
+50931,318585,318585,rIIIflex,3rd huge and bullshit call in the favor of the packers only halfway through the second such a joke,6.0,nfl,t3_y5kdtc,False,0.0,:Bears: Bears,2022-10-16T13:10:35Z,chibears,0.34
+50932,318586,318586,rIIIflex,Yet another questionable call in the packers favor so funny,5.0,nfl,t3_y5kdtc,False,0.0,:Bears: Bears,2022-10-16T12:50:20Z,chibears,0.6418
+50933,318587,318587,rIIIflex,Packers getting bailed out by the refs and still can’t make anything happen lmao,8.0,nfl,t3_y5kdtc,False,0.0,:Bears: Bears,2022-10-16T12:34:27Z,chibears,0.5994
+51783,323296,323296,rocker27c23,Wilson clearly didn’t have his X-Factor active,4.0,nfl,t3_y6qmrj,False,0.0,:Bears: Bears,2022-10-17T22:01:54Z,chibears,0.6597
+51784,323297,323297,rocker27c23,Fr what did Melvin Gordon do? They played him when he was fumbling so that’s not the problem.,5.0,nfl,t3_y6qmrj,False,0.0,:Bears: Bears,2022-10-17T22:00:25Z,chibears,0.28295
+52534,330118,330118,sloowhand,"It happens so frequently he basically has to assume it’s going to happen every snap. 
+
+Also “He nEedS tO gEt riD oF tHe baLL fAStEr!” and throw it to fucking who? None of his looks are open by the time he has to start dodging defenders.",46.0,chibears,t3_y3yp4c,False,0.0,George Halas,2022-10-14T15:49:03Z,chibears,-0.0086
+52658,332963,332963,stevanovich,"Just looking at pass blocking grades around the league, here are the worst based off starters (below 30):  
+Kolone LAR: 18.0  
+Pryor IND: 21.5  
+Linderbaum BLT: 24.3  
+Wynn NE: 5.0  
+Little MIA: 1.5  
+Bradbury MIN: 20.4  
+Peat NO: 1.0  
+Williams CIN: 27.3  
+Johnson LAC: 27.9  
+
+
+So yeah there are a few guys ranking in single digits.",1.0,chibears,t3_y75yjt,False,0.0,Bear Logo,2022-10-18T10:15:11Z,chibears,-0.756
+52659,332964,332964,stevanovich,"I chose Philly's game this week for OLine:  
+Dickerson: 75.3  
+Kelce: 65.3  
+Johnson: 66.8  
+Seumalo: 57.1  
+Mailata: 73.9
+
+If you are ever curious about a player or game number, just let me know.",2.0,chibears,t3_y75yjt,False,0.0,Bear Logo,2022-10-18T09:41:14Z,chibears,0.3818
+52660,332965,332965,stevanovich,"He's had 5 kick returns and 5 punt returns on the year. 56.8 kick return and 27.6 punt return PFF grades. IMO, he just hasn't been good enough at either phase to be our main special teams guy.",5.0,chibears,t3_y75yjt,False,0.0,Bear Logo,2022-10-18T09:35:04Z,chibears,0.0252333333333333
+52661,332966,332966,stevanovich,"He still isn't the worst. 43 out of 48 pass blocking, still bad but not the worst pass blocking center.",2.0,chibears,t3_y75yjt,False,0.0,Bear Logo,2022-10-18T09:13:38Z,chibears,0.00135
+52662,332967,332967,stevanovich,"Mustipher was better, but his pass blocking grade is still suspect. Velus played well in limited snaps, but I wouldn't put him out to return kicks/punts again.",18.0,chibears,t3_y75yjt,False,0.0,Bear Logo,2022-10-18T09:08:44Z,chibears,-0.05955
+52663,332968,332968,stevanovich,"The O-Line passing grades for three of our starters aren't good so you've got to consider that as well:  
+Patrick : 7.5  
+Jones: 33.9  
+Mustipher: 46.3  
+Jenkins: 72.3  
+Borom: 79.4  
+
+
+You are right though, Justin is holding the ball too long too... but I think it's a combination of both these issues.",14.0,chibears,t3_y75yjt,False,0.0,Bear Logo,2022-10-18T08:03:03Z,chibears,-0.0395
+52664,332969,332969,stevanovich,"Between this last game and his 89.1 MIN game, he's raised his overall grade to 72.5. I'm optimistic that he might be a legit starter.",39.0,chibears,t3_y75yjt,False,0.0,Bear Logo,2022-10-18T07:57:26Z,chibears,0.1591
+55051,347287,347287,tjwoodard,drafting a QB now is risking their job more than rolling with Fields. Fields buys them time.,2.0,chibears,t3_y8e5bs,False,0.0,Bears,2022-10-19T19:36:38Z,chibears,-0.07955
+55052,347288,347288,tjwoodard,lol i know,2.0,chibears,t3_y840l4,False,0.0,Bears,2022-10-19T19:32:51Z,chibears,0.4215
+55053,347289,347289,tjwoodard,ahh i see. i was talking HC stuff but yeah.,1.0,chibears,t3_y840l4,False,0.0,Bears,2022-10-19T19:32:39Z,chibears,0.21075
+55054,347290,347290,tjwoodard,"it shouldn’t blow your mind. Bill didn’t say one thing about a Bears player that I couldn’t have said, and I spend maybe a couple hours a week on the Bears. He’s spent days on them, not to mention tape he’s already seen of their players when they were draft prospects or free agents. This is like when people were blown away that McVay named most the defensive starters in 2018, it’s par for the course and not the least bit unusual or impressive, regardless of how impressive BB is (very).",5.0,chibears,t3_y840l4,False,0.0,Bears,2022-10-19T16:27:30Z,chibears,0.25648125
+55055,347296,347296,tjwoodard,replica super bowl ring?,1.0,chibears,t3_y7aegn,False,0.0,Bears,2022-10-18T12:19:58Z,chibears,0.5994
+55056,347299,347299,tjwoodard,"anyone playing GB
+
+Bills
+
+Bucs (Hicks)
+
+Chargers (Mack)
+
+Texans (Lovie)
+
+Lions (Campbell)
+
+anyone playing KC",1.0,chibears,t3_y5ta2f,False,0.0,Bears,2022-10-17T08:42:43Z,chibears,0.3818
+55057,347301,347301,tjwoodard,that may hold some truth but how many teams on this schedule are dramatically over/underperforming? most of them are who we expected,1.0,chibears,t3_y5yhd6,False,0.0,Bears,2022-10-16T22:28:44Z,chibears,0.041375
+55058,347302,347302,tjwoodard,i’m actually not too upset with our corner situation,5.0,chibears,t3_y4z4kt,False,0.0,Bears,2022-10-15T17:31:59Z,chibears,0.2924
